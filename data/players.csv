@@ -1,0 +1,1938 @@
+year,nation,player,player_id,dob,local_team,role,surname,age,wc_played,odis,bat_avg,centuries,bowl_avg,fives
+1975,australia,Ian Chappell,4560,26 September 1943,South Australia,c,,,,7,51.14,0,,
+1975,australia,Greg Chappell,4558,7 August 1948,"South Australia,Queensland",vc,,,,7,71,0,29.8,0
+1975,australia,Ross Edwards,5124,1 December 1942,"New South Wales,Western Australia",,,,,4,22.25,0,,
+1975,australia,Gary Gilmour,5396,26 June 1951,New South Wales,,,,,2,,,18.33,0
+1975,australia,Dennis Lillee,6295,18 July 1949,Western Australia,,,,,3,13,0,26,0
+1975,australia,Rick McCosker,6547,11 December 1946,New South Wales,,,,,,,,,
+1975,australia,Ashley Mallett,6472,13 July 1945,South Australia,,,,,5,14,0,20.5,0
+1975,australia,Rod Marsh,6502,4 November 1947,Western Australia,wk,,,,7,14,0,,
+1975,australia,Jeff Thomson,7946,16 August 1950,Queensland,,,,,1,4,0,33,0
+1975,australia,Alan Turner,7989,23 July 1950,New South Wales,,,,,,,,,
+1975,australia,Max Walker,8137,12 September 1948,Victoria,,,,,3,20,0,24.5,0
+1975,australia,Doug Walters,8151,21 December 1945,New South Wales,,,,,6,19,0,43.33,0
+1975,east_africa,Harilal Shah,23952,14 April 1943,,c,,,,,,,,
+1975,east_africa,Frasat Ali,23950,31 July 1949,,,,,,,,,,
+1975,east_africa,Zulfiqar Ali,23977,1 July 1947,,,,,,,,,,
+1975,east_africa,Yunus Badat,23976,1 July 1943,,,,,,,,,,
+1975,east_africa,Hamish McLeod,23960,,,wk,,,,,,,,
+1975,east_africa,Praful Mehta,23962,1 July 1941,,wk,,,,,,,,
+1975,east_africa,John Nagenda,23964,25 April 1938,,,,,,,,,,
+1975,east_africa,Parbhu Nana,23965,17 August 1933,,,,,,,,,,
+1975,east_africa,Don Pringle,23969,1 May 1932,,,,,,,,,,
+1975,east_africa,Mehmood Quaraishy,23961,4 February 1942,,,,,,,,,,
+1975,east_africa,Ramesh Sethi,23972,4 September 1941,MCC,,,,,,,,,
+1975,east_africa,Jawahir Shah,23956,1 July 1942,,,,,,,,,,
+1975,east_africa,Shiraz Sumar,23974,1 July 1950,,,,,,,,,,
+1975,east_africa,Samuel Walusimbi,24010,1 July 1948,,,,,,,,,,
+1975,england,Mike Denness,11870,1 December 1940,Kent,c,,,,7,21.57,0,,
+1975,england,Dennis Amiss,8535,7 April 1943,Warwickshire,,,,,7,52.71,2,,
+1975,england,Geoff Arnold,8566,3 September 1944,Surrey,,,,,10,15,0,16.43,0
+1975,england,Keith Fletcher,12854,20 May 1944,Essex,,,,,13,37.1,0,,
+1975,england,Tony Greig,13463,6 October 1946,Sussex,,,,,12,29.85,0,52.57,0
+1975,england,Frank Hayes,14106,6 December 1946,Lancashire,,,,,3,19,0,,
+1975,england,John Jameson,15468,30 June 1941,Warwickshire,wk,,,,1,28,0,,
+1975,england,Alan Knott,15917,9 April 1946,Kent,wk,,,,10,27.25,0,,
+1975,england,Peter Lever,16262,17 September 1940,Lancashire,,,,,5,,0,67,0
+1975,england,Chris Old,18256,22 December 1948,Yorkshire,,,,,7,16.2,0,24.69,0
+1975,england,John Snow,20282,13 October 1941,Sussex,,,,,6,7,0,20.87,0
+1975,england,Derek Underwood,22149,8 June 1945,Kent,,,,,7,20,0,27,0
+1975,england,Barry Wood,22498,26 December 1942,Lancashire,,,,,1,19,0,10,0
+1975,india,Srinivasaraghavan Venkataraghavan,35656,21 April 1945,Tamilnadu,c,,,,1,,0,58,0
+1975,india,Syed Abid Ali,26169,9 September 1941,Hyderabad,,,,,2,11.5,0,72,0
+1975,india,Mohinder Amarnath,26225,24 September 1950,Delhi,,,,,,,,,
+1975,india,Bishen Singh Bedi,26875,25 September 1946,Delhi,,,,,1,0,0,34,0
+1975,india,Farokh Engineer,28624,25 February 1938,Bombay,,,,,2,18,0,,
+1975,india,Anshuman Gaekwad,28754,23 September 1952,Baroda,,,,,,,,,
+1975,india,Sunil Gavaskar,28794,10 July 1949,Bombay,,,,,2,24,0,,
+1975,india,Karsan Ghavri,28813,28 February 1951,Bombay,,,,,,,,,
+1975,india,Madan Lal,30873,20 March 1951,Delhi,,,,,2,5,0,33,0
+1975,india,Brijesh Patel,32231,24 November 1952,Karnataka,,,,,2,47,0,,
+1975,india,Eknath Solkar,34085,19 March 1948,Bombay,,,,,2,1.5,0,34,0
+1975,india,Gundappa Viswanath,35712,12 February 1949,Karnataka,,,,,2,18,0,,
+1975,new_zealand,Glenn Turner,38622,26 May 1947,Otago,c,,,,5,11.75,0,,
+1975,new_zealand,Lance Cairns,36595,10 October 1949,Otago,,,,,2,,0,96,0
+1975,new_zealand,Richard Collinge,36606,2 April 1946,"Central Districts,Wellington",,,,,4,6.5,0,47.66,0
+1975,new_zealand,Barry Hadlee,37220,14 December 1941,Canterbury,,,,,,,,,
+1975,new_zealand,Dayle Hadlee,37222,6 January 1948,Canterbury,,,,,3,6,0,19.33,0
+1975,new_zealand,Richard Hadlee,37224,3 July 1951,Canterbury,,,,,4,26,0,65,0
+1975,new_zealand,Brian Hastings,37243,23 March 1940,Wellington,,,,,5,9.5,0,,
+1975,new_zealand,Geoff Howarth,37254,29 March 1951,Auckland,,,,,,,,,
+1975,new_zealand,Hedley Howarth,37255,25 December 1943,Auckland,,,,,3,6,0,32.33,0
+1975,new_zealand,Brian McKechnie,37707,6 November 1953,Otago,,,,,,,,,
+1975,new_zealand,John Morrison,37731,27 August 1947,Wellington,,,,,,,,,
+1975,new_zealand,John Parker,38113,21 February 1951,Northern Districts,c,,,,1,14,0,,
+1975,new_zealand,Ken Wadsworth,38735,30 November 1946,Central Districts,wk,,,,5,36,1,,
+1975,pakistan,Asif Iqbal,39010,6 June 1943,Karachi,c,,,,3,27,0,22.25,0
+1975,pakistan,Zaheer Abbas,43695,24 July 1947,Karachi,,,,,2,88,0,,
+1975,pakistan,Wasim Bari,43549,23 March 1948,Karachi,wk,,,,3,21,0,,
+1975,pakistan,Imran Khan,40560,25 November 1952,PIA,,,,,2,,,26,0
+1975,pakistan,Majid Khan,41919,28 September 1946,Rawalpindi,vc,,,,3,39,1,22,0
+1975,pakistan,Naseer Malik,42055,1 February 1950,Karachi,,,,,,,,,
+1975,pakistan,Asif Masood,39012,23 January 1946,PIA,,,,,3,,0,34,0
+1975,pakistan,Javed Miandad,40879,12 June 1957,Habib Bank,,,,,,,,,
+1975,pakistan,Pervez Mir,42323,24 September 1953,Lahore,,,,,,,,,
+1975,pakistan,Mushtaq Mohammad,41318,22 November 1943,Karachi,,,,,3,52,0,,
+1975,pakistan,Sadiq Mohammad,42601,3 May 1945,Karachi,,,,,3,30,0,,
+1975,pakistan,Sarfraz Nawaz,42630,1 December 1948,Lahore,,,,,3,17,0,15.28,0
+1975,pakistan,Wasim Raja,43553,3 July 1952,Lahore,,,,,3,4,0,,
+1975,sri_lanka,Anura Tennekoon,50742,29 October 1946,SSC,c,,,,,,,,
+1975,sri_lanka,Ajit de Silva,48458,12 December 1952,BCAC,,,,,,,,,
+1975,sri_lanka,Somachandra de Silva,48454,11 June 1942,BCAC,,,,,,,,,
+1975,sri_lanka,Ranjit Fernando,48804,22 February 1944,NCC,wk,,,,,,,,
+1975,sri_lanka,David Heyn,49131,26 June 1945,NCC,,,,,,,,,
+1975,sri_lanka,Lalith Kaluperuma,49487,25 June 1949,BCAC,,,,,,,,,
+1975,sri_lanka,Duleep Mendis,49629,25 August 1952,SSC,,,,,,,,,
+1975,sri_lanka,Tony Opatha,49849,5 August 1947,CCC,,,,,,,,,
+1975,sri_lanka,Mevan Pieris,49861,16 February 1946,SSC,,,,,,,,,
+1975,sri_lanka,Anura Ranasinghe,50241,13 October 1956,BRC,,,,,,,,,
+1975,sri_lanka,Michael Tissera,50745,23 March 1939,CCC,,,,,,,,,
+1975,sri_lanka,Bandula Warnapura,50835,1 March 1953,"BCAC,BRC",,,,,,,,,
+1975,sri_lanka,Sunil Wettimuny,50840,2 February 1949,SSC,,,,,,,,,
+1975,west_indies,Clive Lloyd,52345,31 August 1944,Guyana,c,,,,2,31,0,12.5,0
+1975,west_indies,Keith Boyce,51229,11 October 1943,Barbados,,,,,2,7,0,43.5,0
+1975,west_indies,Roy Fredericks,51797,11 November 1942,Guyana,,,,,2,54.5,1,,
+1975,west_indies,Lance Gibbs,51883,29 September 1934,Guyana,,,,,2,,0,21,0
+1975,west_indies,Gordon Greenidge,51901,1 May 1951,Barbados,,,,,,,,,
+1975,west_indies,Vanburn Holder,52061,10 October 1945,Barbados,,,,,2,10,0,24.66,0
+1975,west_indies,Bernard Julien,52208,13 March 1950,Trinidad & Tobago,,,,,2,0,0,25,0
+1975,west_indies,Alvin Kallicharran,52285,21 March 1949,Guyana,,,,,2,79,0,,
+1975,west_indies,Rohan Kanhai,52287,26 December 1935,Guyana,,,,,2,55,0,,
+1975,west_indies,Deryck Murray,52441,20 May 1943,Trinidad & Tobago,wk,,,,1,11,0,,
+1975,west_indies,Viv Richards,52812,7 March 1952,Leeward Islands,,,,,,,,,
+1975,west_indies,Andy Roberts,52817,29 January 1951,Leeward Islands,,,,,,,,,
+1979,australia,Kim Hughes,5724,26 January 1954,Western Australia,c,,,,4,1.66,0,,
+1979,australia,Allan Border,4174,27 July 1955,Queensland,,,,,2,11,0,,0
+1979,australia,Gary Cosier,4629,25 April 1953,South Australia,,,,,4,56,0,13.83,1
+1979,australia,Rick Darling,4900,1 May 1957,South Australia,,,,,3,18,0,,
+1979,australia,Geoff Dymock,4999,21 July 1945,Queensland,,,,,5,3,0,33,0
+1979,australia,Andrew Hilditch,5656,20 May 1956,South Australia,,,,,1,10,0,,
+1979,australia,Rodney Hogg,5685,5 March 1951,South Australia,,,,,1,4,0,20,0
+1979,australia,Alan Hurst,5732,15 July 1950,Victoria,,,,,3,,0,20.5,0
+1979,australia,Trevor Laughlin,6261,30 January 1951,Victoria,,,,,2,4,0,22.33,0
+1979,australia,Jeff Moss,6654,29 June 1947,Victoria,,,,,,,,,
+1979,australia,Graeme Porter,7135,18 March 1955,Western Australia,,,,,,,,,
+1979,australia,Kevin Wright ,8264,27 December 1953,Western Australia,wk,,,,,,,,
+1979,australia,Graham Yallop,8448,7 October 1952,Victoria,,,,,4,9.33,0,,
+1979,canada,Bryan Mauricette,23780,4 September 1946,"Toronto,Windward Islands",c/wk,,,,,,,,
+1979,canada,Charles Baksh,23762,15 March 1940,Winnipeg,,,,,,,,,
+1979,canada,Robert Callender,23764,2 November 1950,Montreal,,,,,,,,,
+1979,canada,Christopher Chappell,23765,17 July 1955,Toronto,,,,,,,,,
+1979,canada,Franklyn Dennis,23768,26 September 1947,Toronto,,,,,,,,,
+1979,canada,Cornelius Henry,23773,16 September 1956,Ottawa,,,,,,,,,
+1979,canada,Tariq Javed,23793,12 June 1949,Ottawa Karachi,,,,,,,,,
+1979,canada,Cecil Marshall,23779,13 September 1939,Ottawa,,,,,,,,,
+1979,canada,Jitendra Patel,23782,26 November 1945,"London,Baroda",,,,,,,,,
+1979,canada,Glenroy Sealy,23788,11 June 1940,Toronto Barbados,,,,,,,,,
+1979,canada,Martin Stead,23792,1 June 1958,Vancouver,,,,,,,,,
+1979,canada,John Valentine,23794,20 September 1954,Ottawa,,,,,,,,,
+1979,canada,John Vaughan,23795,8 June 1945,Ottawa,,,,,,,,,
+1979,england,Mike Brearley,9208,28 April 1942,Middlesex,c,,,,9,25.75,0,,
+1979,england,Ian Botham,56362,24 November 1955,Somerset,,,,,,,,,
+1979,england,Geoffrey Boycott,9187,21 October 1940,Yorkshire,,,,,12,18.33,0,,
+1979,england,Phil Edmonds,12486,8 March 1951,Middlesex,,,,,7,4.5,0,19.62,0
+1979,england,Mike Gatting,13340,6 June 1957,Middlesex,,,,,3,8.33,0,,0
+1979,england,Graham Gooch,13399,23 July 1953,Essex,,,,,7,26.16,0,15.5,0
+1979,england,David Gower,13418,1 April 1957,Leicestershire,,,,,6,73.33,1,,
+1979,england,Mike Hendrick,14159,22 October 1948,Derbyshire,,,,,10,2.5,0,20.28,0
+1979,england,Wayne Larkins,16203,22 November 1953,Northamptonshire,,,,,,,,,
+1979,england,Geoff Miller,17025,8 September 1952,Derbyshire,,,,,7,4.4,0,28.33,0
+1979,england,Chris Old,18256,22 December 1948,Yorkshire,,,,,21,24.07,0,21.32,0
+1979,england,Derek Randall,19327,24 February 1951,Nottinghamshire,,,,,11,35.88,0,,
+1979,england,Bob Taylor,21494,17 July 1941,Derbyshire,wk,,,,11,18,0,,
+1979,england,Bob Willis,22462,30 May 1949,Warwickshire,,,,,11,16,0,20.53,0
+1979,india,Srinivas Venkataraghavan,35656,21 April 1945,Tamil Nadu,c,,,,9,9.33,0,74.75,0
+1979,india,Mohinder Amarnath,26225,24 September 1950,Delhi,,,,,8,28.75,0,34.66,0
+1979,india,Bishan Singh Bedi,26875,25 September 1946,Delhi,,,,,7,4,0,32.28,0
+1979,india,Anshuman Gaekwad,28754,23 September 1952,Baroda,,,,,7,33.8,0,,
+1979,india,Sunil Gavaskar,28794,10 July 1949,Bombay,,,,,6,41.25,0,10,0
+1979,india,Karsan Ghavri,492924,28 February 1951,Bombay,,,,,,,,,
+1979,india,Kapil Dev,30028,6 January 1959,Haryana,,,,,3,18,0,26.75,0
+1979,india,Surinder Khanna ,26226,3 June 1956,Delhi,wk,,,,3,33.33,0,,
+1979,india,Brijesh Patel,32231,24 November 1952,Karnataka,,,,,7,36,0,,
+1979,india,Dilip Vengsarkar,35654,6 April 1956,Bombay,,,,,4,24,0,,
+1979,india,Gundappa Viswanath,35712,12 February 1949,Karnataka,,,,,9,21.14,0,,
+1979,new_zealand,Mark Burgess,36314,17 July 1944,Auckland,c,,,,9,13.28,0,10,0
+1979,new_zealand,Lance Cairns,36595,10 October 1949,Otago,,,,,8,35.6,0,29.09,1
+1979,new_zealand,Ewen Chatfield,36603,3 July 1950,Wellington,,,,,,,,,
+1979,new_zealand,Jeremy Coney,36609,21 June 1952,Wellington,,,,,,,,,
+1979,new_zealand,Bruce Edgar,36951,23 November 1956,Wellington,,,,,1,31,0,,
+1979,new_zealand,Richard Hadlee,37224,3 July 1951,Canterbury,,,,,13,11.57,0,39.45,0
+1979,new_zealand,Geoff Howarth,37254,29 March 1951,Auckland,,,,,8,27.14,0,,0
+1979,new_zealand,Warren Lees,37605,19 March 1952,Otago,wk,,,,,,,,
+1979,new_zealand,Brian McKechnie,37707,6 November 1953,Otago,,,,,6,12,0,40.6,0
+1979,new_zealand,John Morrison,37731,27 August 1947,Wellington,,,,,6,18.5,0,,
+1979,new_zealand,Warren Stott,38405,8 December 1946,Auckland,,,,,,,,,
+1979,new_zealand,Gary Troup,38617,3 October 1952,Auckland,,,,,1,,,29,0
+1979,new_zealand,Glenn Turner,38622,26 May 1947,Otago,,,,,14,65.33,2,,
+1979,new_zealand,John Wright,38757,5 July 1954,Northern Districts,,,,,2,24,0,,
+1979,pakistan,Asif Iqbal,39010,6 June 1943,Karachi,c,,,,6,67,0,31.57,0
+1979,pakistan,Zaheer Abbas,43695,24 July 1947,Karachi,,,,,10,38.66,0,,
+1979,pakistan,Sikander Bakht,42661,25 August 1957,Karachi,,,,,4,16,0,20.71,0
+1979,pakistan,Wasim Bari,43549,23 March 1948,Karachi,wk,,,,16,11.8,0,,
+1979,pakistan,Imran Khan,40560,25 November 1952,PIA,,,,,8,12.8,0,27.55,0
+1979,pakistan,Majid Khan,41919,28 September 1946,Rawalpindi,,,,,10,45.6,1,23.33,0
+1979,pakistan,Javed Miandad,40879,12 June 1957,Habib Bank,,,,,12,28.44,0,37.2,0
+1979,pakistan,Sadiq Mohammad,42601,3 May 1945,Karachi,,,,,13,17.38,0,13,0
+1979,pakistan,Sarfraz Nawaz,42630,1 December 1948,Lahore,,,,,13,10.6,0,17.29,0
+1979,pakistan,Mudassar Nazar,41308,6 April 1956,Lahore,,,,,6,26.16,0,31.75,0
+1979,pakistan,Wasim Raja,43553,3 July 1952,Lahore,,,,,14,20.54,0,19.42,0
+1979,pakistan,Haroon Rashid,40375,25 March 1953,Karachi,,,,,3,8.66,0,,
+1979,sri_lanka,Anura Tennekoon,50742,29 October 1946,SSC,c,,,,3,26,0,,
+1979,sri_lanka,Ajit de Silva,48458,12 December 1952,BCAC,,,,,1,0,0,,0
+1979,sri_lanka,Somachandra de Silva,48454,11 June 1942,BCAC,,,,,3,23.5,0,38.5,0
+1979,sri_lanka,Stanley de Silva,48453,17 November 1956,,,,,,,,,,
+1979,sri_lanka,Roy Dias,48470,18 October 1952,CCC,,,,,,,,,
+1979,sri_lanka,Ranjan Gunatilleke,49081,15 August 1951,,,,,,,,,,
+1979,sri_lanka,Sunil Jayasinghe,49207,15 July 1955,BCAC,wk,,,,,,,,
+1979,sri_lanka,Ranjan Madugalle,49623,22 April 1959,FFCC,,,,,,,,,
+1979,sri_lanka,Duleep Mendis,49629,25 August 1952,SSC,,,,,2,40,0,,
+1979,sri_lanka,Tony Opatha,49849,5 August 1947,CCC,,,,,3,5.5,0,59,0
+1979,sri_lanka,Sudath Pasqual,49852,16 October 1961,RCC,,,,,,,,,
+1979,sri_lanka,Bandula Warnapura,50835,1 March 1953,"BCAC,BRC",vc,,,,3,13.66,0,27.33,0
+1979,sri_lanka,Sunil Wettimuny,50840,2 February 1949,SSC,,,,,1,,0,,
+1979,west_indies,Clive Lloyd,52345,31 August 1944,Guyana,c,,,,12,45.12,1,29.71,0
+1979,west_indies,Colin Croft,51485,15 March 1953,"Guyana,",,,,,2,,0,15.66,0
+1979,west_indies,Joel Garner,51876,16 December 1952,Barbados,,,,,2,13,0,9.33,0
+1979,west_indies,Gordon Greenidge,51901,1 May 1951,Barbados,,,,,9,26.11,0,,
+1979,west_indies,Desmond Haynes,52047,15 February 1956,Barbados,,,,,1,148,1,,
+1979,west_indies,Michael Holding,52063,16 February 1954,Jamaica,,,,,3,9.5,0,49,0
+1979,west_indies,Alvin Kallicharran,52285,21 March 1949,Guyana,,,,,11,42,0,,
+1979,west_indies,Collis King,52290,11 June 1951,Barbados,,,,,4,7.33,0,,0
+1979,west_indies,Deryck Murray,52441,20 May 1943,Trinidad and Tobago,wk,,,,12,35.66,0,,
+1979,west_indies,Viv Richards,52812,7 March 1952,Leeward Islands,,,,,11,44.62,1,16.25,0
+1979,west_indies,Andy Roberts,52817,29 January 1951,Leeward Islands,,,,,11,37,0,18.82,0
+1979,west_indies,Larry Gomes,51891,13 July 1953,Trinidad and Tobago,,,,,1,7,0,,0
+1979,west_indies,Faoud Bacchus,51208,31 January 1954,Guyana,,,,,2,0,0,,
+1979,west_indies,Malcolm Marshall,52419,18 October 1958,Barbados,,,,,,,,,
+1983,australia,Kim Hughes,5724,26 January 1954,Western Australia,c,,,,62,22.82,0,,
+1983,australia,Allan Border,4174,27 July 1955,Queensland,,,,,60,30.46,1,47.57,0
+1983,australia,Trevor Chappell,4561,12 October 1952,New South Wales,,,,,16,10,0,29.33,0
+1983,australia,Tom Hogan,5679,23 September 1956,Western Australia,,,,,1,4,0,21,0
+1983,australia,Rodney Hogg,5685,5 March 1951,South Australia,,,,,27,3.83,0,28.12,0
+1983,australia,David Hookes,5696,3 May 1955,South Australia,,,,,15,27.69,0,,0
+1983,australia,Geoff Lawson,6272,7 December 1957,New South Wales,,,,,25,14.66,0,33.92,0
+1983,australia,Dennis Lillee,6295,18 July 1949,Western Australia,,,,,54,9.79,0,19.62,1
+1983,australia,Ken MacLeay,6453,2 April 1959,Western Australia,,,,,1,3,0,39,0
+1983,australia,Rod Marsh,6502,4 November 1947,Western Australia,wk,,,,71,16.21,0,,
+1983,australia,Jeff Thomson,7946,16 August 1950,Queensland,,,,,43,8.04,0,32.36,0
+1983,australia,Kepler Wessels,47884,14 September 1957,Queensland,,,,,8,35.57,0,,
+1983,australia,Graeme Wood,8251,6 November 1956,Western Australia,,,,,41,31.97,1,,
+1983,australia,Graham Yallop,8448,7 October 1952,Victoria,,,,,14,28.9,0,,0
+1983,england,Bob Willis,22462,30 May 1949,Warwickshire,c,,,,46,12,0,24.45,0
+1983,england,Paul Allott,8526,14 September 1956,Lancashire,,,,,3,2.5,0,17,0
+1983,england,Ian Botham,56362,24 November 1955,Somerset,,,,,,,,,
+1983,england,Norman Cowans,10839,17 April 1961,Middlesex,,,,,6,2,0,38.16,0
+1983,england,Graham Dilley,11893,18 May 1959,Kent,,,,,11,1,0,31.4,0
+1983,england,Graeme Fowler,12884,20 April 1957,Lancashire,,,,,1,0,0,,
+1983,england,Mike Gatting,13340,6 June 1957,Middlesex,,,,,17,38.66,0,,0
+1983,england,Ian Gould,13414,19 August 1957,Sussex,,,,,7,14.4,0,,
+1983,england,David Gower,13418,1 April 1957,Leicestershire,,,,,47,35.92,5,,0
+1983,england,Trevor Jesty,15511,2 June 1948,Hampshire,,,,,8,31.5,0,93,0
+1983,england,Allan Lamb,16178,20 June 1954,Northamptonshire,,,,,13,54.36,2,,
+1983,england,Vic Marks,16899,25 June 1955,Somerset,,,,,9,14,0,26.75,0
+1983,england,Derek Randall,19327,24 February 1951,Nottinghamshire,,,,,38,27.06,0,2,0
+1983,england,Chris Tavaré,21466,27 October 1954,Kent,,,,,16,32.64,0,,0
+1983,india,Kapil Dev,30028,6 January 1959,Haryana,c,,,,29,20.57,0,32.86,0
+1983,india,Mohinder Amarnath,26225,24 September 1950,Delhi,,,,,18,19.09,0,43.56,0
+1983,india,Kirti Azad,26325,2 January 1959,Delhi,,,,,8,15.75,0,26,0
+1983,india,Roger Binny,26948,19 July 1955,Karnataka,,,,,15,17.92,0,34.2,0
+1983,india,Sunil Gavaskar,28794,10 July 1949,Bombay,,,,,28,25.12,0,21,0
+1983,india,Syed Kirmani,30116,29 December 1949,Karnataka,wk,,,,25,22.72,0,,
+1983,india,Madan Lal Ravishankar,30873,20 March 1951,Delhi,,,,,17,21.2,0,29.36,0
+1983,india,Sandeep Patil,32283,18 August 1956,Bombay,,,,,21,26.05,0,35.2,0
+1983,india,Balwinder Sandhu,33816,3 August 1956,Bombay,,,,,4,,,86.5,0
+1983,india,Yashpal Sharma,36075,11 August 1954,Punjab,,,,,24,33.73,0,173,0
+1983,india,Ravi Shastri,33975,27 May 1962,Bombay,,,,,8,24.5,0,156,0
+1983,india,Krishnamachari Srikkanth,34103,21 December 1959,Tamil Nadu,,,,,9,40.22,0,,0
+1983,india,Sunil Valson,35650,2 October 1958,Delhi,,,,,,,,,
+1983,india,Dilip Vengsarkar,35654,6 April 1956,Bombay,,,,,31,28.03,0,,0
+1983,new_zealand,Geoff Howarth,37254,29 March 1951,Auckland,c,,,,36,23.75,0,54,0
+1983,new_zealand,John Bracewell,36306,15 April 1958,Auckland,,,,,,,,,
+1983,new_zealand,Lance Cairns,36595,10 October 1949,Otago,,,,,38,18.92,0,31.26,1
+1983,new_zealand,Ewen Chatfield,36603,3 July 1950,Wellington,,,,,24,9.5,0,29.92,1
+1983,new_zealand,Jeremy Coney,36609,21 June 1952,Wellington,,,,,28,28.52,0,41.7,0
+1983,new_zealand,Jeff Crowe,36620,14 September 1958,Auckland,,,,,6,31.8,0,,
+1983,new_zealand,Martin Crowe,36622,22 September 1962,Central Districts,,,,,3,5,0,4.5,0
+1983,new_zealand,Bruce Edgar,36951,23 November 1956,Wellington,,,,,30,41.8,1,,
+1983,new_zealand,Richard Hadlee,37224,3 July 1951,Canterbury,,,,,45,18.52,0,27.93,2
+1983,new_zealand,Warren Lees,37605,19 March 1952,Otago,wk,,,,17,11.33,0,,
+1983,new_zealand,Ian Smith,38396,28 February 1957,Central Districts,wk,,,,13,11.28,0,,
+1983,new_zealand,Martin Snedden,38398,23 November 1958,Auckland,,,,,23,9.33,0,27.58,0
+1983,new_zealand,Glenn Turner,38622,26 May 1947,Otago,,,,,25,58.94,2,,
+1983,new_zealand,John Wright,38757,5 July 1954,Northern Districts,,,,,33,34.18,0,,
+1983,pakistan,Imran Khan,40560,25 November 1952,PIA,c,,,,34,31.2,0,22.88,0
+1983,pakistan,Abdul Qadir,38973,15 September 1955,Habib Bank,,,,,,,,,
+1983,pakistan,Ijaz Faqih,40556,24 March 1956,MCB,,,,,12,7.87,0,71,0
+1983,pakistan,Mansoor Akhtar,41263,6 September 1962,United Bank,,,,,18,18.9,0,,0
+1983,pakistan,Mohsin Khan,41303,15 March 1955,Habib Bank,,,,,21,33.66,2,2,0
+1983,pakistan,Mudassar Nazar,41308,6 April 1956,Lahore,,,,,32,27.58,0,28.37,0
+1983,pakistan,Rashid Khan,42421,15 December 1959,,,,,,4,,0,81.5,0
+1983,pakistan,Sarfraz Nawaz,42630,1 December 1948,Lahore,,,,,28,13,0,21.46,0
+1983,pakistan,Shahid Mahboob,42644,25 August 1962,Karachi,,,,,1,,,55,0
+1983,pakistan,Tahir Naqqash,43271,6 June 1959,Lahore,,,,,17,16.75,0,89.33,0
+1983,pakistan,Wasim Bari,43549,23 March 1948,Karachi,wk,,,,34,11.88,0,,
+1983,pakistan,Wasim Raja,43553,3 July 1952,Lahore,,,,,38,25.18,0,24.73,0
+1983,pakistan,Zaheer Abbas,43695,24 July 1947,Karachi,,,,,36,50.06,6,25.5,0
+1983,pakistan,Javed Miandad,40879,12 June 1957,Habib Bank,,,,,39,38.88,2,41.8,0
+1983,sri_lanka,Duleep Mendis,49629,25 August 1952,SSC,c,,,,12,28.7,0,,
+1983,sri_lanka,Guy de Alwis,48446,15 February 1959,SSC,wk,,,,,,,,
+1983,sri_lanka,Ashantha de Mel,48447,9 May 1959,,,,,,8,17.2,0,31.22,0
+1983,sri_lanka,Somachandra de Silva,48454,11 June 1942,BCAC,,,,,12,12.14,0,40.23,0
+1983,sri_lanka,Roy Dias,48470,18 October 1952,CCC,,,,,10,55.4,2,,0
+1983,sri_lanka,Vinothen John,49213,27 May 1960,SCC,,,,,3,,,60.5,0
+1983,sri_lanka,Brendon Kuruppu,49368,5 January 1962,BRC,,,,,,,,,
+1983,sri_lanka,Ranjan Madugalle,49623,22 April 1959,NCC,,,,,9,20.85,0,,
+1983,sri_lanka,Arjuna Ranatunga,50244,1 December 1963,SCC,,,,,4,34,0,104,0
+1983,sri_lanka,Rumesh Ratnayake,50249,2 January 1964,NCC,,,,,1,,0,,0
+1983,sri_lanka,Athula Samarasekera,50421,5 August 1961,CCC,,,,,,,,,
+1983,sri_lanka,Sidath Wettimuny,50844,12 August 1956,,,,,,8,46.85,0,,0
+1983,west_indies,Clive Lloyd,52345,31 August 1944,Guyana,c,,,,44,40.33,1,30,0
+1983,west_indies,Faoud Bacchus,51208,31 January 1954,Guyana,,,,,19,20.94,0,,
+1983,west_indies,Wayne Daniel,51639,16 January 1956,Barbados,,,,,1,,0,35,0
+1983,west_indies,Winston Davis,51643,18 September 1958,Windward Islands,,,,,,,,,
+1983,west_indies,Jeff Dujon,51657,28 May 1956,Jamaica,wk,,,,12,19.14,0,,
+1983,west_indies,Joel Garner,51876,16 December 1952,Barbados,,,,,36,5.85,0,20.49,1
+1983,west_indies,Larry Gomes,51891,13 July 1953,Trinidad and Tobago,,,,,18,19.9,0,15.66,0
+1983,west_indies,Gordon Greenidge,51901,1 May 1951,Barbados,,,,,38,46.26,3,45,0
+1983,west_indies,Desmond Haynes,52047,15 February 1956,Barbados,,,,,36,29.77,1,,
+1983,west_indies,Michael Holding,52063,16 February 1954,Jamaica,,,,,35,4.71,0,19.6,0
+1983,west_indies,Gus Logie,52347,28 September 1960,Trinidad and Tobago,,,,,4,,,,
+1983,west_indies,Malcolm Marshall,52419,18 October 1958,Barbados,,,,,13,20,0,25.87,0
+1983,west_indies,Viv Richards,52812,7 March 1952,Leeward Islands,,,,,42,51.47,3,36.85,0
+1983,west_indies,Andy Roberts,52817,29 January 1951,Leeward Islands,,,,,42,8.68,0,19.37,1
+1983,zimbabwe,Duncan Fletcher,55424,27 September 1948,,c,,,,,,,,
+1983,zimbabwe,Robin Brown,55275,11 March 1951,,,,,,,,,,
+1983,zimbabwe,Iain Butchart,55280,9 May 1960,,,,,,,,,,
+1983,zimbabwe,Kevin Curran,55324,7 September 1959,,,,,,,,,,
+1983,zimbabwe,Jack Heron,55485,8 November 1948,,,,,,,,,,
+1983,zimbabwe,Graeme Hick,14187,23 May 1966,,,,,,,,,,
+1983,zimbabwe,Vince Hogg,55493,3 July 1952,,,,,,,,,,
+1983,zimbabwe,David Houghton,55497,23 June 1957,,wk,,,,,,,,
+1983,zimbabwe,Grant Paterson,55684,9 June 1960,,,,,,,,,,
+1983,zimbabwe,Gerald Peckover,55692,2 June 1955,,,,,,,,,,
+1983,zimbabwe,Andrew Pycroft,55700,6 June 1956,,,,,,,,,,
+1983,zimbabwe,Peter Rawson,55710,25 May 1957,,,,,,,,,,
+1983,zimbabwe,Ali Shah,55680,7 August 1959,,,,,,,,,,
+1983,zimbabwe,John Traicos,55802,17 May 1947,,,,,,,,,,
+1987,australia,Allan Border,4174,27 July 1955,Queensland,c,,,,147,32.11,3,35.39,0
+1987,australia,David Boon,4169,29 December 1960,Tasmania,,,,,37,30.68,1,,0
+1987,australia,Greg Dyer,4996,16 March 1959,New South Wales,wk,,,,4,51,0,,
+1987,australia,Dean Jones,6044,24 March 1961,Victoria,,,,,41,40.12,3,,0
+1987,australia,Geoff Marsh,6499,31 December 1958,Western Australia,,,,,30,34.93,2,,0
+1987,australia,Tim May,6534,26 January 1962,South Australia,,,,,,,,,
+1987,australia,Craig McDermott,6551,14 April 1965,Queensland,,,,,39,9.23,0,37,0
+1987,australia,Tom Moody,6628,2 October 1965,Western Australia,,,,,,,,,
+1987,australia,Simon O'Donnell,6995,26 January 1963,Victoria,,,,,30,21.57,0,32.27,0
+1987,australia,Bruce Reid,7319,14 March 1963,Western Australia,,,,,29,4,0,29.31,1
+1987,australia,Peter Taylor,7926,22 August 1956,New South Wales,,,,,6,2,0,32.14,0
+1987,australia,Mike Veletta,8105,30 October 1963,Western Australia,,,,,,,,,
+1987,australia,Steve Waugh,8192,2 June 1965,Somerset,,,,,32,38.23,0,28.05,0
+1987,australia,Andrew Zesers,8466,11 March 1967,South Australia,,,,,,,,,
+1987,england,Mike Gatting,13340,6 June 1957,Middlesex,c,,,,57,28,1,37.28,0
+1987,england,Bill Athey,8581,27 September 1957,Gloucestershire,,,,,13,42.33,2,,
+1987,england,Chris Broad,9230,29 September 1957,Nottinghamshire,,,,,10,41.6,0,,
+1987,england,Phillip DeFreitas,11865,18 February 1966,Leicestershire,,,,,9,15.33,0,17.86,0
+1987,england,Paul Downton,11931,4 April 1957,Middlesex,wk,,,,17,19.3,0,,
+1987,england,John Emburey,12514,20 August 1952,Middlesex,,,,,26,14.07,0,35.53,0
+1987,england,Neil Foster,12879,6 May 1962,Essex,,,,,24,9.42,0,36.12,0
+1987,england,Graham Gooch,13399,23 July 1953,Essex,,,,,48,37.84,4,41.63,0
+1987,england,Eddie Hemmings,14152,20 February 1949,Nottinghamshire,,,,,5,2,0,35,0
+1987,england,Allan Lamb,16178,20 June 1954,Northamptonshire,,,,,61,42.34,3,,
+1987,england,Derek Pringle,18627,18 September 1958,Essex,,,,,13,26.14,0,44.23,0
+1987,england,Tim Robinson,19445,21 November 1958,Nottinghamshire,,,,,10,17.5,0,,
+1987,england,Gladstone Small,20217,18 October 1961,Warwickshire,,,,,9,6.5,0,39.77,0
+1987,india,Kapil Dev,30028,6 January 1959,Haryana,c,,,,98,27.05,1,25.83,1
+1987,india,Mohammad Azharuddin,26329,8 February 1963,Hyderabad,,,,,46,33.57,1,46.16,0
+1987,india,Roger Binny,26948,19 July 1955,Karnataka,,,,,70,16.55,0,28.85,0
+1987,india,Sunil Gavaskar,28794,10 July 1949,Bombay,,,,,95,33.33,0,25,0
+1987,india,Maninder Singh,30923,13 June 1965,Delhi,,,,,24,16,0,39.09,0
+1987,india,Kiran More,31038,4 September 1962,Baroda,wk,,,,12,1.75,0,,
+1987,india,Chandrakant Pandit,32179,30 September 1961,Bombay,,,,,20,20,0,,
+1987,india,Manoj Prabhakar,32323,15 April 1963,Delhi,,,,,7,4,0,42.75,0
+1987,india,Chetan Sharma,33949,3 January 1966,Haryana,,,,,37,25,0,28.23,0
+1987,india,Ravi Shastri,33975,27 May 1962,Bombay,,,,,76,31.91,2,32.12,0
+1987,india,Navjot Singh Sidhu,34028,20 October 1963,Punjab,,,,,,,,,
+1987,india,Laxman Sivaramakrishnan,34074,31 December 1965,Tamil Nadu,,,,,14,2.5,0,33.42,0
+1987,india,Krishnamachari Srikkanth,34103,21 December 1959,Tamil Nadu,,,,,73,28.11,1,27,0
+1987,india,Dilip Vengsarkar,35654,6 April 1956,Bombay,,,,,85,35.27,1,,0
+1987,new_zealand,Jeff Crowe,36620,14 September 1958,Auckland,c,,,,54,25.52,0,,0
+1987,new_zealand,Stephen Boock,36303,20 September 1951,Canterbury,,,,,9,5,0,31.2,0
+1987,new_zealand,John Bracewell,36306,15 April 1958,Auckland,,,,,29,17.57,0,45,0
+1987,new_zealand,Ewen Chatfield,36603,3 July 1950,Wellington,,,,,82,12.62,0,23.13,1
+1987,new_zealand,Martin Crowe,36622,22 September 1962,Central Districts,,,,,56,33.41,1,28.53,0
+1987,new_zealand,Phil Horne,37251,21 January 1960,Auckland,,,,,,,,,
+1987,new_zealand,Andrew Jones,37491,9 May 1959,Wellington,,,,,,,,,
+1987,new_zealand,Danny Morrison,37730,3 February 1966,Auckland,,,,,,,,,
+1987,new_zealand,Dipak Patel,57851,25 October 1958,Auckland,,,,,,,,,
+1987,new_zealand,Ken Rutherford,38258,26 October 1965,Otago,,,,,12,27.41,0,12,0
+1987,new_zealand,Ian Smith,38396,28 February 1957,Auckland,wk,,,,42,14.65,0,,
+1987,new_zealand,Martin Snedden,38398,23 November 1958,Auckland,,,,,54,16.68,0,28.31,0
+1987,new_zealand,Willie Watson,38742,31 August 1965,Auckland,,,,,3,,0,25.33,0
+1987,new_zealand,John Wright,38757,5 July 1954,Northern Districts,,,,,86,24.84,0,,0
+1987,pakistan,Imran Khan,40560,25 November 1952,Sussex,c,,,,85,28.93,1,22.48,1
+1987,pakistan,Abdul Qadir,38973,15 September 1955,Habib Bank,,,,,44,17.14,0,21.52,2
+1987,pakistan,Ijaz Ahmed,40551,20 September 1968,Habib Bank,,,,,8,12,0,,
+1987,pakistan,Javed Miandad,40879,12 June 1957,Habib Bank,,,,,109,41,3,41.8,0
+1987,pakistan,Mansoor Akhtar,41263,6 September 1962,PAC,,,,,29,18.09,0,72,0
+1987,pakistan,Manzoor Elahi,41262,15 April 1963,Multan,,,,,25,25.7,0,35.5,0
+1987,pakistan,Mudassar Nazar,41308,6 April 1956,Lahore,,,,,99,25.52,0,28.34,1
+1987,pakistan,Rameez Raja,42420,14 August 1962,Lahore,,,,,42,27.73,0,,
+1987,pakistan,Saleem Jaffar,42879,19 November 1962,Karachi,,,,,13,8,0,30.5,0
+1987,pakistan,Saleem Malik,42623,16 April 1963,Lahore,,,,,43,17.96,0,106,0
+1987,pakistan,Saleem Yousuf,42626,7 December 1959,Karachi,wk,,,,23,16.57,0,,
+1987,pakistan,Shoaib Mohammad,42658,8 January 1961,Karachi,,,,,20,23.17,0,29.2,0
+1987,pakistan,Tauseef Ahmed,43277,10 May 1958,Karachi,,,,,32,25.5,0,29.75,0
+1987,pakistan,Wasim Akram,43547,3 June 1966,Lahore,,,,,36,6.69,0,21.08,1
+1987,sri_lanka,Duleep Mendis,49629,25 August 1952,Sinhalese SC,c,,,,66,22.34,0,,
+1987,sri_lanka,Don Anurasiri,48120,25 February 1966,Panadura SC,,,,,11,5.5,0,27.66,0
+1987,sri_lanka,Ashantha de Mel,48447,9 May 1959,,,,,,54,15.53,0,35.39,2
+1987,sri_lanka,Aravinda de Silva,48462,17 October 1965,Nondescripts,,,,,36,23,0,,0
+1987,sri_lanka,Roy Dias,48470,18 October 1952,Colombo CC,,,,,56,31,2,23.33,0
+1987,sri_lanka,Asanka Gurusinha,49005,16 September 1966,Nondescripts,,,,,14,30,0,65.5,0
+1987,sri_lanka,Sridharan Jeganathan,49212,11 July 1951,Nondescripts,,,,,1,,,,0
+1987,sri_lanka,Vinothen John,49213,27 May 1960,Moratuwa CC,,,,,39,8.11,0,43.3,0
+1987,sri_lanka,Brendon Kuruppu,49368,5 January 1962,Burgher RC,wk,,,,23,18.85,0,,
+1987,sri_lanka,Ranjan Madugalle,49623,22 April 1959,Nondescripts,,,,,45,20.22,0,,0
+1987,sri_lanka,Roshan Mahanama,49626,31 May 1966,Colombo CC,,,,,13,25.36,0,,
+1987,sri_lanka,Arjuna Ranatunga,50244,1 December 1963,Sinhalese CC,,,,,50,27.57,0,36.07,0
+1987,sri_lanka,Rumesh Ratnayake,50249,2 January 1964,Nondescripts,,,,,42,15.68,0,36.93,0
+1987,sri_lanka,Ravi Ratnayeke,50250,2 May 1960,Colombo CC,,,,,42,16.43,0,42.44,0
+1987,west_indies,Viv Richards,52812,7 March 1952,Leeward Islands,c,,,,126,53.02,8,38,0
+1987,west_indies,Eldine Baptiste,51211,12 March 1960,Leeward Islands,,,,,29,14.87,0,36.62,0
+1987,west_indies,Winston Benjamin,51220,31 December 1964,Leeward Islands,,,,,10,3,0,24.58,0
+1987,west_indies,Carlisle Best,51221,14 May 1959,Barbados,,,,,1,10,0,,
+1987,west_indies,Jeff Dujon,51657,28 May 1956,Jamaica,wk,,,,96,27.43,0,,
+1987,west_indies,Roger Harper,52045,17 March 1963,Guyana,,,,,46,20.15,0,34.13,0
+1987,west_indies,Desmond Haynes,52047,15 February 1956,Barbados,,,,,119,40.92,8,,0
+1987,west_indies,Carl Hooper,52066,15 December 1966,Guyana,,,,,,,,,
+1987,west_indies,Gus Logie,52347,28 September 1960,Trinidad and Tobago,,,,,63,39.06,0,,0
+1987,west_indies,Patrick Patterson,52671,15 September 1961,Jamaica,,,,,6,,,33.66,0
+1987,west_indies,Richie Richardson,52810,12 January 1962,Leeward Islands,,,,,62,35.09,1,9,0
+1987,west_indies,Phil Simmons,52934,18 April 1963,Trinidad and Tobago,,,,,,,,,
+1987,west_indies,Courtney Walsh,53216,30 October 1962,Jamaica,,,,,29,3.6,0,28.51,1
+1987,zimbabwe,John Traicos,55802,17 May 1947,,c,,,,6,8.33,0,50.5,0
+1987,zimbabwe,Kevin Arnott,55235,8 March 1961,,,,,,,,,,
+1987,zimbabwe,Eddo Brandes,55267,5 March 1963,,,,,,,,,,
+1987,zimbabwe,Robin Brown,55275,11 March 1951,,,,,,4,23.25,0,,
+1987,zimbabwe,Iain Butchart,55280,9 May 1960,,,,,,6,20.5,0,71,0
+1987,zimbabwe,Kevin Curran,55324,7 September 1959,,,,,,6,35.33,0,54.8,0
+1987,zimbabwe,David Houghton,55497,23 June 1957,,wk,,,,6,29.33,0,,
+1987,zimbabwe,Malcolm Jarvis,55525,6 December 1955,,,,,,,,,,
+1987,zimbabwe,Babu Meman,55591,26 June 1952,,,,,,,,,,
+1987,zimbabwe,Grant Paterson,55684,9 June 1960,,,,,,6,16.5,0,,
+1987,zimbabwe,Andrew Pycroft,55700,6 June 1956,,,,,,6,11.83,0,,
+1987,zimbabwe,Peter Rawson,55710,25 May 1957,,,,,,6,8,0,29.87,0
+1987,zimbabwe,Ali Shah,55680,7 August 1959,,,,,,3,8.66,0,40,0
+1987,zimbabwe,Andy Waller,55840,25 September 1959,,,,,,,,,,
+1992,australia,Allan Border,4174,27 July 1955,Queensland,c,,,,233,31.73,3,28.3,0
+1992,australia,David Boon,4169,29 December 1960,Tasmania,,,,,114,35.61,3,,0
+1992,australia,Ian Healy,5628,30 April 1964,Queensland,wk,,,,63,23.13,0,,
+1992,australia,Merv Hughes,5726,23 November 1961,Victoria,,,,,24,9.33,0,26.3,0
+1992,australia,Dean Jones,6044,24 March 1961,Victoria,,,,,124,48.2,7,27,0
+1992,australia,Craig McDermott,6551,14 April 1965,Queensland,,,,,80,8.51,0,24.63,1
+1992,australia,Geoff Marsh,6499,31 December 1958,Western Australia,,,,,112,40.44,9,,0
+1992,australia,Tom Moody,6628,2 October 1965,Western Australia,,,,,23,25.83,0,35.22,0
+1992,australia,Bruce Reid,7319,14 March 1963,Western Australia,,,,,55,3.63,0,33.23,1
+1992,australia,Mark Taylor,7924,27 October 1964,New South Wales,,,,,20,33.47,0,,
+1992,australia,Peter Taylor,7926,22 August 1956,Queensland,,,,,76,23.33,0,28.18,0
+1992,australia,Mark Waugh,8189,2 June 1965,New South Wales,,,,,28,21.6,0,19.15,0
+1992,australia,Steve Waugh,8192,2 June 1965,New South Wales,,,,,121,31.4,0,30.12,0
+1992,australia,Mike Whitney,8220,24 February 1959,New South Wales,,,,,22,3.75,0,28.03,0
+1992,england,Graham Gooch,13399,23 July 1953,Essex,c,,,,97,40.97,8,39.52,0
+1992,england,Ian Botham,56362,24 November 1955,Durham,,,,,,,,,
+1992,england,Phillip DeFreitas,11865,18 February 1966,Lancashire,,,,,63,17.51,0,32.91,0
+1992,england,Neil Fairbrother,12803,9 September 1963,Lancashire,,,,,15,34.27,1,,
+1992,england,Graeme Hick,14187,23 May 1966,Worcestershire,,,,,4,50.66,0,,0
+1992,england,Richard Illingworth,15383,23 August 1963,Worcestershire,,,,,3,,0,38.33,0
+1992,england,Allan Lamb,16178,20 June 1954,Northamptonshire,,,,,111,40.9,4,,0
+1992,england,Chris Lewis,16274,14 February 1968,Nottinghamshire,,,,,15,3.5,0,27.85,0
+1992,england,Derek Pringle,18627,18 September 1958,Essex,,,,,30,28.46,0,45.96,0
+1992,england,Dermot Reeve,19364,2 April 1963,Warwickshire,,,,,2,,,21,0
+1992,england,Gladstone Small,20217,18 October 1961,Warwickshire,,,,,46,6.64,0,34.13,0
+1992,england,Robin Smith,20263,13 September 1963,Hampshire,,,,,32,36.81,2,,
+1992,england,Alec Stewart,20372,8 April 1963,Surrey,wk,,,,24,27.61,0,,
+1992,england,Phil Tufnell,21611,29 April 1966,Middlesex,,,,,10,10,0,40.44,0
+1992,india,Mohammad Azharuddin,26329,8 February 1963,Haryana,c,,,,129,32.57,3,39,0
+1992,india,Subroto Banerjee,26853,13 February 1969,Bengal,,,,,3,13,0,24.25,0
+1992,india,Sachin Tendulkar,35320,24 April 1973,Bombay,,,,,31,33.11,0,43.33,0
+1992,india,Ajay Jadeja,29632,1 February 1971,Haryana,,,,,,,,,
+1992,india,Vinod Kambli,30009,18 January 1972,Bombay,,,,,5,46.5,0,,
+1992,india,Kapil Dev,30028,6 June 1959,Haryana,,,,,181,25.57,1,26.18,1
+1992,india,Ravi Shastri,33975,27 May 1962,Bombay,,,,,143,28.97,4,35.47,1
+1992,india,Sanjay Manjrekar,30934,12 July 1965,Bombay,,,,,37,35.67,1,6,0
+1992,india,Kiran More,31038,4 September 1962,Baroda,wk,,,,77,13.51,0,,
+1992,india,Manoj Prabhakar,32323,15 April 1963,Delhi,,,,,67,17.65,1,26.85,0
+1992,india,Venkatapathy Raju,33044,9 July 1969,Hyderabad,,,,,16,5.75,0,38.25,0
+1992,india,Krishnamachari Srikkanth,34103,21 December 1959,Tamil Nadu,,,,,138,29.65,4,25.04,2
+1992,india,Javagal Srinath,34105,31 August 1969,Karnataka,,,,,16,4.83,0,32.55,0
+1992,india,Pravin Amre,26238,14 August 1968,Bengal,,,,,11,21.11,0,,
+1992,india,Sourav Ganguly,28779,8 July 1972,Bengal,,,,,1,3,0,,
+1992,new_zealand,Martin Crowe,36622,22 September 1962,Wellington,c,,,,111,34.59,2,32.68,0
+1992,new_zealand,Chris Cairns,36597,13 June 1970,Canterbury,,,,,3,17.66,0,18.28,0
+1992,new_zealand,Mark Greatbatch,37105,11 December 1963,Central Districts,,,,,38,29.36,2,,
+1992,new_zealand,Chris Harris,37232,20 November 1969,Canterbury,,,,,14,25.22,0,29.31,0
+1992,new_zealand,Andrew Jones,37491,9 May 1959,Otago,,,,,53,43.8,0,52,0
+1992,new_zealand,Gavin Larsen,37601,27 September 1962,Wellington,,,,,14,4.75,0,68.71,0
+1992,new_zealand,John Wright,38757,5 July 1954,Auckland,,,,,142,26.97,1,,0
+1992,new_zealand,Rodney Latham,37602,12 June 1961,Canterbury,,,,,9,40.6,0,,0
+1992,new_zealand,Danny Morrison,37730,3 February 1966,Auckland,,,,,40,5.75,0,32.08,0
+1992,new_zealand,Dipak Patel,57851,25 October 1958,Auckland,,,,,,,,,
+1992,new_zealand,Ken Rutherford,38258,26 October 1965,Otago,,,,,61,27.33,0,31.2,0
+1992,new_zealand,Ian Smith,38396,28 February 1957,Auckland,wk,,,,87,17.17,0,,
+1992,new_zealand,Murphy Su'a,38409,7 November 1966,Auckland,,,,,,,,,
+1992,new_zealand,Willie Watson,38742,31 August 1965,Auckland,,,,,45,6.55,0,33.65,0
+1992,pakistan,Imran Khan,40560,25 November 1952,,c,,,,167,33.56,1,26.24,1
+1992,pakistan,Shahid Saeed,42647,6 January 1966,Lahore,,,,,6,17.66,0,89,0
+1992,pakistan,Aamir Sohail,38967,14 September 1966,Habib Bank,,,,,5,27.6,0,,0
+1992,pakistan,Aaqib Javed,38970,5 August 1972,PAC,,,,,48,2,0,27.93,1
+1992,pakistan,Ijaz Ahmed,40551,20 September 1968,Habib Bank,,,,,93,24.12,2,47,0
+1992,pakistan,InzamamulHaq,40570,3 March 1970,Multan,,,,,7,67.66,2,21,0
+1992,pakistan,Iqbal Sikander,40574,19 December 1958,Karachi,,,,,,,,,
+1992,pakistan,Javed Miandad,40879,12 June 1957,Habib Bank,,,,,185,42.68,7,42.42,0
+1992,pakistan,Moin Khan,41306,23 September 1971,Karachi,wk,,,,14,16.33,0,,
+1992,pakistan,Mushtaq Ahmed,41316,28 June 1970,Multan,,,,,34,9,0,29.45,0
+1992,pakistan,Rameez Raja,42420,14 August 1962,Lahore,,,,,120,33.16,5,,0
+1992,pakistan,Saleem Malik,42623,16 April 1963,Habib Bank,,,,,138,33.43,5,35.14,1
+1992,pakistan,Wasim Akram,43547,3 June 1966,PIA,,,,,112,13.3,0,24.01,2
+1992,pakistan,Wasim Haider,43550,6 June 1967,Faisalabad,,,,,,,,,
+1992,pakistan,Zahid Fazal,43697,10 November 1973,PIA,,,,,10,32.5,0,,
+1992,south_africa,Kepler Wessels,47884,14 September 1957,Eastern Province,c,,,,57,38.25,1,36.38,0
+1992,south_africa,Tertius Bosch,44097,14 March 1960,Northern Transvaal,,,,,,,,,
+1992,south_africa,Hansie Cronje,44485,25 September 1969,Orange Free State,,,,,,,,,
+1992,south_africa,Allan Donald,44716,20 October 1966,Warwickshire,,,,,3,,,13.33,1
+1992,south_africa,Omar Henry,45437,23 January 1952,Orange Free State,,,,,,,,,
+1992,south_africa,Andrew Hudson,45458,17 March 1965,Natal,,,,,2,0,0,,
+1992,south_africa,Peter Kirsten,45815,14 May 1955,Border,,,,,3,47.5,0,23,0
+1992,south_africa,Adrian Kuiper,45840,24 August 1959,Western Province,,,,,3,63.5,0,60,0
+1992,south_africa,Pat Symcox,47267,14 April 1960,Natal,,,,,,,,,
+1992,south_africa,Brian McMillan,46214,22 December 1963,Western Province,,,,,2,2,0,,0
+1992,south_africa,Meyrick Pringle,46790,22 June 1966,Western Province,,,,,,,,,
+1992,south_africa,Jonty Rhodes,46973,27 July 1969,Natal,,,,,,,,,
+1992,south_africa,Dave Richardson,46978,16 September 1959,Eastern Province,wk,,,,3,9,0,,
+1992,south_africa,Mark Rushmere,47011,7 January 1965,Eastern Province,,,,,,,,,
+1992,south_africa,Richard Snell,47215,12 September 1968,Transvaal,,,,,3,9,0,134,0
+1992,sri_lanka,Aravinda de Silva,48462,17 October 1965,Nondescripts,c,,,,92,28.71,1,49.16,0
+1992,sri_lanka,Don Anurasiri,48120,25 February 1966,Panadura SC,,,,,29,10.25,0,46.75,0
+1992,sri_lanka,Asanka Gurusinha,49005,16 September 1966,Nondescripts,,,,,61,28.28,0,67.66,0
+1992,sri_lanka,Chandika Hathurusingha,49125,13 September 1968,Tamil Union,,,,,4,10.25,0,,
+1992,sri_lanka,Sanath Jayasuriya,49209,30 June 1969,Bloomfield,,,,,20,8.41,0,52.16,0
+1992,sri_lanka,Ruwan Kalpage,49356,19 February 1970,Nondescripts,,,,,2,8,0,,0
+1992,sri_lanka,Roshan Mahanama,49626,31 May 1966,Colombo CC,,,,,58,25.09,0,,0
+1992,sri_lanka,Champaka Ramanayake,50240,8 January 1965,Tamil Union C&A,,,,,30,9.72,0,25.35,0
+1992,sri_lanka,Arjuna Ranatunga,50244,1 December 1963,Sinhalese SC,,,,,99,33.25,0,46.29,0
+1992,sri_lanka,Graeme Labrooy,49552,7 June 1964,Basnahira North,,,,,43,8.21,0,41.09,1
+1992,sri_lanka,Athula Samarasekera,50421,5 August 1961,Colombo CC,,,,,31,20.58,0,,0
+1992,sri_lanka,Hashan Tillakaratne,50744,14 July 1967,Nondescripts,wk,,,,41,28.8,0,,
+1992,sri_lanka,Pramodya Wickramasinghe,50848,14 August 1971,Sinhalese SC,,,,,4,2.5,0,95,0
+1992,sri_lanka,Kapila Wijegunawardene,50852,23 November 1964,Colombo CC,,,,,23,2.85,0,35.92,0
+1992,west_indies,Richie Richardson,52810,12 January 1962,Leeward Islands,c,,,,152,35.75,5,46,0
+1992,west_indies,Curtly Ambrose,51107,21 September 1963,Leeward Islands,,,,,61,13.73,0,19.25,3
+1992,west_indies,Keith Arthurton,51110,21 February 1965,Leeward Islands,,,,,26,25.75,0,27,0
+1992,west_indies,Winston Benjamin,51220,31 December 1964,Leeward Islands,,,,,49,4.92,0,33.98,0
+1992,west_indies,Anderson Cummins,51488,7 May 1966,Jamaica,,,,,10,12.75,0,27.58,1
+1992,west_indies,Roger Harper,52045,17 March 1963,Guyana,,,,,66,15.4,0,39.72,0
+1992,west_indies,Desmond Haynes,52047,15 February 1956,Barbados,,,,,193,42.56,16,,0
+1992,west_indies,Carl Hooper,52066,15 December 1966,Guyana,,,,,71,29.19,1,31.63,0
+1992,west_indies,Brian Lara,52337,2 May 1969,Trinidad and Tobago,,,,,16,23.75,0,,
+1992,west_indies,Gus Logie,52347,28 September 1960,Trinidad and Tobago,,,,,130,33.27,1,,0
+1992,west_indies,Malcolm Marshall,52419,18 April 1958,Barbados,,,,,131,15.65,0,26.18,0
+1992,west_indies,Patrick Patterson,52671,15 September 1961,Jamaica,,,,,49,13.66,0,26.16,1
+1992,west_indies,Phil Simmons,52934,18 April 1963,Trinidad and Tobago,,,,,36,27.14,1,45.5,0
+1992,west_indies,David Williams,53230,4 November 1963,Trinidad and Tobago,wk,,,,17,6,0,,
+1992,zimbabwe,David Houghton,55497,23 June 1957,,c,,,,12,33.5,1,,
+1992,zimbabwe,Kevin Arnott,55235,8 March 1961,,,,,,4,37.33,0,,
+1992,zimbabwe,Eddo Brandes,55267,5 March 1963,,,,,,4,21,0,77,0
+1992,zimbabwe,Mark Burmester,55279,24 January 1968,,,,,,,,,,
+1992,zimbabwe,Iain Butchart,55280,9 May 1960,,,,,,12,20,0,72.5,0
+1992,zimbabwe,Alistair Campbell,55301,23 September 1972,,,,,,,,,,
+1992,zimbabwe,Andy Flower,55427,28 April 1968,,wk,,,,,,,,
+1992,zimbabwe,Kevin Duers,55382,30 June 1960,,,,,,,,,,
+1992,zimbabwe,Wayne James,55524,27 August 1965,,,,,,,,,,
+1992,zimbabwe,Malcolm Jarvis,55525,6 December 1955,,,,,,5,,0,77.5,0
+1992,zimbabwe,Ali Shah,55680,7 August 1959,,,,,,9,11.77,0,36.5,0
+1992,zimbabwe,Andrew Pycroft,55700,6 June 1956,,,,,,12,22.27,0,,
+1992,zimbabwe,John Traicos,55802,17 May 1947,,,,,,12,7,0,42,0
+1992,zimbabwe,Andy Waller,55840,25 September 1959,,,,,,6,25,0,,
+1996,australia,Mark Taylor,7924,27 October 1964,New South Wales,c,,,,89,33.34,0,,
+1996,australia,Michael Bevan,4144,8 May 1970,New South Wales,,,,,25,82.1,0,31,0
+1996,australia,Damien Fleming,5239,24 April 1970),Victoria,,,,,14,14,0,25.85,0
+1996,australia,Ian Healy,5628,30 April 1964,Queensland,wk,,,,139,23.37,0,,
+1996,australia,Stuart Law,6274,18 October 1968,Queensland,,,,,14,29.61,1,46,0
+1996,australia,Shane Lee,6282,8 August 1973,New South Wales,,,,,6,13,0,44,0
+1996,australia,Craig McDermott,6551,14 April 1965,Queensland,,,,,137,7.08,0,24.78,1
+1996,australia,Glenn McGrath,6565,9 February 1970,New South Wales,,,,,44,3.71,0,24.38,1
+1996,australia,Ricky Ponting,7133,19 December 1974,Tasmania,,,,,16,33.14,1,,
+1996,australia,Paul Reiffel,7326,19 April 1966,Victoria,,,,,55,18.25,0,24.51,0
+1996,australia,Michael Slater,7629,21 February 1970,New South Wales,,,,,33,23.18,0,,0
+1996,australia,Shane Warne,8166,13 September 1969,Victoria,,,,,52,14.11,0,21.49,0
+1996,australia,Mark Waugh,8189,2 June 1965,New South Wales,,,,,106,34.51,5,27.25,1
+1996,australia,Steve Waugh,8192,2 June 1965,New South Wales,,,,,189,30.85,1,33.59,0
+1996,england,Michael Atherton,8579,23 March 1968,Lancashire,c,,,,31,41.86,1,,
+1996,england,Dominic Cork,10816,7 August 1971),Derbyshire,,,,,14,7,0,28.95,0
+1996,england,Phillip DeFreitas,11865,18 February 1966,Lancashire,,,,,97,14.65,0,32.59,0
+1996,england,Neil Fairbrother,12803,9 September 1963,Lancashire,,,,,51,38.18,1,,0
+1996,england,Darren Gough,13411,18 September 1970,Yorkshire,,,,,16,10.33,0,19.67,1
+1996,england,Graeme Hick,14187,23 May 1966,Worcestershire,,,,,54,37.65,1,38.46,0
+1996,england,Peter Martin,16925,15 November 1968,Lancashire,,,,,7,21,0,20.07,0
+1996,england,Richard Illingworth,15383,23 August 1963,Worcestershire,,,,,21,10.66,0,34.03,0
+1996,england,Jack Russell,19500,15 August 1963,Gloucestershire,wk,,,,31,20.82,0,,
+1996,england,Neil Smith,20259,27 July 1967,Warwickshire,,,,,2,3,0,27.5,0
+1996,england,Robin Smith,20263,13 September 1963,Hampshire,,,,,69,38.65,4,,
+1996,england,Alec Stewart,20372,8 April 1963,Surrey,,,,,68,30.96,1,,
+1996,england,Graham Thorpe,21537,1 August 1969,Surrey,,,,,19,32.55,0,,
+1996,england,Craig White,22403,16 December 1969,Yorkshire,,,,,8,14.28,0,30.37,0
+1996,england,Dermot Reeve,19364,2 April 1963,Warwickshire,,,,,27,25.3,0,40.47,0
+1996,india,Mohammad Azharuddin,26329,8 February 1963,Hyderabad,c,,,,200,36.23,3,39,0
+1996,india,Sachin Tendulkar,35320,24 April 1973,Mumbai,vc,,,,102,36.5,4,51.58,0
+1996,india,Vinod Kambli,30009,18 January 1972,Mumbai,,,,,62,40.48,1,7,0
+1996,india,Aashish Kapoor,30030,25 March 1971,Rajasthan,,,,,7,6,0,46.8,0
+1996,india,Anil Kumble,30176,17 October 1970,Karnataka,,,,,72,9,0,29.65,2
+1996,india,Sanjay Manjrekar,30934,12 July 1965,Mumbai,,,,,59,34.86,1,6,0
+1996,india,Nayan Mongia,31036,19 December 1969,Baroda,wk,,,,35,23.9,0,,
+1996,india,Manoj Prabhakar,32323,15 April 1963,Delhi,,,,,126,24.95,2,28.4,2
+1996,india,Venkatesh Prasad,32345,5 August 1969,Karnataka,,,,,21,2.25,0,38.47,0
+1996,india,Navjot Singh Sidhu,34028,20 October 1963,Punjab,,,,,93,42.79,5,,0
+1996,india,Javagal Srinath,34105,31 August 1969,Karnataka,,,,,83,8.8,0,25.22,2
+1996,india,Ajay Jadeja,29632,1 February 1971,Haryana,,,,,42,33.42,1,56.62,0
+1996,india,Salil Ankola,26257,1 March 1968,Mumbai,,,,,14,3.5,0,35.09,0
+1996,india,Venkatapathy Raju,33044,9 July 1969,Hyderabad,,,,,42,4.14,0,33.26,0
+1996,kenya,Maurice Odumbe,24708,15 June 1969,"Aga Khan, Nairobi",c,,,,,,,,
+1996,kenya,Rajab Ali,24687,19 November 1965,,,,,,,,,,
+1996,kenya,Dipak Chudasama,24692,20 May 1963,,,,,,,,,,
+1996,kenya,Tariq Iqbal,24695,3 April 1964,,,,,,,,,,
+1996,kenya,Aasif Karim,24699,15 September 1963,"Jaffery, Mombasa",,,,,,,,,
+1996,kenya,Hitesh Modi,24701,13 October 1971,"Nairobi Gymkhana,Kisumu",,,,,,,,,
+1996,kenya,Thomas Odoyo,24705,12 May 1978,"Nairobi Gymkhana,Kisumu",,,,,,,,,
+1996,kenya,Edward Odumbe,24706,19 May 1965,,,,,,,,,,
+1996,kenya,Lameck Onyango,24711,22 September 1973,"Swamibapa,Nairobi",,,,,,,,,
+1996,kenya,Kennedy Otieno,24714,11 March 1972,"Ruaraka,Nairobi",wk,,,,,,,,
+1996,kenya,Brijal Patel,24776,14 November 1977,"Premier,Nairobi",,,,,,,,,
+1996,kenya,Martin Suji,24725,2 June 1971,"Aga Khan,Nairobi",,,,,,,,,
+1996,kenya,David Tikolo,24726,27 December 1964,,,,,,,,,,
+1996,kenya,Steve Tikolo,24728,25 June 1971,"Swamibapa,Nairobi",,,,,,,,,
+1996,netherlands,Steven Lubbers,24920,24 March 1953,Hermes DVS,c,,,,,,,,
+1996,netherlands,Flavian Aponso,24857,28 October 1952,Sebastianites CAC,,,,,,,,,
+1996,netherlands,PaulJan Bakker,24860,19 September 1957,,,,,,,,,,
+1996,netherlands,Peter Cantrell,24874,28 October 1962,Kampong,,,,,,,,,
+1996,netherlands,Nolan Clarke,24875,22 June 1948,VVV Amsterdam,,,,,,,,,
+1996,netherlands,Eric Gouka,24897,29 January 1970,,,,,,,,,,
+1996,netherlands,Floris Jansen,24911,10 June 1962,Voorburg CC,,,,,,,,,
+1996,netherlands,Tim de Leede,24882,25 January 1968,Voorburg CC,,,,,,,,,
+1996,netherlands,Roland Lefebvre,24918,7 February 1963,Glamorgan,,,,,,,,,
+1996,netherlands,KlaasJan van Noortwijk,24974,10 July 1970,VOC Rotterdam,,,,,,,,,
+1996,netherlands,Robert van Oosterom,24975,16 October 1968,,,,,,,,,,
+1996,netherlands,Marcel Schewe,24888,10 March 1969,,wk,,,,,,,,
+1996,netherlands,Reinout Scholte,24945,10 August 1967,VOC Rotterdam,wk,,,,,,,,
+1996,netherlands,Bas Zuiderent,24990,3 March 1977,,,,,,,,,,
+1996,new_zealand,Lee Germon,37101,4 November 1968,Canterbury,c/wk,,,,12,12.85,0,,
+1996,new_zealand,Nathan Astle,36185,15 September 1971,Canterbury,,,,,16,36.8,2,53.28,0
+1996,new_zealand,Chris Cairns,36597,13 June 1970,Canterbury,,,,,38,27.33,1,31.05,0
+1996,new_zealand,Stephen Fleming,37000,1 April 1973,Canterbury,,,,,36,29.18,0,,0
+1996,new_zealand,Chris Harris,37232,20 November 1969,Canterbury,,,,,57,23.48,0,35.13,0
+1996,new_zealand,Robert Kennedy,37530,3 June 1972,Otago,,,,,1,,,,0
+1996,new_zealand,Gavin Larsen,37601,27 September 1962,Wellington,,,,,76,17.76,0,41.83,0
+1996,new_zealand,Danny Morrison,37730,3 February 1966,Auckland,,,,,85,9,0,28.38,1
+1996,new_zealand,Dion Nash,38008,20 November 1971,Northern Districts,,,,,21,10.9,0,42.05,0
+1996,new_zealand,Adam Parore,38117,23 January 1971,Auckland,,,,,44,37.48,1,,
+1996,new_zealand,Dipak Patel,57851,25 October 1958,Auckland,,,,,,,,,
+1996,new_zealand,Craig Spearman,38401,4 July 1972,Central Districts,,,,,6,19.5,0,,
+1996,new_zealand,Shane Thomson,38613,27 January 1969,Northern Districts,,,,,48,23,0,36.35,0
+1996,new_zealand,Roger Twose,38624,17 April 1968,Wellington,,,,,11,31.5,0,34.75,0
+1996,pakistan,Wasim Akram,43547,3 June 1966,PIA,c,,,,193,14.55,0,22.26,5
+1996,pakistan,Aamer Sohail,38967,14 September 1966,Allied Bank Limited,vc,,,,85,32.31,3,35.23,0
+1996,pakistan,Aaqib Javed,38970,5 August 1972,Allied Bank Limited,,,,,121,10.28,0,31.05,2
+1996,pakistan,AtaurRehman,39015,28 March 1975,Allied Bank Limited,,,,,25,6.75,0,46.66,0
+1996,pakistan,Ijaz Ahmed,40551,20 September 1968,Habib Bank,,,,,121,26.56,4,90.66,0
+1996,pakistan,InzamamulHaq,40570,3 March 1970,Faisalabad,,,,,96,41.32,4,21,0
+1996,pakistan,Javed Miandad,40879,12 June 1957,Habib Bank,,,,,228,41.86,8,42.42,0
+1996,pakistan,Mushtaq Ahmed,41316,28 June 1970,Multan,,,,,90,9.06,0,33.28,0
+1996,pakistan,Rameez Raja,42420,14 August 1962,Lahore,,,,,170,33.69,9,,0
+1996,pakistan,Rashid Latif,42423,14 October 1965,Karachi,wk,,,,70,15.23,0,,
+1996,pakistan,Saeed Anwar,42605,6 September 1968,National Bank,,,,,82,33.86,8,43.33,0
+1996,pakistan,Saleem Malik,42623,16 April 1963,Lahore,,,,,214,32.77,5,32.87,1
+1996,pakistan,Saqlain Mushtaq,42628,29 December 1976,Pakistan Intl. Airlines,,,,,5,15,0,21.62,0
+1996,pakistan,Waqar Younis,43543,16 November 1971,United Bank Limited,,,,,112,9.57,0,22.02,7
+1996,south_africa,Hansie Cronje,44485,25 September 1969,Free State,c,,,,77,35.92,2,33.33,1
+1996,south_africa,Paul Adams,43919,20 January 1977,Western Province,,,,,3,0,0,16.5,0
+1996,south_africa,Daryl Cullinan,44489,4 March 1967,Transvaal,,,,,41,25.75,0,,
+1996,south_africa,Fanie de Villiers,44696,13 October 1964,Northern Transvaal,,,,,62,8.2,0,28.62,0
+1996,south_africa,Allan Donald,44716,20 October 1966,Warwickshire,,,,,57,4.25,0,25.54,1
+1996,south_africa,Andrew Hudson,45458,17 March 1965,KwaZuluNatal,,,,,60,29.05,1,,
+1996,south_africa,Jacques Kallis,45789,16 October 1975,Western Province,,,,,7,27.66,0,,0
+1996,south_africa,Gary Kirsten,45813,23 November 1967,Western Province,,,,,35,35.71,2,,0
+1996,south_africa,Craig Matthews,46189,15 February 1965,Western Province,,,,,43,9.53,0,23.6,0
+1996,south_africa,Brian McMillan,46214,22 December 1963,Western Province,,,,,48,27.22,1,37.54,0
+1996,south_africa,Steve Palframan,46724,12 May 1970,Boland,wk,,,,1,10,0,,
+1996,south_africa,Shaun Pollock,46774,16 July 1973,Warwickshire,,,,,7,32,0,16.3,0
+1996,south_africa,Jonty Rhodes,46973,27 July 1969,KwaZuluNatal,,,,,76,28.14,0,,
+1996,south_africa,Pat Symcox,47267,14 April 1960,KwaZuluNatal,,,,,19,8.69,0,29.11,0
+1996,sri_lanka,Arjuna Ranatunga,50244,1 December 1963,Sinhalese SC,c,,,,178,35.3,2,47.78,0
+1996,sri_lanka,Aravinda de Silva,48462,17 October 1965,Nondescripts,vc,,,,175,31.23,3,43,0
+1996,sri_lanka,Upul Chandana,48369,7 May 1972,Tamil Union C&AC,,,,,5,15.33,0,,0
+1996,sri_lanka,Marvan Atapattu,48124,22 November 1970,Sinhalese SC,,,,,7,10.75,0,,0
+1996,sri_lanka,Kumar Dharmasena,48469,24 April 1971,Bloomfield,,,,,27,24.1,0,32.13,0
+1996,sri_lanka,Asanka Gurusinha,49005,16 September 1966,Nondescripts,,,,,128,27.64,2,51.42,0
+1996,sri_lanka,Romesh Kaluwitharana,49361,24 November 1969,Sebastianites,wk,,,,40,15.73,0,,
+1996,sri_lanka,Sanath Jayasuriya,49209,30 June 1969,Bloomfield,,,,,99,19.73,1,34.7,1
+1996,sri_lanka,Roshan Mahanama,49626,31 May 1966,Bloomfield,,,,,136,29.94,4,,0
+1996,sri_lanka,Muttiah Muralitharan,49636,17 April 1972,Tamil Union,,,,,35,5.16,0,35.16,0
+1996,sri_lanka,Ravindra Pushpakumara,49863,21 July 1975,Colts CC,,,,,18,17,0,49.07,0
+1996,sri_lanka,Hashan Tillakaratne,50744,14 July 1967,Nondescripts,,,,,123,28.82,2,35,0
+1996,sri_lanka,Chaminda Vaas,50804,27 January 1974,Colts CC,,,,,41,17.9,0,26.18,0
+1996,sri_lanka,Pramodya Wickramasinghe,50848,14 August 1971,Burgher RC,,,,,76,6.94,0,41.56,0
+1996,sri_lanka,Chandika Hathurusingha,49125,13 September 1968,Tamil Union,,,,,32,22.34,0,43.85,0
+1996,sri_lanka,Russell Arnold,48122,25 October 1973,Nondescripts,,,,,,,,,
+1996,uae,Sultan Zarawani,25547,24 January 1961,,c,,,,2,5,0,48,0
+1996,uae,Arshad Laeeq,25532,28 November 1970,,,,,,2,17.5,0,,0
+1996,uae,Azhar Saeed,25533,25 December 1970,,,,,,2,1.5,0,,0
+1996,uae,Imtiaz Abbasi,25535,9 June 1968,,wk,,,,2,8,0,,
+1996,uae,Mazhar Hussain,25536,25 October 1967,,,,,,2,40,0,,
+1996,uae,Mohammad Aslam,25538,7 September 1961,,,,,,,,,,
+1996,uae,Mohammad Ishaq,25539,7 March 1963,,,,,,2,13.5,0,,
+1996,uae,Vijay Mehra,25537,17 October 1963,,,,,,2,24,0,,
+1996,uae,Ganesh Mylvaganam,25540,1 August 1966,,,,,,,,,,
+1996,uae,SaeedAlSaffar,25542,31 July 1968,,,,,,,,,,
+1996,uae,Saleem Raza,25543,5 July 1964,,,,,,2,11,0,35.5,0
+1996,uae,Johanne Samarasekera,25544,22 February 1968,,,,,,2,34,0,79,0
+1996,uae,Shaukat Dukanwala,25534,21 January 1957,,,,,,,,,,
+1996,uae,Shehzad Altaf,25545,6 October 1957,,,,,,,,,,
+1996,west_indies,Richie Richardson,52810,12 January 1962,Northern Transvaal,c,,,,218,32.85,5,46,0
+1996,west_indies,Jimmy Adams,51100,9 January 1968,Jamaica,,,,,50,27.68,0,29.5,0
+1996,west_indies,Curtly Ambrose,51107,21 September 1963,Leeward Islands,,,,,122,11.19,0,23.06,4
+1996,west_indies,Keith Arthurton,51110,21 February 1965,Leeward Islands,,,,,81,29.46,0,26.57,0
+1996,west_indies,Ian Bishop,51226,24 October 1967,Trinidad and Tobago,,,,,66,14.21,0,23.02,2
+1996,west_indies,Courtney Browne,51232,7 December 1970,Barbados,wk,,,,13,10.25,0,,
+1996,west_indies,Sherwin Campbell,51462,1 January 1970,Barbados,,,,,22,25.13,0,,
+1996,west_indies,Shivnarine Chanderpaul,51469,16 August 1974,Guyana,,,,,18,29.53,0,206,0
+1996,west_indies,Cameron Cuffy,51487,8 February 1970,Windward Islands,,,,,9,10,0,48,0
+1996,west_indies,Ottis Gibson,51885,16 March 1969,Barbados,,,,,10,18.71,0,15.07,2
+1996,west_indies,Roger Harper,52045,17 March 1963,Guyana,,,,,93,16.53,0,36.69,0
+1996,west_indies,Roland Holder,52059,22 December 1967,Barbados,,,,,18,27.5,0,,
+1996,west_indies,Brian Lara,52337,2 May 1969,Trinidad and Tobago,,,,,92,44.07,6,11,0
+1996,west_indies,Courtney Walsh,53216,30 October 1962,Jamaica,,,,,150,8.09,0,30.36,1
+1996,west_indies,Phil Simmons,52934,18 April 1963,Trinidad and Tobago,,,,,111,28.76,4,33.87,0
+1996,zimbabwe,Andy Flower,55427,28 April 1968,Mashonaland,c/wk,,,,38,30.37,1,,0
+1996,zimbabwe,Eddo Brandes,55267,5 March 1963,Mashonaland,,,,,26,11.05,0,36.56,0
+1996,zimbabwe,Alistair Campbell,55301,23 September 1972,Manicaland,,,,,30,22.57,1,33.5,0
+1996,zimbabwe,Sean Davies,55360,15 October 1973,Mashonaland,,,,,2,6.5,0,,
+1996,zimbabwe,Craig Evans,55412,29 November 1969,Matabeleland,,,,,,,,,
+1996,zimbabwe,Grant Flower,55429,20 December 1970,Mashonaland,,,,,28,28.72,0,37.69,0
+1996,zimbabwe,Charlie Lock,55560,10 September 1962,Mashonaland,,,,,1,,,,0
+1996,zimbabwe,Henry Olonga,55675,3 July 1976,Matabeleland,,,,,2,6,0,91,0
+1996,zimbabwe,Stephen Peall,55691,2 September 1969,Mashonaland,,,,,16,6.83,0,82.42,0
+1996,zimbabwe,Bryan Strang,55756,9 June 1972,Mashonaland,,,,,6,7,0,29.71,0
+1996,zimbabwe,Paul Strang,55758,28 July 1970,Mashonaland,,,,,11,20.71,0,41.2,0
+1996,zimbabwe,Heath Streak,55761,16 March 1974,Matabeleland,,,,,20,15.09,0,26.32,0
+1996,zimbabwe,Andy Waller,55840,25 September 1959,Mashonaland,,,,,24,25.15,0,,
+1996,zimbabwe,Guy Whittall,55848,5 September 1972,Mashonaland,,,,,19,20.47,0,32.62,0
+1999,australia,Steve Waugh,8192,2 June 1965,New South Wales,c,,,,251,31.01,1,34.62,0
+1999,australia,Michael Bevan,4144,8 May 1970,New South Wales,,,,,94,60.84,3,41.55,0
+1999,australia,Damien Fleming,5239,24 April 1970,Victoria,,,,,44,6.4,0,24.32,1
+1999,australia,Paul Reiffel,7326,19 April 1966,Victoria,,,,,83,14.5,0,28.42,0
+1999,australia,Shane Warne,8166,13 September 1969,Victoria,,,,,104,11.62,0,25.19,1
+1999,australia,Mark Waugh,8189,2 June 1965,New South Wales,,,,,170,39.17,11,31.21,1
+1999,australia,Shane Lee,6282,8 August 1973,New South Wales,,,,,12,18,0,53.5,0
+1999,australia,Brendon Julian,6056,10 August 1970,Western Australia,,,,,14,10.22,0,33.5,0
+1999,australia,Tom Moody,6628,2 October 1965,Western Australia,,,,,58,21.55,0,39.72,0
+1999,australia,Darren Lehmann,6285,5 February 1970,South Australia,,,,,34,34.96,1,46.16,0
+1999,australia,Glenn McGrath,6565,9 February 1970,New South Wales,,,,,82,4.08,0,26.02,2
+1999,australia,Adam Gilchrist,5390,14 November 1971,Western Australia,wk,,,,47,34.29,4,,
+1999,australia,Adam Dale,4890,30 December 1968,Queensland,,,,,21,18.33,0,34.9,0
+1999,australia,Ricky Ponting,7133,19 December 1974,Tasmania,,,,,64,41.8,5,62,0
+1999,australia,Damien Martyn,6513,21 October 1971,Western Australia,,,,,27,22.94,0,80,0
+1999,bangladesh,Aminul Islam,56224,2 February 1968,,c,,,,21,31.18,0,73,0
+1999,bangladesh,Akram Khan,56221,1 November 1968,,,,,,21,22.8,0,,0
+1999,bangladesh,Faruk Ahmed,55885,24 July 1966,,,,,,5,17.8,0,,
+1999,bangladesh,Shahriar Hossain,56104,,,,,,,5,8.2,0,,
+1999,bangladesh,Mehrab Hossain,55970,22 September 1978,,,,,,1,6,0,,
+1999,bangladesh,Enamul Haque,55878,27 February 1966,,,,,,12,7.88,0,72.8,0
+1999,bangladesh,Niamur Rashid,56044,1 January 1975,,,,,,,,,,
+1999,bangladesh,Naimur Rahman,56035,19 September 1974,,,,,,8,19.14,0,104.5,0
+1999,bangladesh,Khaled Mahmud,55952,26 July 1971,,,,,,6,26.4,0,23.14,0
+1999,bangladesh,Khaled Mashud,55954,8 February 1976,Rajshahi,wk,,,,16,10.63,0,,
+1999,bangladesh,Mohammad Rafique,55973,5 September 1970,,,,,,12,16.16,0,32.06,0
+1999,bangladesh,Shafiuddin Ahmed,56101,1 June 1973,,,,,,5,8.5,0,32,0
+1999,bangladesh,Hasibul Hossain,55909,3 June 1977,,,,,,15,8.72,0,48.92,0
+1999,bangladesh,Manjural Islam,55968,7 November 1979,,,,,,,,,,
+1999,bangladesh,Minhajul Abedin,55971,25 September 1965,,,,,,23,14.22,0,44.88,0
+1999,england,Alec Stewart,20372,8 April 1963,Surrey,c/wk,,,,113,31.27,2,,
+1999,england,Ian Austin,8590,30 May 1966,,,,,,4,14.5,0,59.66,0
+1999,england,Robert Croft,10881,25 May 1970,Glamorgan,,,,,37,15.62,0,35.6,0
+1999,england,Mark Ealham,12466,27 August 1969,Kent,,,,,26,19.47,0,34.03,1
+1999,england,Neil Fairbrother,12803,9 September 1963,,,,,,64,42.44,1,,0
+1999,england,Andrew Flintoff,12856,6 December 1977,Lancashire,,,,,,,,,
+1999,england,Angus Fraser,12909,8 August 1965,Middlesex,,,,,37,13.55,0,29.64,0
+1999,england,Darren Gough,13411,18 September 1970,Yorkshire,,,,,52,11.86,0,24.07,2
+1999,england,Graeme Hick,14187,23 May 1966,Worcestershire,,,,,83,40.32,5,39,0
+1999,england,Adam Hollioake,14244,5 September 1971,Surrey,,,,,27,30.16,0,27.37,0
+1999,england,Nasser Hussain,14325,28 March 1968,Essex,,,,,24,23.73,0,,
+1999,england,Nick Knight,15913,28 November 1969,,,,,,36,42.75,3,,
+1999,england,Alan Mullally,17121,12 July 1969,Leicestershire,,,,,19,5.2,0,25.84,0
+1999,england,Graham Thorpe,21537,1 August 1969,Surrey,,,,,44,40.05,0,48.5,0
+1999,england,Vince Wells,22365,6 August 1965,,,,,,3,10,0,25,0
+1999,india,Mohammad Azharuddin,26329,8 February 1963,Hyderabad,c,,,,310,37.89,7,39.91,0
+1999,india,Sourav Ganguly,28779,8 July 1972,Bengal,,,,,90,40.33,5,38.96,1
+1999,india,Ajay Jadeja,29632,1 February 1971,Haryana,vc,,,,154,35.91,4,74.57,0
+1999,india,Sadagoppan Ramesh,33066,16 October 1975,Tamil Nadu,,,,,,,,,
+1999,india,Rahul Dravid,28114,11 January 1973,Karnataka,,,,,70,34.79,2,,0
+1999,india,Robin Singh,34059,14 September 1963,Tamil Nadu,,,,,72,28.92,1,40.4,1
+1999,india,Ajit Agarkar,26184,4 December 1977,Mumbai,,,,,30,16.09,0,23.75,0
+1999,india,Anil Kumble,30176,17 October 1970,Karnataka,,,,,158,10.17,0,27.55,2
+1999,india,Nayan Mongia,31036,19 December 1969,Baroda,wk,,,,123,19.73,0,,
+1999,india,Sachin Tendulkar,35320,24 April 1973,Mumbai,,,,,211,42.39,21,46.74,1
+1999,india,Venkatesh Prasad,32345,5 August 1969,Karnataka,,,,,104,5.5,0,34.48,0
+1999,india,Nikhil Chopra,27641,19 August 1973,Uttar Pradesh,,,,,11,15.4,0,46,0
+1999,india,Debasis Mohanty,31025,20 July 1976,Odisha,,,,,20,9,0,36.9,0
+1999,india,Javagal Srinath,34105,31 August 1969,Karnataka,,,,,153,11.7,0,27.14,3
+1999,india,Amay Khurasiya,30112,18 May 1972,Madhya Pradesh,,,,,,,,,
+1999,kenya,Aasif Karim,24699,15 September 1963,"Jaffery,Mombasa",c,,,,20,11.16,0,38.64,1
+1999,kenya,Maurice Odumbe,24708,15 June 1969,"Aga Khan,Nairobi",,,,,20,26.23,0,34.64,0
+1999,kenya,Ravindu Shah,24719,28 August 1972,"Nairobi Gymkhana,Kisumu",,,,,5,42.6,0,,0
+1999,kenya,Kennedy Otieno,24714,11 March 1972,"Ruaraka,Nairobi",wk,,,,20,32.88,1,,
+1999,kenya,Steve Tikolo,24728,25 June 1971,"Swamibapa,Nairobi",,,,,20,26.36,0,34.15,0
+1999,kenya,Hitesh Modi,24701,13 October 1971,"Nairobi Gymkhana,Kisumu",,,,,20,28.18,0,,0
+1999,kenya,Sandeep Gupta,24694,7 April 1967,,,,,,3,14.33,0,,
+1999,kenya,Thomas Odoyo,24705,12 May 1978,"Nairobi Gymkhana,Kisumu",,,,,19,14.53,0,53.09,0
+1999,kenya,Tony Suji,24723,5 February 1976,"Aga Khan,Nairobi",,,,,8,19.33,0,51.33,0
+1999,kenya,Martin Suji,24725,2 June 1971,"Aga Khan,Nairobi",,,,,19,9.2,0,45.92,0
+1999,kenya,Mohammad Sheikh,24721,29 August 1980,,,,,,11,9.5,0,33.9,0
+1999,kenya,Joseph Angara,24689,8 November 1971,"Swamibapa,Nairobi",,,,,3,6,0,45,0
+1999,kenya,Dipak Chudasama,24692,20 May 1963,,,,,,18,25.35,1,,
+1999,kenya,Alpesh Vadher,24729,7 September 1974,"Premier,Nairobi",,,,,8,31,0,,
+1999,kenya,Jimmy Kamande,24697,12 December 1978,,,,,,,,,,
+1999,new_zealand,Stephen Fleming,37000,1 April 1973,Canterbury,c,,,,96,32.92,3,28,0
+1999,new_zealand,Geoff Allott,36179,24 December 1971,Canterbury,,,,,6,7,0,24.66,0
+1999,new_zealand,Nathan Astle,36185,15 September 1971,Canterbury,,,,,75,34.41,5,33.34,0
+1999,new_zealand,Carl Bulfin,36312,19 August 1973,Wellington,,,,,,,,,
+1999,new_zealand,Chris Cairns,36597,13 June 1970,Canterbury,,,,,100,27.15,2,32.59,1
+1999,new_zealand,Simon Doull,36835,6 August 1969,Northern Districts,,,,,38,12.76,0,39.29,0
+1999,new_zealand,Chris Harris,37232,20 November 1969,Canterbury,,,,,120,30.52,1,34.23,1
+1999,new_zealand,Matthew Hart,37237,16 May 1972,Northern Districts,,,,,11,8.16,0,26.69,1
+1999,new_zealand,Matthew Horne,37250,5 December 1970,Otago,,,,,29,19.35,0,,
+1999,new_zealand,Gavin Larsen,37601,27 September 1962,Wellington,,,,,106,14.66,0,34.22,0
+1999,new_zealand,Craig McMillan,37712,13 September 1976,Canterbury,,,,,36,26.78,0,29,0
+1999,new_zealand,Dion Nash,38008,20 November 1971,Northern Districts,,,,,51,15.28,0,39.4,0
+1999,new_zealand,Adam Parore,38117,23 January 1971,Auckland,wk,,,,107,29.76,1,,
+1999,new_zealand,Roger Twose,38624,17 April 1968,Wellington,,,,,30,26.6,0,58.75,0
+1999,new_zealand,Daniel Vettori,38710,27 January 1979,Northern Districts,,,,,31,14.45,0,39.68,0
+1999,pakistan,Wasim Akram,43547,3 June 1966,PIA,c,,,,254,15.29,0,23.1,5
+1999,pakistan,Moin Khan,41306,23 September 1971,,wk,,,,118,23.71,0,,
+1999,pakistan,Saleem Malik,42623,16 April 1963,,,,,,276,33.11,5,33.05,1
+1999,pakistan,Ijaz Ahmed,40551,20 September 1968,,,,,,215,32.41,9,116,0
+1999,pakistan,Waqar Younis,43543,16 November 1971,Rawalpindi,,,,,172,9.96,0,23.12,9
+1999,pakistan,Saeed Anwar,42605,6 September 1968,,,,,,161,40.35,15,55.66,0
+1999,pakistan,Mushtaq Ahmed,41316,28 June 1970,,,,,,130,9.02,0,33.62,1
+1999,pakistan,InzamamulHaq,40570,3 March 1970,Rawalpindi,,,,,171,38.35,5,26,0
+1999,pakistan,Saqlain Mushtaq,42628,29 December 1976,Surrey,,,,,88,11.85,0,18.71,4
+1999,pakistan,Shahid Afridi,42639,1 March 1980,Habib,,,,,71,24.3,2,54.2,0
+1999,pakistan,Azhar Mahmood,39024,28 February 1975,Islamabad,,,,,49,16.74,0,49.47,0
+1999,pakistan,Abdul Razzaq,39836,2 December 1979,Lahore,,,,,13,12.62,0,36.25,0
+1999,pakistan,Yousuf Youhana,43650,27 August 1974,PIA,,,,,13,53.22,1,,
+1999,pakistan,Shoaib Akhtar,42655,13 August 1975,,,,,,5,44,0,41.4,0
+1999,pakistan,Wajahatullah Wasti,43539,11 November 1974,,,,,,,,,,
+1999,scotland,George Salmond,25109,1 December 1969,,c,,,,,,,,
+1999,scotland,Ian Philip,25106,9 June 1958,,,,,,,,,,
+1999,scotland,Michael Allingham,25132,6 January 1965,,,,,,,,,,
+1999,scotland,John Blain,25087,4 January 1979,Northamptonshire,,,,,,,,,
+1999,scotland,James Brinkley,25409,13 March 1974,,,,,,,,,,
+1999,scotland,Asim Butt,25429,24 June 1967,,,,,,,,,,
+1999,scotland,Alec Davies,25091,14 August 1962,,wk,,,,,,,,
+1999,scotland,Nick Dyer,25092,10 September 1969,,,,,,,,,,
+1999,scotland,Gavin Hamilton,14020,16 September 1974,Yorkshire,,,,,,,,,
+1999,scotland,Bruce Patterson,25105,29 January 1965,,,,,,,,,,
+1999,scotland,Keith Sheridan,25110,26 March 1971,,,,,,,,,,
+1999,scotland,Mike Smith,25113,30 March 1966,,,,,,,,,,
+1999,scotland,Ian Stanger,25115,5 October 1971,,,,,,,,,,
+1999,scotland,Peter Steindl,25116,14 June 1970,,,,,,,,,,
+1999,scotland,Greig Williamson,25121,28 December 1968,,,,,,,,,,
+1999,south_africa,Gary Kirsten,45813,23 November 1967,Western Province,,,,,94,42.28,8,,0
+1999,south_africa,Herschelle Gibbs,45224,23 February 1974,Western Province,,,,,20,22.8,1,,
+1999,south_africa,Jacques Kallis,45789,16 October 1975,Western Province,,,,,55,38.45,3,33.74,1
+1999,south_africa,Daryll Cullinan,44489,4 March 1967,Gauteng,,,,,105,35.27,3,20,0
+1999,south_africa,Hansie Cronje,44485,25 September 1969,Free State,c,,,,149,40,2,35.65,1
+1999,south_africa,Dale Benkenstein,44070,9 June 1974,KwaZuluNatal,,,,,5,43,0,,
+1999,south_africa,Shaun Pollock,46774,16 July 1973,Warwickshire,,,,,60,32.6,0,24.4,1
+1999,south_africa,Jonty Rhodes,46973,27 July 1969,KwaZuluNatal,,,,,144,33.16,1,,
+1999,south_africa,Mark Boucher,44111,3 December 1976,Border,wk,,,,20,13.4,0,,
+1999,south_africa,Allan Donald,44716,20 October 1966,Warwickshire,,,,,107,4.93,0,21.22,2
+1999,south_africa,Derek Crookes,44486,5 March 1969,Gauteng,,,,,24,17.35,0,45.86,0
+1999,south_africa,Alan Dawson,44682,27 November 1969,Western Province,,,,,1,,,51,0
+1999,south_africa,Lance Klusener,45821,4 September 1971,KwaZuluNatal,,,,,43,33.36,0,30.5,4
+1999,south_africa,Steve Elworthy,44960,23 February 1965,Northerns,,,,,10,14,0,23.25,0
+1999,south_africa,Nicky Boje,44091,20 March 1973,Free State,,,,,12,12.4,0,30.28,0
+1999,sri_lanka,Arjuna Ranatunga,50244,1 December 1963,Sinhalese,c,,,,258,36.79,4,47.55,0
+1999,sri_lanka,Muttiah Muralitharan,49636,17 April 1972,Lancashire,,,,,109,5.76,0,28.23,2
+1999,sri_lanka,Marvan Atapattu,48124,22 November 1970,Sinhalese,,,,,64,35.56,2,,0
+1999,sri_lanka,Mahela Jayawardene,49289,27 May 1977,Sinhalese,,,,,14,24.16,1,,0
+1999,sri_lanka,Roshan Mahanama,49626,31 May 1966,Bloomfield,,,,,208,29.56,4,,0
+1999,sri_lanka,Hashan Tillakaratne,50744,14 July 1967,Nondescripts,,,,,174,29,2,21.6,0
+1999,sri_lanka,Romesh Kaluwitharana,49361,24 November 1969,Colts,wk,,,,110,18.08,1,,
+1999,sri_lanka,Chaminda Vaas,50804,27 January 1974,Colts,,,,,103,12.91,0,26.3,0
+1999,sri_lanka,Aravinda de Silva,48462,17 October 1965,Nondescripts,,,,,248,35.94,11,38.9,0
+1999,sri_lanka,Pramodya Wickramasinghe,50848,14 August 1971,,,,,,105,7.93,0,42.84,0
+1999,sri_lanka,Ruwan Kalpage,49356,19 February 1970,,,,,,82,21.31,0,39.15,0
+1999,sri_lanka,Upul Chandana,48369,7 May 1972,Nondescripts,,,,,46,16.64,0,33.51,0
+1999,sri_lanka,Eric Upashantha,50791,10 June 1972,Colts,,,,,3,11,0,30.33,0
+1999,sri_lanka,Chandika Hathurusingha,49125,13 September 1968,Moors,,,,,34,21.58,0,47.85,0
+1999,sri_lanka,Sanath Jayasuriya,49209,30 June 1969,Bloomfield,,,,,178,28.66,7,35.19,2
+1999,west_indies,Brian Lara,52337,2 May 1969,Trinidad and Tobago,c,,,,136,46.03,12,17,0
+1999,west_indies,Shivnarine Chanderpaul,51469,16 August 1974,Guyana,,,,,58,36.25,2,39.08,0
+1999,west_indies,Ricardo Powell,52681,16 December 1978,Jamaica,,,,,,,,,
+1999,west_indies,Stuart Williams,53234,12 August 1969,Leeward,,,,,46,35.73,1,30,0
+1999,west_indies,Sherwin Campbell,51462,1 January 1970,Barbados,,,,,38,22.13,0,,
+1999,west_indies,Keith Arthurton,51110,21 February 1965,Leeward,,,,,95,28.09,0,25.64,0
+1999,west_indies,Ridley Jacobs,52199,26 November 1967,Leeward,wk,,,,15,10.25,0,,
+1999,west_indies,Phil Simmons,52934,18 April 1963,Trinidad and Tobago,,,,,133,29.43,5,35.21,0
+1999,west_indies,Curtly Ambrose,51107,21 September 1963,Leeward,,,,,155,11.16,0,23.27,4
+1999,west_indies,Courtney Walsh,53216,30 October 1962,Jamaica,,,,,185,7.48,0,30.94,1
+1999,west_indies,Jimmy Adams,51100,9 January 1968,Jamaica,,,,,74,28.05,0,30.36,1
+1999,west_indies,Hendy Bryan,51235,17 March 1970,Barbados,,,,,,,,,
+1999,west_indies,Mervyn Dillon,51651,5 June 1974,Trinidad and Tobago,,,,,11,,0,38.66,0
+1999,west_indies,Nehemiah Perry,52675,16 June 1968,Jamaica,,,,,,,,,
+1999,west_indies,Reon King,52294,6 October 1975,,,,,,6,19,0,43.4,0
+1999,zimbabwe,Alistair Campbell,55301,23 September 1972,,c,,,,92,28.67,3,44.75,0
+1999,zimbabwe,Andy Flower,55427,28 April 1968,Mashonaland,wk,,,,100,31.97,1,,0
+1999,zimbabwe,Grant Flower,55429,20 December 1970,,,,,,87,35.39,2,35.91,0
+1999,zimbabwe,Neil Johnson,55528,24 January 1970,,,,,,9,39,1,74.4,0
+1999,zimbabwe,Murray Goodwin,55456,11 December 1972,Mashonaland,,,,,26,27.76,1,57.66,0
+1999,zimbabwe,Stuart Carlisle,55307,10 May 1972,,,,,,8,11.28,0,,
+1999,zimbabwe,Henry Olonga,55675,3 July 1976,Matabeleland,,,,,6,6,0,41,0
+1999,zimbabwe,Pommie Mbangwa,55584,26 June 1976,Matabeleland,,,,,13,4.8,0,77.85,0
+1999,zimbabwe,Heath Streak,55761,16 March 1974,Matabeleland,,,,,69,19.86,0,30.87,1
+1999,zimbabwe,Adam Huckle,55502,21 September 1971,Matabeleland,,,,,13,4.5,0,158.33,0
+1999,zimbabwe,Dirk Viljoen,55825,11 March 1977,,,,,,9,15.62,0,33.5,0
+1999,zimbabwe,Eddo Brandes,55267,5 March 1963,Mashonaland,,,,,54,11.37,0,31.17,2
+1999,zimbabwe,Paul Strang,55758,28 July 1970,Mashonaland,,,,,69,25.13,0,31.75,1
+1999,zimbabwe,Andy Whittall,55846,19 March 1973,Matabeleland,,,,,40,10.07,0,44.71,0
+1999,zimbabwe,Guy Whittall,55848,5 September 1972,Matabeleland,,,,,68,22.66,0,37.95,0
+2003,australia,Ricky Ponting,7133,19 December 1974,Tasmania,c,,,,157,41.33,11,34.66,0
+2003,australia,Michael Bevan,4144,8 May 1970,New South Wales,,,,,196,54.8,6,45.97,0
+2003,australia,Andy Bichel,4146,27 August 1970,Queensland,,,,,38,15.33,0,33.59,1
+2003,australia,Nathan Bracken,4185,12 September 1977,New South Wales,,,,,11,,,25.5,0
+2003,australia,Adam Gilchrist,5390,14 November 1971,Western Australia,wk,,,,152,34.16,8,,
+2003,australia,Jason Gillespie,5392,19 April 1975,South Australia,,,,,46,10,0,25.8,2
+2003,australia,Ian Harvey,5597,10 April 1972,Victoria,,,,,43,17.87,0,34.59,0
+2003,australia,Nathan Hauritz,5593,18 October 1981,Queensland,,,,,5,,0,26.42,0
+2003,australia,Matthew Hayden,5616,29 October 1971,Queensland,,,,,54,45.53,2,,0
+2003,australia,Brad Hogg,5681,6 February 1971,Western Australia,,,,,15,31.75,0,37.26,0
+2003,australia,Brett Lee,6278,8 November 1976,New South Wales,,,,,55,16,0,22.48,2
+2003,australia,Darren Lehmann,6285,5 February 1970,South Australia,,,,,85,37.45,3,31.4,0
+2003,australia,Jimmy Maher,6462,27 February 1974,Queensland,,,,,19,31.18,0,,
+2003,australia,Damien Martyn,6513,21 October 1971,Western Australia,,,,,113,40.13,4,56.91,0
+2003,australia,Glenn McGrath,6565,9 February 1970,New South Wales,,,,,168,3.82,0,22.85,5
+2003,australia,Andrew Symonds,7702,9 June 1975,Queensland,,,,,54,23.81,0,32.13,0
+2003,australia,Shane Warne,8166,13 September 1969,Victoria,,,,,193,13.02,0,25.82,1
+2003,england,Nasser Hussain,14325,28 March 1968,Essex,c,,,,84,31.18,1,,
+2003,england,James Anderson,8608,30 July 1982,Lancashire,,,,,9,2.66,0,28.69,0
+2003,england,Ian Blackwell,9117,10 June 1978,Somerset,,,,,12,17.83,0,31.5,0
+2003,england,Andrew Caddick,10633,21 November 1968,Somerset,,,,,49,11.78,0,29.29,0
+2003,england,Paul Collingwood,10772,26 May 1976,Durham,,,,,33,30.7,1,43.33,0
+2003,england,Andrew Flintoff,12856,6 December 1977,Lancashire,,,,,47,23.97,0,30.35,0
+2003,england,Ashley Giles,13368,19 March 1973,Warwickshire,,,,,22,11.87,0,37.45,1
+2003,england,Steve Harmison,14054,23 October 1978,Durham,,,,,5,9,0,45.6,0
+2003,england,Matthew Hoggard,14236,31 December 1976,Yorkshire,,,,,20,3.33,0,30.25,1
+2003,england,Ronnie Irani,15403,26 October 1971,Essex,,,,,29,15.13,0,44.33,1
+2003,england,Nick Knight,15913,28 November 1969,Warwickshire,,,,,95,41.57,5,,
+2003,england,Alec Stewart,20372,8 April 1963,Surrey,wk,,,,165,31.53,4,,
+2003,england,Marcus Trescothick,21585,25 December 1975,Somerset,,,,,56,37.18,4,22.5,0
+2003,england,Michael Vaughan,22182,29 October 1974,Yorkshire,,,,,21,22.36,0,25.12,0
+2003,england,Craig White,22403,16 December 1969,Yorkshire,,,,,46,14.81,0,27.62,1
+2003,india,Sourav Ganguly,28779,8 July 1972,Bengal,c,,,,218,42.33,19,35.36,2
+2003,india,Ajit Agarkar,26184,4 December 1977,Mumbai,,,,,110,17,0,28.73,0
+2003,india,Sanjay Bangar,27225,11 October 1972,Railways,,,,,11,17.88,0,58.4,0
+2003,india,Rahul Dravid,28114,11 January 1973,Karnataka,wk,,,,196,38.39,8,42.5,0
+2003,india,Mohammad Kaif,29990,1 December 1980,Uttar Pradesh,,,,,37,32.59,1,,
+2003,india,Zaheer Khan,30102,7 October 1978,Baroda,,,,,56,13,0,26.51,0
+2003,india,Anil Kumble,30176,17 October 1970,Karnataka,,,,,238,10.47,0,29.77,2
+2003,india,Dinesh Mongia,31034,17 April 1977,Punjab,,,,,32,27.75,1,42,0
+2003,india,Ashish Nehra,31820,29 April 1979,Delhi,,,,,30,7.8,0,38.63,0
+2003,india,Parthiv Patel,57851,9 March 1985,Gujarat,wk,,,,,,,,
+2003,india,Virender Sehwag,35263,20 October 1978,Delhi,,,,,57,36.32,5,44.34,0
+2003,india,Harbhajan Singh,29264,3 July 1980,Punjab,,,,,63,11.66,0,29.03,1
+2003,india,Yuvraj Singh,36084,12 December 1981,Punjab,,,,,59,28.64,0,39.83,0
+2003,india,Javagal Srinath,34105,31 August 1969,Karnataka,,,,,218,11.02,0,28.35,3
+2003,india,Sachin Tendulkar,35320,24 April 1973,Mumbai,,,,,303,43.73,33,46.86,1
+2003,namibia,Deon Kotze,24841,12 September 1973,Wanderers,c,,,,,,,,
+2003,namibia,JanBerrie Burger,24839,25 August 1981,Police,,,,,,,,,
+2003,namibia,Louis Burger,24837,12 March 1978,United,,,,,,,,,
+2003,namibia,Sarel Burger,24844,13 February 1983,United,,,,,,,,,
+2003,namibia,Morne Karg,24794,12 July 1977,United,wk,,,,,,,,
+2003,namibia,Danie Keulder,24796,2 August 1973,Wanderers,,,,,,,,,
+2003,namibia,Bjorn Kotze,24807,11 December 1978,Wanderers,,,,,,,,,
+2003,namibia,Lennie Louw,24808,19 June 1959,CCD,,,,,,,,,
+2003,namibia,Johannes van der Merwe,24843,5 February 1980,Unknown,,,,,,,,,
+2003,namibia,Bryan Murgatroyd,24799,19 October 1969,Wanderers,,,,,,,,,
+2003,namibia,Burton van Rooi,24798,9 July 1982,CCD,,,,,,,,,
+2003,namibia,Melt van Schoor,24804,8 December 1967,Police,wk,,,,,,,,
+2003,namibia,Gerrie Snyman,24827,30 April 1981,United,,,,,,,,,
+2003,namibia,Stefan Swanepoel,24846,2 December 1981,Wanderers,,,,,,,,,
+2003,namibia,Rudi van Vuuren,24825,20 September 1972,Police,,,,,,,,,
+2003,namibia,Riaan Walters,24835,10 August 1980,United,,,,,,,,,
+2003,netherlands,Roland Lefebvre,24918,7 February 1963,VOC Rotterdam,c,,,,6,38,0,41,0
+2003,netherlands,Daan van Bunge,24964,19 October 1982,Voorburg CC,,,,,2,2,0,,
+2003,netherlands,JacobJan Esmeijer,24891,28 May 1972,Excelsior'20,,,,,2,3.5,0,,0
+2003,netherlands,Victor Grandia,24903,10 January 1979,VRA Amsterdam,,,,,1,0,0,40,0
+2003,netherlands,Feiko Kloppenburg,24901,19 June 1974,Rood en Wit Haarlem,,,,,1,7,0,23,0
+2003,netherlands,Tim de Leede,24882,25 January 1968,Voorburg CC,,,,,7,20.71,0,,0
+2003,netherlands,HendrikJan Mol,24923,29 March 1977,Quick Den Haag,,,,,1,0,0,,
+2003,netherlands,Ruud Nijman,25021,15 June 1982,Hermes DVS,,,,,,,,,
+2003,netherlands,KlaasJan van Noortwijk,24974,10 July 1970,VOC Rotterdam,,,,,5,42,0,,
+2003,netherlands,Adeel Raja,58547,15 August 1980,VRA Amsterdam,,,,,,,,,
+2003,netherlands,Edgar Schiferli,24943,17 May 1976,Quick Den Haag,,,,,2,7.5,0,,0
+2003,netherlands,Reinout Scholte,24945,10 August 1967,VOC Rotterdam,wk,,,,2,11.5,0,,
+2003,netherlands,Jeroen Smits,24952,21 June 1972,HCC Den Haag,wk,,,,,,,,
+2003,netherlands,Nick Statham,24956,15 March 1975,Hermes DVS,,,,,,,,,
+2003,netherlands,Luuk van Troost,24969,28 September 1969,Excelsior'20,,,,,2,8,0,,0
+2003,netherlands,Bas Zuiderent,24990,3 March 1977,Sussex,,,,,7,16.33,0,,
+2003,pakistan,Waqar Younis,43543,16 November 1971,National Bank,c,,,,256,10.57,0,23.81,13
+2003,pakistan,Abdul Razzaq,39836,2 December 1979,PIA,,,,,119,27.69,1,25.67,3
+2003,pakistan,Azhar Mahmood,39024,28 February 1975,PIA,,,,,123,17.68,0,37.33,3
+2003,pakistan,InzamamulHaq,40570,3 March 1970,National Bank,,,,,284,39.2,8,21.33,0
+2003,pakistan,Mohammad Sami,41324,24 February 1981,National Bank,,,,,18,3.33,0,29,0
+2003,pakistan,Rashid Latif,42423,14 October 1968,Allied Bank,wk,,,,143,19.04,0,,
+2003,pakistan,Saeed Anwar,42605,6 September 1968,National Bank,,,,,242,38.94,19,35.2,0
+2003,pakistan,Saleem Elahi,42620,21 November 1976,Habib Bank,,,,,36,37.38,4,,
+2003,pakistan,Saqlain Mushtaq,42628,29 December 1976,PIA,,,,,165,11.76,0,21.64,6
+2003,pakistan,Shahid Afridi,42639,1 March 1980,Habib Bank,,,,,173,24.04,3,39.11,1
+2003,pakistan,Shoaib Akhtar,42655,13 August 1975,Khan Research Labs,,,,,75,7.53,0,21,3
+2003,pakistan,Taufeeq Umar,43363,20 June 1981,Habib Bank,,,,,6,30,0,77,0
+2003,pakistan,Wasim Akram,43547,3 June 1966,PIA,,,,,350,16.42,0,23.69,5
+2003,pakistan,Younis Khan,43652,29 November 1977,Habib Bank,,,,,70,31.43,0,63,0
+2003,pakistan,Yousuf Youhana,43650,27 August 1974,PIA,,,,,121,42.88,8,,
+2003,zimbabwe,Heath Streak,55761,16 March 1974,Matabeleland,c,,,,149,24.27,0,31.13,1
+2003,zimbabwe,Andy Blignaut,55259,1 August 1978,Mashonaland,,,,,16,22.27,0,40.42,0
+2003,zimbabwe,Alistair Campbell,55301,23 September 1972,Manicaland,,,,,187,30.63,7,36.16,0
+2003,zimbabwe,Dion Ebrahim,55416,7 August 1980,Mashonaland,,,,,36,21.39,1,,0
+2003,zimbabwe,Sean Ervine,55414,6 December 1982,Midlands,,,,,13,16.55,0,52.09,0
+2003,zimbabwe,Andy Flower,55427,28 April 1968,Mashonaland,wk,,,,205,34.88,4,,0
+2003,zimbabwe,Grant Flower,55429,20 December 1970,Mashonaland,,,,,192,33.57,6,38.29,0
+2003,zimbabwe,Travis Friend,55438,7 January 1981,Midlands,,,,,39,17.17,0,46.13,0
+2003,zimbabwe,Douglas Hondo,55509,7 July 1979,Mashonaland,,,,,13,12.33,0,28,0
+2003,zimbabwe,Dougie Marillier,55578,24 April 1978,Midlands,,,,,35,16.11,0,37.84,0
+2003,zimbabwe,Stuart Matsikenyeri,55612,3 May 1983,Manicaland,,,,,2,0.5,0,,
+2003,zimbabwe,Brian Murphy,55610,1 December 1976,Mashonaland,,,,,26,9.85,0,41.29,0
+2003,zimbabwe,Henry Olonga,55675,3 July 1976,Manicaland,,,,,48,7.66,0,34.17,2
+2003,zimbabwe,Tatenda Taibu,55805,14 May 1983,Mashonaland,wk,,,,20,16.12,0,,
+2003,zimbabwe,Mark Vermeulen,55822,2 March 1979,Matabeleland,,,,,7,38.4,0,,
+2003,zimbabwe,Guy Whittall,55848,5 September 1972,Manicaland,,,,,141,22.81,0,40,0
+2003,zimbabwe,Craig Wishart,55854,9 January 1974,Midlands,,,,,72,21.74,1,,0
+2003,bangladesh,Khaled Mashud,55954,8 February 1976,"Victoria,Rajshahi",c/wk,,,,51,17.34,0,,
+2003,bangladesh,Akram Khan,56221,1 November 1968,Chittagong,,,,,38,23.8,0,,0
+2003,bangladesh,Al Sahariar,56219,23 April 1978,"Victoria,Dhaka",,,,,22,15.23,0,,
+2003,bangladesh,Alok Kapali,56251,1 January 1984,"Victoria,Sylhet",,,,,11,25.33,0,229,0
+2003,bangladesh,Ehsanul Haque,55880,1 December 1979,"Mohammedan,Chittagong",,,,,2,14.5,0,79,0
+2003,bangladesh,Habibul Bashar,55906,17 August 1972,Biman,,,,,27,20.29,0,142,0
+2003,bangladesh,Hannan Sarkar,55915,1 December 1982,"Surjotorun,Barisal",,,,,4,7,0,,
+2003,bangladesh,Khaled Mahmud,55952,26 July 1971,"Biman,Dhaka",,,,,34,14.53,0,40.93,0
+2003,bangladesh,Manjural Islam,55968,7 November 1979,"Victoria,Khulna",,,,,26,7,0,53.05,0
+2003,bangladesh,Mashrafe Mortaza,56007,5 October 1983,"Azad,Khulna",,,,,3,6.66,0,29,0
+2003,bangladesh,Mohammad Ashraful,55988,7 July 1984,"Surjotorun,Dhaka",,,,,11,15.54,0,30,0
+2003,bangladesh,Mohammad Rafique,55973,5 September 1970,"Mohammedan,Dhaka",,,,,34,12.3,0,50.74,0
+2003,bangladesh,Sanwar Hossain,56107,5 August 1973,"Mohammedan,Barisal",,,,,14,12.38,0,59,0
+2003,bangladesh,Talha Jubair,56180,10 December 1985,"Kalabagan,Dhaka",,,,,4,0.5,0,30.83,0
+2003,bangladesh,Tapash Baisya,56176,15 December 1982,"Mohammedan,Sylhet",,,,,10,14.6,0,40.7,0
+2003,bangladesh,Tushar Imran,56186,20 December 1983,"City Club,Khulna",,,,,13,21.3,0,,
+2003,canada,Joe Harris,23809,16 August 1965,Toronto,c,,,,,,,,
+2003,canada,Ashish Bagai,23797,26 January 1982,Toronto,wk,,,,,,,,
+2003,canada,Ian Billcliff,23850,26 October 1972,Vikings,,,,,,,,,
+2003,canada,Desmond Chumney,23767,8 January 1968,Victoria Park,,,,,,,,,
+2003,canada,Austin Codrington,23848,22 August 1975,Overseas,,,,,,,,,
+2003,canada,John Davison,23852,9 May 1970,South Australia,,,,,,,,,
+2003,canada,Nicholas de Groot,23854,22 October 1975,Vikings,,,,,,,,,
+2003,canada,Nicholas Ifill,23816,24 November 1968,Victoria Park,,,,,,,,,
+2003,canada,Davis Joseph,23777,31 July 1963,Victoria Park,,,,,,,,,
+2003,canada,Ishwar Maraj,23846,26 January 1969,Overseas,,,,,,,,,
+2003,canada,Ashish Patel,23770,31 July 1975,Quebec,,,,,,,,,
+2003,canada,Abdool Samad,23826,3 May 1979,Cavaliers,wk,,,,,,,,
+2003,canada,Fazil Samad,52995,6 April 1975,Cavaliers,,,,,,,,,
+2003,canada,Barry Seebaran,23785,12 September 1972,Richmond,,,,,,,,,
+2003,canada,Sanjayan Thuraisingam,23856,11 September 1969,Toronto,,,,,,,,,
+2003,kenya,Steve Tikolo,24728,25 June 1971,"Swamibapa,Nairobi",c,,,,51,30.8,1,41.5,0
+2003,kenya,Joseph Angara,24689,8 November 1971,"Swamibapa,Nairobi",,,,,15,4.6,0,42.18,0
+2003,kenya,Aasif Karim,24699,15 December 1963,"Jaffery,Mombasa",,,,,30,12.66,0,43.54,1
+2003,kenya,Hitesh Modi,24701,13 October 1971,"Nairobi Gymkhana,Kisumu",,,,,41,25.8,0,,0
+2003,kenya,Collins Obuya,24752,27 July 1981,"Ruaraka,Nairobi",,,,,16,13.45,0,89.42,0
+2003,kenya,David Obuya,24760,14 August 1979,"Ruaraka,Nairobi",wk,,,,16,9.53,0,,
+2003,kenya,Thomas Odoyo,24705,12 May 1978,"Nairobi Gymkhana,Nairobi",,,,,51,20.34,0,40.57,0
+2003,kenya,Maurice Odumbe,24708,15 June 1969,"Aga Khan,Nairobi",,,,,50,23.58,0,48,0
+2003,kenya,Peter Ongondo,24762,10 February 1977,"Swamibapa,Nairobi",,,,,8,8.6,0,215,0
+2003,kenya,Kennedy Otieno,24714,11 March 1972,"Ruaraka,Nairobi",wk,,,,49,25.93,2,,0
+2003,kenya,Brijal Patel,24776,14 November 1977,"Premier,Nairobi",,,,,13,27.28,0,54,0
+2003,kenya,Ravindu Shah,24719,28 August 1972,"Nairobi Gymkhana,Nairobi",,,,,33,25.06,0,,0
+2003,kenya,Martin Suji,24725,2 June 1971,"Aga Khan,Nairobi",,,,,49,7.78,0,50.66,0
+2003,kenya,Tony Suji,24723,5 February 1976,"Aga Khan,Nairobi",,,,,35,12.79,0,74.6,0
+2003,kenya,Alpesh Vadher,24729,7 September 1974,"Premier,Nairobi",,,,,18,27.8,0,,
+2003,new_zealand,Stephen Fleming,37000,1 April 1973,Wellington,c,,,,189,30.6,3,28,0
+2003,new_zealand,Andre Adams,36192,17 July 1975,Auckland,,,,,20,22,0,23.25,1
+2003,new_zealand,Nathan Astle,36185,15 September 1971,Canterbury,,,,,167,34.14,12,36.19,0
+2003,new_zealand,Shane Bond,36326,7 June 1975,Canterbury,,,,,18,19.5,0,20.53,1
+2003,new_zealand,Chris Cairns,36597,13 June 1970,Canterbury,,,,,154,28.84,4,31.9,1
+2003,new_zealand,Chris Harris,37232,20 November 1969,Canterbury,,,,,219,29.96,1,36.27,1
+2003,new_zealand,Brendon McCullum,37737,27 September 1981,Otago,wk,,,,14,12.66,0,,
+2003,new_zealand,Craig McMillan,37712,13 September 1976,Canterbury,,,,,124,26.46,2,32.89,0
+2003,new_zealand,Kyle Mills,37740,15 March 1979,Auckland,,,,,16,11.28,0,21.86,0
+2003,new_zealand,Jacob Oram,38062,28 July 1978,Central Districts,,,,,29,16.39,0,32.19,1
+2003,new_zealand,Mathew Sinclair,38393,9 November 1975,Central Districts,,,,,32,26.86,2,,
+2003,new_zealand,Scott Styris,38407,10 July 1975,Northern Districts,,,,,51,20.34,0,34.01,1
+2003,new_zealand,Daryl Tuffey,38620,11 June 1978,Northern Districts,,,,,44,7.71,0,28.53,0
+2003,new_zealand,Daniel Vettori,38710,27 January 1979,Northern Districts,,,,,99,11.29,0,39.3,0
+2003,new_zealand,Lou Vincent,38714,11 November 1978,Auckland,wk,,,,47,24.9,0,,0
+2003,south_africa,Shaun Pollock,46774,16 July 1973,KwaZuluNatal,c,,,,180,23.97,0,22.88,4
+2003,south_africa,Nicky Boje,44091,20 March 1973,Free State,,,,,85,27.21,2,32.75,1
+2003,south_africa,Mark Boucher,44111,6 December 1976,Border,wk,,,,137,23.81,0,,
+2003,south_africa,Boeta Dippenaar,44708,14 June 1977,Free State,,,,,50,42.89,0,,
+2003,south_africa,Allan Donald,44716,20 October 1966,Free State,,,,,161,4.31,0,21.37,2
+2003,south_africa,Herschelle Gibbs,45224,23 February 1974,Western Province,,,,,117,34.8,11,,
+2003,south_africa,Andrew Hall,45396,31 July 1975,Northerns,,,,,26,21.75,0,43.37,0
+2003,south_africa,Jacques Kallis,45789,16 October 1975,Western Province,,,,,168,44.04,8,29.73,2
+2003,south_africa,Gary Kirsten,45813,23 November 1967,Western Province,,,,,179,40.56,13,,0
+2003,south_africa,Lance Klusener,45821,4 September 1971,KwaZuluNatal,,,,,149,42.72,2,29.42,6
+2003,south_africa,Charl Langeveldt,45963,17 December 1974,Boland,,,,,3,3,0,16.16,0
+2003,south_africa,Makhaya Ntini,46592,6 July 1977,Border,,,,,62,3.71,0,24.86,2
+2003,south_africa,Robin Peterson,46750,4 August 1979,Eastern Province,,,,,6,8,0,70.33,0
+2003,south_africa,Jonty Rhodes,46973,27 July 1969,KwaZuluNatal,,,,,243,35.31,2,,0
+2003,south_africa,Graeme Smith,47270,1 February 1981,Western Province,,,,,19,41.27,0,49,0
+2003,south_africa,Monde Zondeki,48112,25 July 1982,Border,,,,,2,,0,36.5,0
+2003,sri_lanka,Sanath Jayasuriya,49209,30 June 1969,Bloomfield,c,,,,287,32.13,15,35.88,3
+2003,sri_lanka,Russel Arnold,48122,25 October 1973,Nondescripts,,,,,109,38.09,1,44.25,0
+2003,sri_lanka,Marvan Atapattu,48124,22 November 1970,Sinhalese SC,,,,,180,37.98,8,,0
+2003,sri_lanka,Charitha Buddhika,48844,22 August 1980,Panadura,,,,,14,3.75,0,36.28,1
+2003,sri_lanka,Aravinda de Silva,48462,17 October 1965,Nondescripts,,,,,298,34.94,11,40.21,0
+2003,sri_lanka,Dilhara Fernando,48835,19 July 1979,Sinhalese SC,,,,,45,6.37,0,27.28,0
+2003,sri_lanka,Pulasthi Gunaratne,49043,27 September 1973,Tamil Union,,,,,17,4.2,0,29.47,0
+2003,sri_lanka,Avishka Gunawardene,49010,26 May 1977,Sinhalese SC,,,,,40,29.5,1,,
+2003,sri_lanka,Mahela Jayawardene,49289,27 May 1977,Sinhalese SC,,,,,131,32.01,6,71.71,0
+2003,sri_lanka,Jehan Mubarak,49633,10 January 1981,Colombo,,,,,5,9.6,0,,0
+2003,sri_lanka,Muttiah Muralitharan,49636,17 April 1972,Tamil Union,,,,,203,5.75,0,23.1,6
+2003,sri_lanka,Prabath Nissanka,49769,25 October 1980,Bloomfield,,,,,11,5,0,43,0
+2003,sri_lanka,Kumar Sangakkara,50710,27 October 1977,Nondescripts,wk,,,,75,27.06,0,,
+2003,sri_lanka,Hashan Tillakaratne,50744,14 July 1967,Nondescripts,,,,,188,29.38,2,23.5,0
+2003,sri_lanka,Chaminda Vaas,50804,27 January 1974,Colts,,,,,210,14.15,0,28.28,2
+2003,west_indies,Carl Hooper,52066,15 December 1966,Guyana,c,,,,221,35.83,7,35.74,0
+2003,west_indies,Shivnarine Chanderpaul,51469,16 August 1974,Guyana,,,,,126,36.44,3,42.85,0
+2003,west_indies,Pedro Collins,51479,12 August 1976,Barbados,,,,,20,6.25,0,28.39,0
+2003,west_indies,Corey Collymore,51481,21 December 1977,Barbados,,,,,31,7.16,0,29.18,1
+2003,west_indies,Mervyn Dillon,51651,5 June 1974,Trinidad and Tobago,,,,,74,7.8,0,29.21,2
+2003,west_indies,Vasbert Drakes,51655,5 August 1969,Barbados,,,,,17,8.33,0,25.65,0
+2003,west_indies,Chris Gayle,51880,21 September 1979,Jamaica,,,,,62,36.44,4,29.03,0
+2003,west_indies,Wavell Hinds,52057,7 September 1976,Jamaica,,,,,64,27.33,1,38.66,0
+2003,west_indies,Ridley Jacobs,52199,26 November 1967,Leeward Islands,wk,,,,112,23.5,0,,
+2003,west_indies,Brian Lara,52337,2 May 1969,Trinidad and Tobago,,,,,203,42.64,15,11.5,0
+2003,west_indies,Jermaine Lawson,52413,13 January 1982,Jamaica,,,,,5,3,0,28.71,0
+2003,west_indies,Nixon McLean,52430,20 July 1973,Windward Islands,,,,,44,12.36,0,36.76,0
+2003,west_indies,Ricardo Powell,52681,16 December 1978,Jamaica,,,,,58,26,1,49.5,0
+2003,west_indies,Marlon Samuels,52983,5 January 1981,Jamaica,,,,,39,32.93,1,34,0
+2003,west_indies,Ramnaresh Sarwan,52969,23 June 1980,Guyana,,,,,29,51.04,1,,0
+2007,australia,Ricky Ponting,7133,19 December 1974,Tasmanian Tigers,c,,,,266,42.22,21,34.66,0
+2007,australia,Nathan Bracken,4185,12 September 1977,New South Wales Blues,,,,,51,16.71,0,20.96,1
+2007,australia,Stuart Clark,4582,28 September 1975,New South Wales Blues,,,,,22,14.66,0,30.24,0
+2007,australia,Michael Clarke,4578,2 April 1981,New South Wales Blues,,,,,97,44.26,2,36.57,1
+2007,australia,Adam Gilchrist,5390,14 November 1971,Western Warriors,wk,,,,253,35.99,14,,
+2007,australia,Brad Haddin,5560,23 October 1977,New South Wales Blues,wk,,,,18,24.93,0,,
+2007,australia,Matthew Hayden,5616,29 October 1971,Queensland Bulls,,,,,127,40.5,6,,0
+2007,australia,Brad Hodge,5674,29 December 1974,Victorian Bushrangers,,,,,6,13.16,0,,0
+2007,australia,Brad Hogg,5681,6 February 1971,Western Warriors,,,,,90,20.66,0,27.32,2
+2007,australia,Michael Hussey,5939,27 May 1975,Western Warriors,,,,,54,81.47,1,77.5,0
+2007,australia,Mitchell Johnson,6033,2 November 1981,Queensland Bulls,,,,,15,7,0,23.78,0
+2007,australia,Glenn McGrath,6565,9 February 1970,New South Wales Blues,,,,,234,3.89,0,22.25,7
+2007,australia,Andrew Symonds,7702,9 June 1975,Queensland Bulls,,,,,160,38.44,5,37.25,1
+2007,australia,Shaun Tait,8076,22 February 1983,Southern Redbacks,,,,,,,,,
+2007,australia,Shane Watson,8180,17 June 1981,Queensland Bulls,,,,,52,30.58,0,31.28,0
+2007,netherlands,Luuk van Troost,24969,28 December 1969,Excelsior'20,c,,,,18,18.5,0,68.66,0
+2007,netherlands,Peter Borren,36592,21 August 1983,VRA Amsterdam,,,,,7,9.33,0,41.28,0
+2007,netherlands,Daan van Bunge,24964,19 October 1982,Excelsior'20,,,,,18,22.66,0,19.44,0
+2007,netherlands,Ryan ten Doeschate,47660,30 June 1980,Essex Eagles,,,,,8,50.16,0,27.45,0
+2007,netherlands,Mark Jonkman,245397,20 March 1986,HCC Den Haag,,,,,4,31,0,22.6,0
+2007,netherlands,Mohammad Kashif,243073,3 December 1984,VOC Rotterdam,,,,,4,0.5,0,50.66,0
+2007,netherlands,Alexei Kervezee,214695,11 September 1989,Worcestershire Royals,,,,,8,25.83,0,,
+2007,netherlands,Tim de Leede,24882,25 January 1968,Voorburg CC,,,,,23,15.75,0,32.24,0
+2007,netherlands,Adeel Raja,58547,15 August 1980,VRA Amsterdam,,,,,,,,,
+2007,netherlands,Darron Reekers,38261,26 May 1973,Quick Den Haag,,,,,6,27.33,0,26.25,0
+2007,netherlands,Edgar Schiferli,24943,17 May 1976,Quick Den Haag,,,,,10,10.22,0,76.2,0
+2007,netherlands,Jeroen Smits,24952,21 June 1972,HCC Den Haag,wk,,,,16,18.6,0,,
+2007,netherlands,Billy Stelling,47232,30 June 1969,HBS Craeyenhout,,,,,8,38,0,28.84,0
+2007,netherlands,Eric Szwarczynski,214696,13 February 1983,VRA Amsterdam,,,,,3,17,0,,
+2007,netherlands,Bas Zuiderent,24990,3 March 1977,VOC Rotterdam,,,,,23,18.85,0,,
+2007,scotland,Craig Wright,25123,28 April 1974,Greenock,c,,,,9,14.16,0,21.12,0
+2007,scotland,John Blain,25087,4 January 1979,Yorkshire Phoenix,,,,,15,13.77,0,35.44,0
+2007,scotland,Dougie Brown,9254,29 October 1969,Warwickshire Bears,,,,,18,17.83,0,38.94,0
+2007,scotland,Gavin Hamilton,14020,16 September 1974,Scottish Saltires,,,,,14,40.63,0,49.66,0
+2007,scotland,Majid Haq,25451,11 February 1983,Ferguslie,,,,,6,31,0,35,0
+2007,scotland,Paul Hoffmann,25432,14 January 1970,Uddingston,,,,,9,6.66,0,24.41,0
+2007,scotland,Dougie Lockhart,25098,19 January 1976,West of Scotland,,,,,3,39,0,,
+2007,scotland,Ross Lyons,25475,8 December 1984,Clydesdale,,,,,9,24.5,0,51.5,0
+2007,scotland,Neil McCallum,25430,22 November 1977,Grange,,,,,10,28.4,1,,
+2007,scotland,Dewald Nel,25481,6 June 1980,Greenock,,,,,4,,0,46,0
+2007,scotland,Navdeep Poonia,19276,11 May 1986,Warwickshire Bears,,,,,7,13.57,0,,
+2007,scotland,Glenn Rogers,272473,12 April 1977,Stenhousemuir,,,,,4,22.5,0,35.75,0
+2007,scotland,Colin Smith,25112,27 September 1972,Aberdeenshire,wk,,,,8,19.16,0,,
+2007,scotland,Ryan Watson,25428,12 November 1976,Forfarshire,,,,,10,42.88,1,58.33,0
+2007,scotland,Fraser Watts,25120,5 June 1979,Greenock,,,,,9,24.11,0,,
+2007,south_africa,Graeme Smith,47270,1 February 1981,Cape Cobras,c,,,,99,38.06,6,61.66,0
+2007,south_africa,Loots Bosman,44098,14 April 1977,Eagles,,,,,7,28.28,0,,
+2007,south_africa,Mark Boucher,44111,3 December 1976,Warriors,wk,,,,228,27.62,1,,
+2007,south_africa,AB de Villiers,44936,17 February 1984,Titans,wk,,,,26,27.48,0,,
+2007,south_africa,Herschelle Gibbs,45224,23 February 1974,Cape Cobras,,,,,194,35.62,16,,
+2007,south_africa,Andrew Hall,45396,31 July 1975,Dolphins Kent Spitfires,,,,,73,22.78,0,27.36,0
+2007,south_africa,Jacques Kallis,45789,16 October 1975,Cape Cobras,,,,,242,43.59,14,31.31,2
+2007,south_africa,Justin Kemp,45797,2 October 1977,Titans Kent Spitfires,,,,,64,32.88,1,30.42,0
+2007,south_africa,Charl Langeveldt,45963,17 December 1974,Lions,,,,,34,1.75,0,28.68,1
+2007,south_africa,André Nel,46569,15 July 1977,Titans,,,,,54,9.2,0,28.08,0
+2007,south_africa,Makhaya Ntini,46592,6 July 1977,Warriors,,,,,139,9.93,0,22.75,4
+2007,south_africa,Robin Peterson,46750,4 August 1979,Warriors,,,,,32,12.27,0,58.8,0
+2007,south_africa,Shaun Pollock,46774,16 July 1973,Dolphins,,,,,269,24.87,0,23.87,4
+2007,south_africa,Ashwell Prince,46788,28 May 1977,Cape Cobras,,,,,38,39.54,0,,
+2007,south_africa,Roger Telemachus,47539,27 March 1973,Eagles,,,,,37,6.08,0,27.94,0
+2007,bangladesh,Habibul Bashar,55906,17 August 1972,Khulna,c,,,,94,21.64,0,142,0
+2007,bangladesh,Abdur Razzak,56283,15 June 1982,Khulna,,,,,32,13.88,0,19.65,1
+2007,bangladesh,Aftab Ahmed,56266,10 November 1985,Chittagong,,,,,49,28.51,0,51.6,1
+2007,bangladesh,Farhad Reza,55894,16 June 1986,Rajshahi,,,,,12,28.87,0,160,0
+2007,bangladesh,Javed Omar,55935,25 November 1976,Dhaka,,,,,53,23.79,0,,
+2007,bangladesh,Mashrafe Mortaza,56007,5 October 1983,Khulna,,,,,51,17.1,0,28.73,1
+2007,bangladesh,Mohammad Ashraful,55988,9 September 1984,Dhaka,,,,,85,20.64,1,34.4,0
+2007,bangladesh,Mohammad Rafique,55973,5 September 1970,Dhaka,,,,,108,13.51,0,38.6,1
+2007,bangladesh,Mushfiqur Rahim,56029,1 September 1988,Rajshahi,wk,,,,5,24,0,,
+2007,bangladesh,Rajin Saleh,56074,20 November 1983,Sylhet,,,,,43,23.92,1,30.6,0
+2007,bangladesh,Shakib Al Hasan,56143,24 March 1987,Khulna,,,,,14,45.12,0,24.93,0
+2007,bangladesh,Shahadat Hossain,56149,7 August 1986,Dhaka,,,,,16,7,0,25.9,0
+2007,bangladesh,Shahriar Nafees,56153,25 January 1986,Barisal,,,,,35,40.21,3,,
+2007,bangladesh,Syed Rasel,56160,3 July 1984,Khulna,,,,,18,5,0,25.15,0
+2007,bangladesh,Tamim Iqbal,56194,20 March 1989,Chittagong,,,,,,,,,
+2007,bangladesh,Tapash Baisya,56176,25 December 1982,Sylhet,,,,,52,11.77,0,40.48,0
+2007,bermuda,Irving Romaine,23725,8 August 1972,Baileys Bay,c,,,,14,30.84,1,39,0
+2007,bermuda,Delyone Borden,23756,4 March 1985,St. David's,,,,,3,12.5,0,28.33,0
+2007,bermuda,Lionel Cann,23681,3 October 1972,Southampton Rangers,,,,,9,32,0,,0
+2007,bermuda,David Hemp,14153,8 November 1970,Glamorgan Dragons,,,,,9,28.62,0,87,0
+2007,bermuda,Kevin Hurdle,23685,30 December 1976,Young Men's Social Club,,,,,9,16.66,0,32.75,0
+2007,bermuda,Malachi Jones,257574,26 June 1989,Southampton Rangers,,,,,5,12,0,88,0
+2007,bermuda,Stefan Kelly,252869,24 August 1988,St. David's,,,,,5,,0,49.66,0
+2007,bermuda,Dwayne Leverock,23742,14 July 1971,Southampton Rangers,,,,,13,11,0,22.58,1
+2007,bermuda,Dean Minors,23688,6 January 1970,Flatts Victoria,wk,,,,12,36.9,0,,
+2007,bermuda,Saleem Mukuddem,23755,20 January 1972,Western Stars,,,,,14,25.6,0,36.28,0
+2007,bermuda,Steven Outerbridge,23704,20 May 1983,Baileys Bay,,,,,7,9.42,0,,
+2007,bermuda,Oliver Pitcher,23702,27 May 1983,St. David's,,,,,,,,,
+2007,bermuda,Clay Smith,23691,15 January 1971,Cleveland County,,,,,7,20.71,0,,
+2007,bermuda,Janeiro Tucker,23694,15 March 1975,Southampton Rangers,,,,,14,21,0,36.12,0
+2007,bermuda,Kwame Tucker,23729,28 September 1976,Southampton Rangers,wk,,,,10,10.12,0,,
+2007,india,Rahul Dravid,28114,11 January 1973,Karnataka,c,,,,306,40.05,12,42.5,0
+2007,india,Yuvraj Singh,36084,12 December 1981,Punjab,vc,,,,161,34.64,7,37.85,0
+2007,india,Ajit Agarkar,26184,4 September 1977,Mumbai,,,,,178,15.3,0,27.41,2
+2007,india,M.S. Dhoni,28081,7 July 1981,Jharkhand,wk,,,,62,44.95,2,,
+2007,india,Sourav Ganguly,28779,8 July 1972,Bengal,,,,,282,40.88,22,37.31,2
+2007,india,Harbhajan Singh,29264,3 July 1980,Punjab,,,,,143,12.92,0,31.74,2
+2007,india,Dinesh Karthik,30045,1 June 1985,Tamil Nadu,,,,,9,19,0,,
+2007,india,Zaheer Khan,30102,7 October 1978,Mumbai,,,,,114,13.61,0,27.92,0
+2007,india,Anil Kumble,30176,17 October 1970,Karnataka,,,,,269,10.63,0,30.88,2
+2007,india,Munaf Patel,32965,12 July 1983,Maharashtra,,,,,14,3,0,34.4,0
+2007,india,Irfan Pathan,32685,27 October 1984,Baroda,,,,,73,25.15,0,25.91,1
+2007,india,Virender Sehwag,35263,20 October 1978,Delhi,,,,,163,31.28,7,40.67,0
+2007,india,Sreesanth,34274,6 February 1983,Kerala,,,,,24,1.4,0,36.87,1
+2007,india,Sachin Tendulkar,35320,24 April 1973,Mumbai,,,,,378,44.22,41,43.82,2
+2007,india,Robin Uthappa,35582,11 November 1985,Karnataka,,,,,5,39.2,0,,
+2007,sri_lanka,Mahela Jayawardene,49289,27 May 1977,Sinhalese SC,c,,,,232,32.16,8,77,0
+2007,sri_lanka,Russel Arnold,48122,25 October 1973,Nondescripts CC,,,,,165,35.25,1,45.48,0
+2007,sri_lanka,Marvan Atapattu,48124,22 November 1970,Sinhalese SC,,,,,264,37.71,11,,0
+2007,sri_lanka,Malinga Bandara,48284,31 December 1979,Ragama CC,,,,,19,12.14,0,30.56,0
+2007,sri_lanka,Tillakaratne Dilshan,48472,14 October 1976,Bloomfield C&AC,,,,,105,28.49,1,41.52,0
+2007,sri_lanka,Dilhara Fernando,48835,19 July 1979,Sinhalese SC,,,,,103,9.85,0,31.08,0
+2007,sri_lanka,Sanath Jayasuriya,49209,30 June 1969,Bloomfield C&AC,,,,,375,32.87,23,36.8,4
+2007,sri_lanka,Nuwan Kulasekara,49535,22 July 1982,Colts CC,,,,,15,4.75,0,51,0
+2007,sri_lanka,Farveez Maharoof,49638,7 September 1984,Bloomfield C&AC,,,,,56,19.42,0,25.49,1
+2007,sri_lanka,Lasith Malinga,49758,4 September 1983,Nondescripts CC,,,,,25,8.8,0,24.94,0
+2007,sri_lanka,Muttiah Muralitharan,49636,17 April 1972,Tamil Union C&AC,,,,,287,5.8,0,23.07,8
+2007,sri_lanka,Kumar Sangakkara,50710,27 October 1977,Nondescripts CC,wk,,,,185,36.41,5,,
+2007,sri_lanka,Chamara Silva,50431,14 December 1979,Sebastianites C&AC,,,,,13,16.9,0,,
+2007,sri_lanka,Upul Tharanga,50747,2 February 1985,Nondescripts CC,,,,,40,37.56,6,,
+2007,sri_lanka,Chaminda Vaas,50804,27 January 1974,Colts CC,,,,,290,14,0,26.95,4
+2007,canada,John Davison,23852,9 May 1970,Mosman,c,,,,17,27.11,1,22,0
+2007,canada,Qaiser Ali,216920,20 December 1978,Adastrians,,,,,9,14.33,0,,0
+2007,canada,Ashish Bagai,23797,26 January 1982,Toronto,,,,,21,33.35,1,,
+2007,canada,Geoff Barnett,36383,3 February 1984,Central Districts Stags Meraloma,,,,,4,11.75,0,,
+2007,canada,Umar Bhatti,23865,4 January 1984,Victoria Park,,,,,9,13.16,0,50.16,0
+2007,canada,Ian Billcliff,23850,26 October 1972,University/Ellerslie,,,,,8,25.87,0,,
+2007,canada,Desmond Chumney,23767,8 January 1968,Victoria Park,,,,,17,20.47,0,,
+2007,canada,Austin Codrington,23848,22 August 1975,Victoria Park,,,,,8,6,0,23,1
+2007,canada,George Codrington,23811,26 November 1966,Victoria Park,,,,,11,21.55,0,29.54,0
+2007,canada,Anderson Cummins,51488,7 May 1966,Cavaliers,,,,,68,13.64,0,30.42,1
+2007,canada,Sunil Dhaniram,51738,17 October 1968,Cavaliers,,,,,13,25,0,23.18,0
+2007,canada,Asif Mulla,23899,5 May 1980,Yorkshire,wk,,,,7,25.14,0,,
+2007,canada,Henry Osinde,55675,17 October 1978,WICC,,,,,50,7.3,0,34.08,2
+2007,canada,Abdool Samad,23826,3 May 1979,Cavaliers,,,,,11,25.63,0,46,0
+2007,canada,Kevin Sandher,23824,16 July 1980,Meraloma,,,,,12,8,0,30.76,0
+2007,england,Michael Vaughan,22182,29 October 1974,Yorkshire Phoenix,c,,,,76,28.14,0,46.83,0
+2007,england,James Anderson,8608,30 July 1982,Lancashire Lightning,,,,,57,7.41,0,26.51,0
+2007,england,Ian Bell,9062,11 April 1982,Warwickshire Bears,,,,,32,37.7,0,14.66,0
+2007,england,Ravi Bopara,10582,4 May 1985,Essex Eagles,,,,,,,,,
+2007,england,Paul Collingwood,10772,26 May 1976,Durham Dynamos,,,,,109,31.09,2,37.79,1
+2007,england,Jamie Dalrymple,11974,21 January 1981,Middlesex Crusaders,,,,,20,21.78,0,43.5,0
+2007,england,Andrew Flintoff,12856,6 December 1977,Lancashire Lightning,,,,,111,33.96,3,26.62,0
+2007,england,Ed Joyce,24249,22 September 1978,Middlesex Crusaders,,,,,8,20.62,0,,
+2007,england,Jon Lewis,16281,26 August 1975,Gloucestershire Gladiators,,,,,12,6.6,0,25.7,0
+2007,england,Sajid Mahmood,17944,21 December 1981,Lancashire Lightning,,,,,15,9.22,0,43.31,0
+2007,england,Paul Nixon,18023,21 October 1970,Leicestershire Foxes,,,,,6,13.83,0,,
+2007,england,Monty Panesar,18655,25 April 1982,Northamptonshire Steelbacks,,,,,5,6,0,36,0
+2007,england,Kevin Pietersen,19296,27 June 1980,Hampshire Hawks,,,,,42,56.5,3,91,0
+2007,england,Liam Plunkett,19264,6 April 1985,Durham Dynamos,,,,,18,20.45,0,43.15,0
+2007,england,Andrew Strauss,20387,2 March 1977,Middlesex Crusaders,,,,,70,33.37,2,,0
+2007,england,Stuart Broad,10617,24 June 1986,Leicestershire Foxes,,,,,5,,0,37,0
+2007,kenya,Steve Tikolo,24728,25 June 1971,Swamibapa,c,,,,87,30.29,2,31.78,0
+2007,kenya,Rajesh Bhudia,24773,22 November 1984,Kanbis,,,,,,,,,
+2007,kenya,Jimmy Kamande,24697,12 December 1978,Parklands,,,,,35,14.45,0,46.26,0
+2007,kenya,Tanmay Mishra,24790,22 December 1986,Aga Khan,,,,,21,30.11,0,,0
+2007,kenya,Collins Obuya,24752,27 July 1981,Stray Lions,,,,,45,17.06,0,46.26,1
+2007,kenya,David Obuya,24760,14 August 1979,Stray Lions,wk,,,,37,18.14,0,,
+2007,kenya,Nehemiah Odhiambo,238612,7 August 1983,Swamibapa,,,,,14,10.28,0,44.4,0
+2007,kenya,Thomas Odoyo,24705,12 May 1978,Kanbis,,,,,86,23.1,0,30.9,0
+2007,kenya,Peter Ongondo,24762,10 February 1977,Swamibapa,,,,,43,12.04,0,29.07,0
+2007,kenya,Lameck Onyango,24711,22 September 1973,Swamibapa,,,,,7,8.25,0,36.6,0
+2007,kenya,Morris Ouma,24750,8 November 1982,Swamibapa,wk,,,,19,19.27,0,,
+2007,kenya,Malhar Patel,24784,27 November 1983,Kanbis,,,,,3,13.33,0,,
+2007,kenya,Ravindu Shah,24719,28 August 1972,Nairobi Gymkhana,,,,,49,28.02,1,,0
+2007,kenya,Tony Suji,24723,5 February 1976,Swamibapa,,,,,53,13.48,0,58.63,0
+2007,kenya,Hiren Varaiya,254114,9 April 1984,Nairobi Gymkhana,,,,,11,4,0,13.77,0
+2007,new_zealand,Stephen Fleming,37000,1 April 1973,Wellington Firebirds,c,,,,265,31.84,6,28,0
+2007,new_zealand,Shane Bond,36326,7 June 1975,Canterbury Wizards,,,,,55,14.61,0,19.91,3
+2007,new_zealand,James Franklin,37004,7 November 1980,Wellington Firebirds,,,,,53,13.92,0,38.34,1
+2007,new_zealand,Peter Fulton,37091,1 February 1979,Canterbury Wizards,,,,,24,30.8,1,,
+2007,new_zealand,Mark Gillespie,37111,17 October 1979,Wellington Firebirds,,,,,10,11,0,35.09,0
+2007,new_zealand,Michael Mason,37701,27 August 1974,Central Districts Stags,,,,,14,11,0,35.16,0
+2007,new_zealand,Brendon McCullum,37737,27 September 1981,Canterbury Wizards,,,,,99,21.71,0,,
+2007,new_zealand,Craig McMillan,37712,13 September 1976,Canterbury Wizards,,,,,184,27.27,2,34.81,0
+2007,new_zealand,Jacob Oram,38062,28 July 1978,Central Districts Stags,,,,,90,22.32,1,30.1,2
+2007,new_zealand,Jeetan Patel,38141,7 May 1980,Wellington Firebirds,,,,,16,5.5,0,30.17,0
+2007,new_zealand,Scott Styris,38407,10 July 1975,Auckland Aces,,,,,118,29.12,3,31.74,1
+2007,new_zealand,Ross Taylor,38699,8 March 1984,Central Districts Stags,,,,,13,38.63,1,,0
+2007,new_zealand,Daryl Tuffey,38620,11 June 1978,Northern Districts Knights,,,,,76,7.3,0,29.92,0
+2007,new_zealand,Daniel Vettori,38710,27 January 1979,Northern Districts Knights,,,,,187,14.97,0,33.16,1
+2007,new_zealand,Lou Vincent,38714,11 November 1978,Auckland Aces,,,,,89,26.53,2,,0
+2007,new_zealand,Chris Martin,37700,10 December 1979,Auckland Aces,,,,,9,1.2,0,36.09,0
+2007,new_zealand,Hamish Marshall,37696,15 February 1979,Northern Districts Knights,,,,,63,26.92,1,,
+2007,ireland,Trent Johnston,6038,29 April 1974,Clontarf,c,,,,5,23.33,0,102,0
+2007,ireland,Andre Botha,44102,12 September 1975,North County,,,,,5,26.4,0,18.42,0
+2007,ireland,Jeremy Bray,4433,30 November 1973,Eglinton,,,,,4,36.5,1,,
+2007,ireland,Kenny Carroll,245287,22 March 1983,Railway Union,,,,,1,28,0,,
+2007,ireland,Peter Gillespie,24243,11 May 1974,Strabane,,,,,3,0,0,,
+2007,ireland,Dave LangfordSmith,243942,7 December 1976,Phoenix,,,,,4,7.5,0,20.22,0
+2007,ireland,Kyle McCallan,24251,27 August 1975,Waringstown,,,,,5,48.66,0,28.2,0
+2007,ireland,John Mooney,24237,10 February 1982,North County,,,,,4,34,0,41.5,0
+2007,ireland,Paul Mooney,24261,15 October 1976,North County,,,,,2,,0,,0
+2007,ireland,Eoin Morgan,24598,10 September 1986,Middlesex Crusaders,,,,,3,46.66,0,,
+2007,ireland,Kevin O'Brien,24605,4 March 1984,Railway Union,,,,,4,31.5,0,45.66,0
+2007,ireland,Niall O'Brien,24289,8 November 1981,Northamptonshire Steelbacks,wk,,,,4,30,0,,
+2007,ireland,William Porterfield,24611,6 September 1984,Rush,,,,,4,60.66,1,,
+2007,ireland,Boyd Rankin,24599,5 July 1984,Derbyshire Phantoms,,,,,1,,,,0
+2007,ireland,Andrew White,24286,3 July 1980,Northamptonshire Steelbacks,,,,,5,25.33,0,22.25,0
+2007,pakistan,InzamamulHaq,40570,3 March 1970,"WAPDA,Multan",c,,,,370,39.96,10,21.33,0
+2007,pakistan,Azhar Mahmood,39024,28 February 1975,"HBL,Islamabad Surrey Lions",,,,,139,18.19,0,38.86,3
+2007,pakistan,Danish Kaneria,40043,16 December 1980,"HBL,Karachi Harbour",,,,,16,3,0,49.16,0
+2007,pakistan,Imran Nazir,40563,31 December 1981,"NBP,Sialkot",,,,,61,23.59,1,48,0
+2007,pakistan,Kamran Akmal,41028,13 January 1982,"NBP,Lahore Ravi",wk,,,,57,26.9,3,,
+2007,pakistan,Mohammad Hafeez,41434,17 October 1980,"SNGPL,Faisalabad",,,,,42,19.46,0,33.77,0
+2007,pakistan,Mohammad Sami,41324,24 February 1981,"NBP,Karachi",,,,,78,9.95,0,28.54,1
+2007,pakistan,Mohammad Yousuf,43650,27 August 1974,"WAPDA,Lahore Ravi",,,,,228,41.34,11,,0
+2007,pakistan,Rana NavedulHasan,42272,28 February 1978,"WAPDA,Sialkot Sussex Sharks",,,,,56,14,0,25.68,1
+2007,pakistan,Rao Iftikhar,40591,1 December 1980,"ZTBL,Islamabad",,,,,25,85,0,47.31,0
+2007,pakistan,Shahid Afridi,42639,1 March 1980,"HBL,Karachi Harbour",,,,,234,22.91,4,36.4,2
+2007,pakistan,Shoaib Malik,42657,1 February 1982,"PIA,Sialkot",,,,,129,32.77,5,34.28,0
+2007,pakistan,Umar Gul,43524,14 April 1984,"HBL,Peshawar",,,,,25,11.33,0,29.43,1
+2007,pakistan,Yasir Arafat,43654,12 March 1982,"KRL,Rawalpindi Sussex Sharks",,,,,7,12,0,58.25,0
+2007,pakistan,Younis Khan,43652,29 November 1977,"HBL,Peshawar",,,,,143,31.63,2,101,0
+2007,west_indies,Brian Lara,52337,2 May 1969,Trinidad and Tobago,c,,,,290,40.54,19,15.25,0
+2007,west_indies,Ian Bradshaw,51246,9 July 1974,Barbados,,,,,59,11.86,0,28.05,0
+2007,west_indies,Dwayne Bravo,51439,7 October 1983,"Trinidad and Tobago,Kent Spitfires",,,,,59,24,1,31.77,0
+2007,west_indies,Shivnarine Chanderpaul,51469,18 August 1974,Guyana,,,,,208,37.98,5,44.07,0
+2007,west_indies,Corey Collymore,51481,21 December 1977,Barbados,,,,,77,5.12,0,34.49,1
+2007,west_indies,Chris Gayle,51880,21 September 1979,Jamaica,,,,,159,38.74,15,31.92,1
+2007,west_indies,Kieron Pollard,230559,12 May 1987,Trinidad and Tobago,,,,,,,,,
+2007,west_indies,Daren Powell,52790,15 April 1978,Jamaica,,,,,15,2.66,0,41.78,0
+2007,west_indies,Denesh Ramdin,52917,13 March 1985,Trinidad and Tobago,wk,,,,22,27.46,0,,
+2007,west_indies,Marlon Samuels,52983,5 February 1981,Jamaica,,,,,83,29.76,2,40.98,0
+2007,west_indies,Ramnaresh Sarwan,52969,23 June 1980,Guyana,,,,,115,44.33,3,39.9,0
+2007,west_indies,Lendl Simmons,53116,25 January 1985,Trinidad and Tobago,,,,,6,18.66,0,,0
+2007,west_indies,Devon Smith,52962,21 October 1981,Windward Islands,,,,,10,25,0,,
+2007,west_indies,Dwayne Smith,53118,12 April 1983,Barbados,,,,,59,15.63,0,38.17,1
+2007,west_indies,Jerome Taylor,53191,22 June 1984,Jamaica,,,,,28,7,0,26.72,0
+2007,zimbabwe,Prosper Utseya,55820,26 March 1985,Manicaland,c,,,,55,10.72,0,51.19,0
+2007,zimbabwe,Gary Brent,55269,13 January 1976,Manicaland,,,,,54,10.45,0,36.05,0
+2007,zimbabwe,Justice Chibhabha,55354,6 September 1986,Mashonaland,,,,,20,24.9,0,65,0
+2007,zimbabwe,Elton Chigumbura,55343,14 March 1986,Manicaland,,,,,49,22.57,0,57.38,0
+2007,zimbabwe,Keith Dabengwa,55388,17 August 1980,Matabeleland,,,,,10,25.6,0,40.83,0
+2007,zimbabwe,Terry Duffin,55391,20 March 1982,Matabeleland,,,,,18,25.05,0,,
+2007,zimbabwe,Anthony Ireland,55522,30 August 1984,Midlands,,,,,21,3,0,32.17,0
+2007,zimbabwe,Friday Kasteni,55551,25 March 1988,Midlands,wk,,,,,,,,
+2007,zimbabwe,Stuart Matsikenyeri,55612,3 May 1983,Manicaland,,,,,60,19.37,0,50.38,0
+2007,zimbabwe,Christopher Mpofu,55633,27 November 1985,Matabeleland,,,,,14,3.33,0,39.92,0
+2007,zimbabwe,Tawanda Mupariwa,55652,16 April 1985,Matabeleland,,,,,19,13.54,0,26.21,0
+2007,zimbabwe,Ed Rainsford,55740,14 December 1984,Midlands,,,,,22,5.28,0,39.9,0
+2007,zimbabwe,Vusi Sibanda,55787,10 October 1983,Midlands,,,,,42,20,1,43.5,0
+2007,zimbabwe,Brendan Taylor,55814,6 February 1983,Mashonaland,wk,,,,57,28.67,0,28,0
+2007,zimbabwe,Sean Williams,55870,26 September 1986,Matabeleland,,,,,9,24.87,0,104,0
+2011,australia,Ricky Ponting,7133,19 December 1974,Tasmania,c,,,,352,42.75,29,34.66,0
+2011,australia,Michael Clarke,4578,2 April 1981,New South Wales,vc,,,,187,43.3,5,36.3,1
+2011,australia,Callum Ferguson,5236,21 November 1984,South Australia,,,,,26,46.07,0,,
+2011,australia,Brad Haddin,5560,23 October 1977,New South Wales,wk,,,,74,32.25,2,,
+2011,australia,John Hastings,228622,4 November 1985,Victoria,,,,,5,16,0,40.4,0
+2011,australia,David Hussey,5766,15 July 1977,Victoria,,,,,28,30.66,1,32.5,0
+2011,australia,Michael Hussey,5939,27 May 1975,Western Australia,,,,,151,51.96,2,113.5,0
+2011,australia,Mitchell Johnson,6033,2 November 1981,Western Australia,,,,,87,16.12,0,26.73,2
+2011,australia,Jason Krejza,6235,14 January 1983,Tasmania,,,,,,,,,
+2011,australia,Brett Lee,6278,8 November 1976,New South Wales,,,,,191,16.42,0,22.91,9
+2011,australia,Tim Paine,7252,8 December 1984,Tasmania,wk,,,,24,31.52,1,,
+2011,australia,Steve Smith,7656,2 June 1989,New South Wales,,,,,28,39.13,2,,0
+2011,australia,Shaun Tait,8076,22 February 1983,South Australia,,,,,26,12.5,0,23.69,0
+2011,australia,Shane Watson,8180,17 June 1981,New South Wales,,,,,122,40.76,5,27.99,0
+2011,australia,Cameron White,8291,18 August 1983,Victoria,,,,,77,37.31,2,28.75,0
+2011,canada,Ashish Bagai,23797,26 January 1982,Ontario,c/wk,,,,54,37.73,2,,
+2011,canada,Rizwan Cheema,361952,15 August 1978,Ontario,vc,,,,21,27.52,0,32.78,0
+2011,canada,Harvir Baidwan,355583,31 July 1987,Ontario,,,,,19,24.5,0,31.62,0
+2011,canada,Balaji Rao,26826,4 March 1978,Ontario,,,,,4,12.33,0,49.66,0
+2011,canada,John Davison,23852,9 May 1970,Toronto,,,,,27,29.46,1,28.06,0
+2011,canada,Parth Desai,440977,11 December 1990,Ontario,,,,,9,2.5,0,36.5,0
+2011,canada,Tyson Gordon,208755,31 January 1982,Alberta,,,,,,,,,
+2011,canada,Ruvindu Gunasekera,307075,20 July 1991,Ontario,,,,,3,44.66,0,,
+2011,canada,Jimmy Hansra,418615,29 December 1984,British Columbia,,,,,7,28.33,0,22.75,0
+2011,canada,Khurram Chohan,41224,22 February 1980,Alberta,,,,,15,15.33,0,27,0
+2011,canada,Nitish Kumar,348129,21 May 1994,Ontario,,,,,5,17.25,0,,
+2011,canada,Henry Osinde,55675,17 October 1978,Ontario,,,,,50,7.3,0,34.08,2
+2011,canada,Hiral Patel,414248,10 August 1991,Ontario,,,,,12,13.58,0,48,0
+2011,canada,Zubin Surkari,23803,26 February 1980,Ontario,,,,,15,19.09,0,,
+2011,canada,Karl Whatham,492924,27 August 1981,British Columbia,,,,,,,,,
+2011,canada,Hamza Tariq,414397,21 July 1990,British Columbia,wk,,,,,,,,
+2011,kenya,Jimmy Kamande,24697,12 December 1978,Nairobi Gymkhana,c,,,,81,18.03,0,44.42,0
+2011,kenya,Maurice Ouma,24750,8 November 1982,Western Chiefs,wk,,,,67,21.15,0,,
+2011,kenya,Tanmay Mishra,24790,22 December 1986,Nairobi Gymkhana,,,,,29,31.73,0,,0
+2011,kenya,James Ngoche,308691,29 January 1988,Western Chiefs,,,,,9,3.83,0,18.23,0
+2011,kenya,Alex Obanda,291844,25 December 1987,Eastern Aces,,,,,37,34.18,0,,
+2011,kenya,Collins Obuya,24752,27 July 1981,Western Chiefs,,,,,86,24.07,0,50.75,1
+2011,kenya,David Obuya,24760,14 August 1979,Northern Nomads,wk,,,,67,19.71,0,,
+2011,kenya,Nehemiah Odhiambo,238612,7 August 1983,Southern Stars,,,,,53,12.14,0,34.29,0
+2011,kenya,Thomas Odoyo,24705,12 May 1978,Southern Rocks,,,,,129,24.12,1,29.66,0
+2011,kenya,Peter Ongondo,24762,10 February 1977,Western Chiefs,,,,,77,9.39,0,29.46,1
+2011,kenya,Elijah Otieno,293031,3 January 1988,Eastern Aces,,,,,16,5.4,0,42.33,0
+2011,kenya,Rakep Patel,267455,12 July 1989,Northern Nomads,,,,,23,16.84,0,,0
+2011,kenya,Steve Tikolo,24728,25 June 1971,Southern Rocks,,,,,129,29.88,3,32.86,0
+2011,kenya,Seren Waters,352894,11 April 1990,Surrey,,,,,14,21.35,0,,
+2011,kenya,Shem Ngoche,308515,6 June 1989,Northern Nomads,,,,,5,5,0,35.75,0
+2011,new_zealand,Daniel Vettori,38710,27 January 1979,Northern Districts,c,,,,265,17.13,0,31.32,2
+2011,new_zealand,Brendon McCullum,37737,27 September 1981,Otago,wk,,,,181,28.41,2,,
+2011,new_zealand,Hamish Bennett,226493,22 February 1987,Canterbury,,,,,5,,0,19.12,0
+2011,new_zealand,James Franklin,37004,7 November 1980,Wellington,,,,,80,24.2,0,39.71,1
+2011,new_zealand,Martin Guptill,226492,30 September 1986,Auckland,,,,,41,33.71,1,26.5,0
+2011,new_zealand,Jamie How,37265,19 May 1981,Central Districts,,,,,37,31.09,1,,
+2011,new_zealand,Nathan McCullum,37749,1 September 1980,Otago,,,,,16,16.69,0,47.45,0
+2011,new_zealand,Kyle Mills,37740,15 March 1979,Auckland,,,,,124,16.64,0,26.51,1
+2011,new_zealand,Jacob Oram,38062,28 July 1978,Central Districts,,,,,144,24.66,1,30.53,2
+2011,new_zealand,Jesse Ryder,38373,6 August 1984,Wellington,,,,,26,34.09,1,31.8,0
+2011,new_zealand,Tim Southee,232364,11 November 1988,Northern Districts,,,,,41,9.25,0,33.13,1
+2011,new_zealand,Scott Styris,38407,10 July 1975,Northern Districts,,,,,177,32.79,4,35.89,1
+2011,new_zealand,Ross Taylor,38699,8 March 1984,Central Districts,,,,,96,35.37,3,,0
+2011,new_zealand,Kane Williamson,277906,8 August 1990,Northern Districts,,,,,10,26.44,1,103,0
+2011,new_zealand,Luke Woodcock,38920,19 March 1982,Wellington,,,,,1,11,0,,0
+2011,pakistan,Shahid Afridi,42639,1 March 1980,Karachi,c,,,,309,23.93,6,35.27,3
+2011,pakistan,MisbahulHaq,41378,28 May 1974,Faisalabad,vc,,,,61,38.11,0,,0
+2011,pakistan,Kamran Akmal,41028,13 January 1982,Lahore,wk,,,,126,26.71,5,,
+2011,pakistan,Abdul Razzaq,39836,2 December 1979,Lahore,,,,,251,30.44,3,31.98,3
+2011,pakistan,Abdur Rehman,39091,1 March 1980,Sialkot,,,,,15,7.66,0,46.33,0
+2011,pakistan,Ahmed Shehzad,259410,23 November 1991,Lahore,,,,,6,26.2,0,,0
+2011,pakistan,Asad Shafiq,316397,28 January 1986,Karachi,,,,,11,21.81,0,,
+2011,pakistan,Mohammad Hafeez,41434,17 October 1980,Faisalabad,,,,,61,23.1,1,35.04,0
+2011,pakistan,Saeed Ajmal,42699,14 October 1977,Faisalabad,,,,,35,8.21,0,30.52,0
+2011,pakistan,Shoaib Akhtar,42655,13 August 1975,Islamabad,,,,,158,9.11,0,24.69,4
+2011,pakistan,Junaid Khan,259551,24 December 1989,Abbottabad,,,,,,,,,
+2011,pakistan,Umar Akmal,317273,26 May 1990,Lahore,,,,,27,36,1,,
+2011,pakistan,Umar Gul,43524,14 April 1984,Peshawar,,,,,77,9.03,0,26.67,2
+2011,pakistan,Wahab Riaz,43590,28 June 1985,Lahore,,,,,11,7.57,0,27,0
+2011,pakistan,Younis Khan,43652,29 November 1977,Peshawar,,,,,210,32.33,6,119.5,0
+2011,sri_lanka,Kumar Sangakkara,50710,27 October 1977,Kandurata,c/wk,,,,280,36.76,10,,
+2011,sri_lanka,Mahela Jayawardene,49289,27 May 1977,Wayamba,,,,,330,32.47,12,79.71,0
+2011,sri_lanka,Tillakaratne Dilshan,48472,14 October 1976,Basnahira,vc,,,,192,35.35,8,42.9,0
+2011,sri_lanka,Dilhara Fernando,48835,19 July 1979,Kandurata,,,,,140,9.95,0,29.87,1
+2011,sri_lanka,Rangana Herath,49178,19 March 1978,Wayamba,,,,,9,2,0,23.88,0
+2011,sri_lanka,Chamara Kapugedera,209457,24 February 1987,Kandurata,,,,,83,22.95,0,105.5,0
+2011,sri_lanka,Nuwan Kulasekara,49535,22 July 1982,Kandurata,,,,,82,16.96,0,29.2,0
+2011,sri_lanka,Lasith Malinga,49758,28 August 1983,Basnahira,,,,,76,8.75,0,27.48,1
+2011,sri_lanka,Angelo Mathews,49764,2 June 1987,Basnahira,,,,,33,33.3,0,29.62,1
+2011,sri_lanka,Ajantha Mendis,268739,11 March 1985,Wayamba,,,,,45,7.58,0,20.01,3
+2011,sri_lanka,Muttiah Muralitharan,49636,17 April 1972,Kandurata,,,,,340,6.8,0,23.19,10
+2011,sri_lanka,Thisara Perera,233514,3 April 1989,Basnahira,,,,,15,19,0,21.9,2
+2011,sri_lanka,Thilan Samaraweera,50424,22 September 1976,Wayamba,,,,,42,27.7,2,53.8,0
+2011,sri_lanka,Chamara Silva,50431,14 December 1979,Ruhuna,,,,,64,30.57,1,21,0
+2011,sri_lanka,Upul Tharanga,50747,2 February 1985,Ruhuna,,,,,110,33.29,8,,
+2011,zimbabwe,Elton Chigumbura,55343,14 March 1986,Southern Rocks,c,,,,122,24.12,0,38.27,0
+2011,zimbabwe,Regis Chakabva,293831,20 September 1987,Mashonaland Eagles,,,,,5,31.5,0,,
+2011,zimbabwe,Charles Coventry,55329,8 March 1983,Matabeleland Tuskers,wk,,,,34,26.76,1,,
+2011,zimbabwe,Graeme Cremer,55346,19 September 1986,Mid West Rhinos,,,,,37,13.56,0,29.57,1
+2011,zimbabwe,Craig Ervine,55412,19 August 1985,Southern Rocks,,,,,14,32.4,0,,
+2011,zimbabwe,Terry Duffin,55391,20 March 1982,Matabeleland Tuskers,,,,,23,23.73,0,,
+2011,zimbabwe,Greg Lamb,55562,4 March 1981,Mashonaland Eagles,,,,,9,19.14,0,33.37,0
+2011,zimbabwe,Shingirai Masakadza,55608,4 September 1986,Mountaineers,,,,,102,27.07,3,34.11,0
+2011,zimbabwe,Chris Mpofu,55633,27 November 1985,Matabeleland Tuskers,,,,,49,2.21,0,37.03,1
+2011,zimbabwe,Ray Price,55698,12 June 1976,Mashonaland Eagles,,,,,83,8.91,0,34.92,0
+2011,zimbabwe,Tinashe Panyangara,55705,21 October 1985,Mountaineers,,,,,23,6,0,36.76,0
+2011,zimbabwe,Tatenda Taibu,55805,14 May 1983,Southern Rocks,wk,,,,130,28.98,2,30.5,0
+2011,zimbabwe,Brendan Taylor,55814,6 February 1986,Mid West Rhinos,wk,,,,112,32.42,3,42.55,0
+2011,zimbabwe,Prosper Utseya,55820,26 March 1985,Mountaineers,,,,,121,15.87,0,46.11,0
+2011,zimbabwe,Vusi Sibanda,55787,10 October 1983,Mid West Rhinos,,,,,85,21.9,1,74,0
+2011,bangladesh,Shakib Al Hasan,56143,24 March 1987,Khulna Division/Worcestershire,c,,,,102,34.98,5,28.8,0
+2011,bangladesh,Mushfiqur Rahim,56029,1 September 1988,Rajshahi Division,wk,,,,84,23.54,0,,
+2011,bangladesh,Tamim Iqbal,56194,20 March 1989,Chittagong Division,vc,,,,89,29.66,3,,0
+2011,bangladesh,Imrul Kayes,280734,2 February 1987,Khulna Division,,,,,30,29.8,1,,
+2011,bangladesh,Junaid Siddique,55946,30 October 1987,Rajshahi Division,,,,,46,24,1,,0
+2011,bangladesh,Shahriar Nafees,56153,25 January 1986,Barisal Division,,,,,64,33.49,4,,
+2011,bangladesh,Mohammad Ashraful,55988,7 July 1984,Dhaka Division,,,,,164,23.33,3,36.93,0
+2011,bangladesh,Raqibul Hasan,56093,8 October 1987,Barisal Division,,,,,49,29.3,0,,
+2011,bangladesh,Mahmudullah,56025,4 February 1986,Dhaka Division,,,,,61,28.91,0,51.54,0
+2011,bangladesh,Naeem Islam,56054,31 December 1986,Rajshahi Division,,,,,40,28.63,0,38.65,0
+2011,bangladesh,Shafiul Islam,288305,6 October 1989,Rajshahi Division,,,,,23,7.42,0,31.56,0
+2011,bangladesh,Rubel Hossain,300619,1 January 1990,Chittagong Division,,,,,21,2.5,0,36.72,0
+2011,bangladesh,Abdur Razzak,56283,15 June 1982,Khulna Division,,,,,111,13.73,0,26.9,3
+2011,bangladesh,Suhrawadi Shuvo,56138,21 November 1988,Rajshahi Division,,,,,11,9.83,0,47.62,0
+2011,bangladesh,Nazmul Hossain,56056,5 October 1987,Khulna Division,,,,,34,4.37,0,33.36,0
+2011,england,Andrew Strauss,20387,2 March 1977,Middlesex,c,,,,118,34.93,5,,0
+2011,england,James Anderson,8608,30 July 1982,Lancashire,,,,,135,6.62,0,30.37,1
+2011,england,Ian Bell,9062,11 April 1982,Warwickshire,,,,,88,35.36,1,14.66,0
+2011,england,Ravi Bopara,10582,4 May 1985,Essex,,,,,54,28.5,0,33.1,0
+2011,england,Tim Bresnan,9310,28 February 1985,Yorkshire,,,,,35,25.27,0,38.07,0
+2011,england,Paul Collingwood,10772,26 May 1976,Durham,,,,,192,35.63,5,37.98,1
+2011,england,Jade Dernbach,12461,3 April 1986,Surrey,,,,,,,,,
+2011,england,Eoin Morgan,24598,10 September 1986 (aged 24),Middlesex,,,,,60,38.42,4,,
+2011,england,Matt Prior,18675,26 February 1982,Sussex,wk,,,,59,24.93,0,,
+2011,england,Adil Rashid,244497,17 February 1988,Yorkshire,,,,,5,20,0,63.66,0
+2011,england,Graeme Swann,20431,24 March 1979,Nottinghamshire,,,,,44,12.45,0,24.63,1
+2011,england,James Tredwell,21646,27 February 1982,Kent,,,,,3,18,0,,0
+2011,england,Chris Tremlett,21650,2 September 1981,Surrey,,,,,13,7.83,0,41.33,0
+2011,england,Jonathan Trott,47623,22 April 1981,Warwickshire,,,,,16,50.5,2,57.5,0
+2011,england,Luke Wright,23460,7 March 1985,Sussex,,,,,43,21.79,0,52.06,0
+2011,india,Mahendra Singh Dhoni,28081,7 July 1981,Jharkhand,c/wk,,,,177,48.8,7,14,0
+2011,india,Virender Sehwag,35263,20 October 1978,Delhi,vc,,,,228,34.64,13,40.39,0
+2011,india,Gautam Gambhir,28763,14 October 1981,Delhi,,,,,105,40.43,9,,0
+2011,india,Sachin Tendulkar,35320,24 April 1973,Mumbai,,,,,444,44.97,46,44.26,2
+2011,india,Yuvraj Singh,36084,12 December 1981,Punjab,,,,,265,36.61,12,39.18,0
+2011,india,Suresh Raina,33335,27 November 1986,Uttar Pradesh,,,,,111,35.18,3,59.71,0
+2011,india,Virat Kohli,253802,5 November 1988,Delhi,,,,,45,46.44,4,,0
+2011,india,Yusuf Pathan,32498,17 November 1982,Baroda,,,,,45,33.04,2,34.76,0
+2011,india,Zaheer Khan,30102,7 October 1978,Mumbai,,,,,182,12.71,0,29.68,1
+2011,india,Harbhajan Singh,29264,3 July 1980,Punjab,,,,,217,13.23,0,33.14,3
+2011,india,Ashish Nehra,31820,29 April 1979,Delhi,,,,,117,6.08,0,31.56,2
+2011,india,Munaf Patel,32965,12 July 1983,Baroda,,,,,54,8.11,0,29.69,0
+2011,india,S. Sreesanth,34274,6 February 1983,Kerala,,,,,51,4,0,32.04,1
+2011,india,Piyush Chawla,32966,24 December 1988,Uttar Pradesh,,,,,22,6,0,33.67,0
+2011,india,Ravichandran Ashwin,26421,17 September 1986,Tamil Nadu,,,,,7,19,0,23.21,0
+2011,netherlands,Peter Borren,36592,21 August 1983,VRA Amsterdam,vc,,,,39,14.9,0,33.25,0
+2011,netherlands,Adeel Raja,58547,15 August 1980,VRA Amsterdam,,,,,,,,,
+2011,netherlands,Wesley Barresi,44407,3 May 1984,VRA Amsterdam,wk,,,,9,29.71,0,,0
+2011,netherlands,Mudassar Bukhari,245166,26 December 1983,Amsterdam CC,,,,,27,16.64,0,24.75,0
+2011,netherlands,Atse Buurman,24996,21 March 1982,VRA Amsterdam,wk,,,,15,16.28,0,,
+2011,netherlands,Tom Cooper,219885,26 November 1986,South Australia,,,,,10,65.44,1,23.8,0
+2011,netherlands,Tom de Grooth,25022,14 May 1979,HCC Den Haag,,,,,22,21.5,0,2,0
+2011,netherlands,Alexei Kervezee,214695,11 September 1989,Worcestershire,,,,,30,26.56,0,,0
+2011,netherlands,Bradley Kruger,297517,17 September 1988,"Leeds,Bradford UCCE",,,,,4,12,0,36,0
+2011,netherlands,Bernard Loots,466610,19 April 1979,HCC Den Haag,,,,,3,10,0,20,0
+2011,netherlands,Pieter Seelaar,208657,2 July 1987,Hermes DVS,,,,,21,21.25,0,32.8,0
+2011,netherlands,Eric Szwarczynski,214696,13 February 1983,VRA Amsterdam,,,,,30,27.7,0,,
+2011,netherlands,Ryan ten Doeschate,47660,30 June 1980,Essex,,,,,27,68.55,3,20.93,0
+2011,netherlands,Berend Westdijk,413702,5 March 1985,HBS Craeyenhout,,,,,,,,,
+2011,netherlands,Bas Zuiderent,24990,3 March 1977,VRA Amsterdam,,,,,53,25.71,0,,
+2011,south_africa,Graeme Smith,47270,1 February 1981,Cape Cobras,c,,,,165,39.84,8,52.83,0
+2011,south_africa,AB de Villiers,44936,17 February 1984,Titans,wk,,,,114,43.89,9,,0
+2011,south_africa,Hashim Amla,43906,31 March 1983,Dolphins,,,,,42,59.88,7,,
+2011,south_africa,Johan Botha,44149,2 May 1982,Warriors,,,,,69,18.46,0,40.29,0
+2011,south_africa,JP Duminy,44932,14 April 1984,Cape Cobras,,,,,71,41.91,2,39.11,0
+2011,south_africa,Francois du Plessis,44828,13 July 1984,Titans,,,,,3,23,0,,0
+2011,south_africa,Colin Ingram,45705,3 July 1985,Warriors,,,,,11,41,2,,
+2011,south_africa,Jacques Kallis,45789,16 October 1975,Warriors,,,,,307,45.84,17,31.9,2
+2011,south_africa,Morné Morkel,46538,6 October 1984,Titans,,,,,38,10.09,0,24.06,0
+2011,south_africa,Wayne Parnell,265564,30 July 1989,Warriors,,,,,18,23.2,0,30.35,2
+2011,south_africa,Robin Peterson,46750,4 August 1979,Warriors,,,,,40,13.42,0,50.33,0
+2011,south_africa,Dale Steyn,47492,27 June 1983,Titans,,,,,48,8.3,0,29.65,0
+2011,south_africa,Imran Tahir,40618,27 March 1979,Dolphins,,,,,,,,,
+2011,south_africa,Lonwabo Tsotsobe,47666,7 March 1984,Warriors,,,,,19,6,0,19.91,0
+2011,south_africa,Morne van Wyk,47711,20 March 1979,Knights,wk,,,,8,33.25,0,,
+2011,west_indies,Darren Sammy,53115,20 December 1983,Saint Lucia,c,,,,44,25.19,0,43.06,0
+2011,west_indies,Devon Thomas,248920,12 November 1989,Leeward Islands,wk,,,,2,,0,5.5,0
+2011,west_indies,Kirk Edwards,51786,3 November 1984,Barbados,,,,,,,,,
+2011,west_indies,Sulieman Benn,51248,22 July 1981,Barbados,,,,,18,9.66,0,49.84,0
+2011,west_indies,Devendra Bishoo,341593,6 November 1985,Guyana,,,,,,,,,
+2011,west_indies,Darren Bravo,277472,6 February 1989,Trinidad and Tobago,,,,,11,32.42,0,,
+2011,west_indies,Shivnarine Chanderpaul,51469,16 August 1974,Guyana,,,,,262,41.84,11,45.42,0
+2011,west_indies,Chris Gayle,51880,21 September 1979,Jamaica,,,,,221,39.24,19,34.58,1
+2011,west_indies,Nikita Miller,52622,16 May 1982,Jamaica,,,,,34,20.27,0,36.26,0
+2011,west_indies,Kieron Pollard,230559,12 May 1987,Trinidad and Tobago,,,,,31,19.35,0,27.76,0
+2011,west_indies,Ravi Rampaul,52912,15 October 1984,Trinidad and Tobago,,,,,51,9.7,0,34.14,0
+2011,west_indies,Kemar Roach,230553,30 June 1988,Barbados,,,,,14,5,0,21.3,1
+2011,west_indies,Andre Russell,276298,29 April 1988,Jamaica,,,,,,,,,
+2011,west_indies,Ramnaresh Sarwan,52969,23 June 1980,Guyana,,,,,157,44.21,4,36.62,0
+2011,west_indies,Devon Smith,52962,21 October 1981,Windward Islands,,,,,32,24.32,0,,
+2015,afghanistan,Mohammad Nabi,25913,1 January 1985,BandeAmir Dragons,c,,,,45,31.44,0,36.23,0
+2015,afghanistan,Javed Ahmadi,308235,2 January 1992,Amo Sharks,,,,,19,27,0,26.85,0
+2015,afghanistan,Aftab Alam,440963,30 November 1992,Speen Ghar Tigers,,,,,8,5,0,27.27,0
+2015,afghanistan,Usman Ghani,711559,20 November 1996,Amo Sharks,,,,,12,33,1,34,0
+2015,afghanistan,Hamid Hassan,311427,1 June 1987,Speen Ghar Tigers,,,,,24,6,0,18.93,1
+2015,afghanistan,Nasir Jamal,524048,21 December 1993,Boost Defenders,,,,,4,42.33,0,,0
+2015,afghanistan,Nawroz Mangal,318334,15 July 1984,Mis Ainak Knights,,,,,34,35.55,2,30.28,0
+2015,afghanistan,Gulbadin Naib,352048,16 March 1991,Mis Ainak Knights,,,,,14,16.88,0,33.37,0
+2015,afghanistan,Shafiqullah Shafiq,362603,7 August 1989,Speen Ghar Tigers,wk,,,,10,25.57,0,,
+2015,afghanistan,Samiullah Shenwari,318339,3 February 1987,Amo Sharks,,,,,44,36.35,0,30.34,0
+2015,afghanistan,Asghar Afghan,320652,22 December 1987,BandeAmir Dragons,,,,,38,26,0,42,0
+2015,afghanistan,Dawlat Zadran,516561,19 March 1988,Mis Ainak Knights,,,,,24,14.1,0,32.31,0
+2015,afghanistan,Najibullah Zadran,524049,28 February 1993,Boost Defenders,,,,,10,21.11,0,,0
+2015,afghanistan,Shapoor Zadran,319746,8 July 1987,Boost Defenders,,,,,30,5.12,0,35.62,0
+2015,afghanistan,Afsar Zazai,420402,10 August 1993,Mis Ainak Knights,wk,,,,8,29.42,0,,
+2015,australia,Michael Clarke,4578,2 April 1981,New South Wales,c,,,,238,44.86,8,38.07,1
+2015,australia,George Bailey,4451,7 September 1982,Tasmania,vc,,,,55,42.6,2,,
+2015,australia,Pat Cummins,489889,5 August 1993,New South Wales,,,,,10,11,0,35.5,0
+2015,australia,Xavier Doherty,5017,22 November 1982,Tasmania,,,,,59,14.42,0,39.34,0
+2015,australia,James Faulkner,270484,29 April 1990,Tasmania,,,,,37,45,1,32.79,0
+2015,australia,Aaron Finch,5334,17 November 1986,Victoria,,,,,40,38.07,5,22.5,0
+2015,australia,Brad Haddin,5560,23 October 1977,New South Wales,wk,,,,117,31.44,2,,
+2015,australia,Josh Hazlewood,288284,8 January 1991,New South Wales,,,,,7,,0,25.6,1
+2015,australia,Mitchell Johnson,6033,2 November 1981,Western Australia,,,,,144,16.37,0,25.72,3
+2015,australia,Mitchell Marsh,272450,20 October 1991,Western Australia,,,,,13,36,0,45.33,0
+2015,australia,Glenn Maxwell,325026,14 October 1988,Victoria,,,,,40,28.72,0,42.45,0
+2015,australia,Steve Smith,7656,2 June 1989,New South Wales,,,,,28,39.13,2,,0
+2015,australia,Mitchell Starc,311592,30 January 1990,New South Wales,,,,,32,32.4,0,20.62,4
+2015,australia,David Warner,219889,27 October 1986,New South Wales,,,,,53,33.13,3,,0
+2015,australia,Shane Watson,8180,17 June 1981,New South Wales,,,,,180,40.57,9,31.21,0
+2015,bangladesh,Mashrafe Mortaza,56007,5 October 1983,Mohammedan Sporting Club,c,,,,144,14.95,0,30.51,1
+2015,bangladesh,Shakib Al Hasan,56143,24 March 1987,Legends of Rupganj,vc,,,,141,34.58,6,27.92,0
+2015,bangladesh,Taskin Ahmed,56658,3 April 1995,Prime Bank Cricket Club,,,,,,,,,
+2015,bangladesh,Mominul Haque,373696,29 September 1991,Prime Doleshwar Sporting Club,,,,,24,25.66,0,25,0
+2015,bangladesh,Nasir Hossain,300618,30 November 1991,Abahani Limited,,,,,41,34.8,1,100.33,0
+2015,bangladesh,Rubel Hossain,300619,1 January 1990,Legends of Rupganj,,,,,53,6.38,0,32.36,1
+2015,bangladesh,Tamim Iqbal,56194,20 March 1989,Legends of Rupganj,,,,,135,29.85,4,,0
+2015,bangladesh,Shafiul Islam,288305,6 October 1989,Prime Doleshwar Sporting Club,,,,,52,6.52,0,36.36,0
+2015,bangladesh,Taijul Islam,401057,7 February 1992,Prime Bank Cricket Club,,,,,1,,,2.75,0
+2015,bangladesh,Imrul Kayes,280734,2 February 1987,Victoria Sporting Club,,,,,53,26.73,1,,
+2015,bangladesh,Mahmudullah Riyad,56025,4 February 1986,Prime Bank Cricket Club,,,,,110,32.16,0,42.14,0
+2015,bangladesh,Mushfiqur Rahim,56029,1 September 1988,Prime Doleshwar Sporting Club,wk,,,,140,28.92,2,,
+2015,bangladesh,Sabbir Rahman,373538,22 November 1991,Kalabagan Cricket Academy,,,,,5,27.66,0,,0
+2015,bangladesh,Soumya Sarkar,436677,25 February 1993,Prime Bank Cricket Club,,,,,1,20,0,,
+2015,bangladesh,Arafat Sunny,56268,29 September 1986,Sheikh Jamal Dhanmondi Club,,,,,8,5,0,17.81,0
+2015,england,Eoin Morgan,24598,10 September 1986,Middlesex,c,,,,134,36.64,7,,
+2015,england,Jos Buttler,308967,8 September 1990,Lancashire,vc/wk,,,,48,32.05,1,,
+2015,england,Moeen Ali,8917,18 June 1987,Worcestershire,,,,,16,32.12,1,37.18,0
+2015,england,James Anderson,8608,30 July 1982,Lancashire,,,,,187,7.61,0,28.92,2
+2015,england,Gary Ballance,232438,22 November 1989,Yorkshire,,,,,12,26.1,0,,
+2015,england,Ian Bell,9062,11 April 1982,Warwickshire,,,,,154,37.56,4,14.66,0
+2015,england,Ravi Bopara,10582,4 May 1985,Essex,,,,,118,30.59,1,39.26,0
+2015,england,Stuart Broad,10617,24 June 1986,Nottinghamshire,,,,,112,12.78,0,29.21,1
+2015,england,Steven Finn,210283,4 April 1989,Middlesex,,,,,51,9.63,0,28.09,1
+2015,england,Alex Hales,249866,3 January 1989,Nottinghamshire,,,,,7,18,0,,
+2015,england,Chris Jordan,288992,4 October 1988,Sussex,,,,,20,13.2,0,30.09,1
+2015,england,Joe Root,303669,30 December 1990,Yorkshire,,,,,47,40.38,3,63.18,0
+2015,england,James Taylor,297635,6 January 1990,Nottinghamshire,,,,,10,37.66,0,,
+2015,england,James Tredwell,21646,27 February 1982,Kent,,,,,44,11.64,0,27.81,0
+2015,england,Chris Woakes,247235,2 March 1989,Warwickshire,,,,,28,18.23,0,30.64,2
+2015,new_zealand,Brendon McCullum,37737,27 September 1981,Otago,c,,,,239,30.27,5,,
+2015,new_zealand,Kane Williamson,277906,8 August 1990,Northern Districts,vc,,,,64,45,5,34.2,0
+2015,new_zealand,Corey Anderson,277662,13 December 1990,Northern Districts,,,,,26,36.15,1,27.97,1
+2015,new_zealand,Trent Boult,277912,22 July 1989,Northern Districts,,,,,15,13,0,34.94,0
+2015,new_zealand,Grant Elliott,44956,21 March 1979,Wellington,,,,,57,34.35,2,26.72,0
+2015,new_zealand,Martin Guptill,226492,30 September 1986,Auckland,,,,,98,36.65,5,39,0
+2015,new_zealand,Matt Henry,506612,14 December 1991,Canterbury,,,,,8,21,0,15.42,1
+2015,new_zealand,Tom Latham,388802,2 April 1992,Canterbury,wk,,,,26,23.9,0,,
+2015,new_zealand,Mitchell McClenaghan,319439,11 June 1986,Auckland,,,,,34,29.5,0,24.83,1
+2015,new_zealand,Nathan McCullum,37749,1 September 1980,Otago,,,,,77,20.83,0,48.96,0
+2015,new_zealand,Kyle Mills,37740,15 March 1979,Auckland,,,,,170,15.62,0,27.02,1
+2015,new_zealand,Luke Ronchi,7502,23 April 1981,Wellington,wk,,,,39,36.48,1,,
+2015,new_zealand,Tim Southee,232364,11 December 1988,Northern Districts,,,,,84,10.29,0,31.05,1
+2015,new_zealand,Ross Taylor,38699,8 March 1984,Central Districts,,,,,149,41.11,11,,0
+2015,new_zealand,Daniel Vettori,38710,27 January 1979,Northern Districts,,,,,285,17.21,0,32.26,2
+2015,scotland,Preston Mommsen,461281,14 October 1987,Carlton Highlanders,c,,,,30,29.28,1,21.66,0
+2015,scotland,Kyle Coetzer,25446,14 April 1984,Northamptonshire,vc,,,,20,39.88,1,145,0
+2015,scotland,Richie Berrington,25490,4 March 1987,Clydesdale Reivers,,,,,39,26.22,1,43.68,0
+2015,scotland,Freddie Coleman,364329,15 December 1991,Warwickshire,,,,,13,12.18,0,,
+2015,scotland,Matthew Cross,417268,15 October 1992,Nottinghamshire,wk,,,,11,14,0,,
+2015,scotland,Josh Davey,407265,3 August 1990,Somerset,,,,,18,28.69,0,18.96,2
+2015,scotland,Alasdair Evans,399259,12 January 1989,Carlton Highlanders,,,,,8,32,0,43.8,0
+2015,scotland,Hamish Gardiner,638713,4 January 1991,Carlton Highlanders,,,,,8,29.75,0,,
+2015,scotland,Michael Leask,414966,29 October 1990,Northamptonshire,,,,,8,22,0,78,0
+2015,scotland,Matt Machan,297488,15 February 1991,Sussex,,,,,16,36.53,1,35.25,0
+2015,scotland,Calum MacLeod,232435,15 November 1988,Durham,,,,,27,28.9,2,40.5,0
+2015,scotland,Safyaan Sharif,414970,24 May 1991,Reivers,,,,,12,20.25,0,33.06,0
+2015,scotland,Robert Taylor,353431,21 December 1989,Leicestershire,,,,,11,18.42,0,29.81,0
+2015,scotland,Iain Wardlaw,509107,29 June 1985,Yorkshire,,,,,17,5,0,24.2,0
+2015,sri_lanka,Angelo Mathews,49764,2 June 1987,Colts,c,,,,149,40.31,1,34.79,1
+2015,sri_lanka,Lahiru Thirimanne,301236,8 September 1989,Ragama,vc,,,,87,31.71,3,31.33,0
+2015,sri_lanka,Dushmantha Chameera,552152,11 January 1992,Nondescripts,,,,,1,,,30,0
+2015,sri_lanka,Tillakaratne Dilshan,48472,14 October 1976,Bloomfield,,,,,307,39,20,44.41,0
+2015,sri_lanka,Mahela Jayawardene,49289,27 May 1977,Sinhalese,,,,,441,33.48,18,70.37,0
+2015,sri_lanka,Tharindu Kaushal,465797,5 March 1993,Nondescripts,,,,,,,,,
+2015,sri_lanka,Nuwan Kulasekara,49535,22 July 1982,Colts,,,,,165,15.15,0,34.23,1
+2015,sri_lanka,Suranga Lakmal,49619,10 March 1987,Tamil Union,,,,,31,2,0,30.06,0
+2015,sri_lanka,Lasith Malinga,49758,28 August 1983,Nondescripts,,,,,177,7.24,0,27.21,7
+2015,sri_lanka,Kusal Perera,300631,17 August 1990,Colts,,,,,41,23.3,1,,
+2015,sri_lanka,Thisara Perera,233514,3 April 1989,Sinhalese,,,,,98,17.59,0,30.11,3
+2015,sri_lanka,Seekkuge Prasanna,268740,27 June 1985,Sri Lanka Army,,,,,22,10.64,0,42.85,0
+2015,sri_lanka,Kumar Sangakkara,50710,27 October 1977,Nondescripts,wk,,,,397,40.99,21,,
+2015,sri_lanka,Sachithra Senanayake,273439,9 February 1985,Sinhalese,,,,,44,14.52,0,34.77,0
+2015,sri_lanka,Upul Tharanga,50747,2 February 1985,Nondescripts,,,,,176,33.57,13,,
+2015,india,Mahendra Singh Dhoni,28081,7 July 1981,Jharkhand,c/wk,,,,254,52.29,9,31,0
+2015,india,Virat Kohli,253802,5 November 1988,Delhi,vc,,,,150,51.5,21,145.5,0
+2015,india,Ravichandran Ashwin,26421,17 September 1986,Tamil Nadu,,,,,88,17.3,0,32.64,0
+2015,india,Stuart Binny,27223,3 June 1984,Karnataka,,,,,9,18.2,0,14.15,1
+2015,india,Shikhar Dhawan,28235,5 December 1985,Delhi,,,,,53,42.75,6,,
+2015,india,Ravindra Jadeja,234675,6 December 1988,Saurashtra,,,,,111,33.92,0,32.76,1
+2015,india,Bhuvneshwar Kumar,326016,5 February 1990,Uttar Pradesh,,,,,44,9.47,0,37.15,0
+2015,india,Akshar Patel,554691,20 January 1994,Gujarat,,,,,13,8.2,0,25,0
+2015,india,Ajinkya Rahane,277916,5 June 1988,Mumbai,,,,,46,30.57,2,,
+2015,india,Suresh Raina,33335,27 November 1986,Uttar Pradesh,,,,,207,35.44,4,49,0
+2015,india,Ambati Rayudu,33141,23 September 1985,Baroda,wk,,,,27,41.27,1,53,0
+2015,india,Mohammed Shami,481896,9 March 1990,Bengal,,,,,40,10.1,0,26.74,0
+2015,india,Mohit Sharma,537119,18 September 1988,Haryana,,,,,12,10,0,40.5,0
+2015,india,Rohit Sharma,34102,30 April 1987,Mumbai,,,,,127,38.9,6,60.37,0
+2015,ireland,William Porterfield,24611,6 September 1984,Warwickshire,c,,,,73,30.97,6,,
+2015,ireland,Andrew Balbirnie,303423,28 December 1990,Leinster,,,,,11,17.44,0,34,0
+2015,ireland,Peter Chase,524845,9 October 1993,Durham,,,,,1,,,,
+2015,ireland,Alex Cusack,293983,29 October 1980,Leinster,,,,,54,22.68,0,23.89,1
+2015,ireland,George Dockrell,348034,22 July 1992,Somerset,,,,,42,12.11,0,27.78,0
+2015,ireland,Ed Joyce,24249,22 September 1978,Sussex,,,,,45,33.02,2,,
+2015,ireland,Andrew McBrine,417381,30 April 1993,North West,,,,,3,,,42,0
+2015,ireland,John Mooney,24237,10 February 1982,Leinster,,,,,54,25.71,0,30.36,0
+2015,ireland,Kevin O'Brien,24605,4 March 1984,Leinster,,,,,84,33.5,2,28.3,0
+2015,ireland,Niall O'Brien,24289,8 November 1981,Leicestershire,wk,,,,64,29.44,0,,
+2015,ireland,Max Sorensen,531953,18 November 1985,Leinster,,,,,9,24.25,0,22.58,0
+2015,ireland,Paul Stirling,303427,7 September 1990,Middlesex,,,,,51,35.22,5,37.22,0
+2015,ireland,Stuart Thompson,414821,15 August 1991,North West,,,,,7,32.5,0,14.5,0
+2015,ireland,Gary Wilson,24609,5 February 1986,Surrey,wk,,,,52,25.08,1,,
+2015,ireland,Craig Young,364343,4 April 1990,North West,,,,,6,16,0,14.06,1
+2015,pakistan,MisbahulHaq Niazi,41378,28 May 1974,Khan Research Laboratories,c,,,,154,42.97,0,,0
+2015,pakistan,Shahid Afridi,42639,1 March 1980,Habib Bank Limited,vc,,,,390,23.62,6,33.91,9
+2015,pakistan,Ehsan Adil,547092,15 March 1993,Habib Bank Limited,,,,,3,11,0,93,0
+2015,pakistan,Sarfraz Ahmed,227760,22 May 1987,Pakistan International Airlines,wk,,,,35,24.21,0,,
+2015,pakistan,Umar Akmal,317273,26 May 1990,Sui Northern Gas Pipelines Limited,wk,,,,103,35.64,2,,
+2015,pakistan,Rahat Ali,323244,12 September 1988,Khan Research Laboratories Baluchistan Warriors,,,,,1,,0,,0
+2015,pakistan,Mohammad Irfan,429981,6 June 1982,Khan Research Laboratories,,,,,39,4.44,0,30.07,0
+2015,pakistan,Nasir Jamshed,42321,6 December 1989,National Bank of Pakistan,,,,,45,33.64,3,,
+2015,pakistan,Sohail Khan,317252,6 March 1984,Sindh,,,,,5,4,0,33.16,0
+2015,pakistan,Younis Khan,43652,29 November 1977,Habib Bank Limited,,,,,260,31.65,7,90.33,0
+2015,pakistan,Sohaib Maqsood,43266,15 April 1987,Baluchistan Warriors,,,,,18,35.75,0,,0
+2015,pakistan,Wahab Riaz,43590,28 June 1985,Punjab Badshahs,,,,,47,12.07,0,32.09,1
+2015,pakistan,Yasir Shah,43685,2 May 1986,Khyber Pakhtunkhwa Fighters,,,,,1,,,25.5,0
+2015,pakistan,Ahmed Shehzad,259410,23 November 1991,Habib Bank Limited,,,,,57,34.46,6,111,0
+2015,pakistan,Haris Sohail,318788,9 January 1989,Zarai Taraqiati Bank,,,,,10,37.87,0,38.83,0
+2015,south_africa,AB de Villiers,44936,17 February 1984,Titans,c/wk,,,,179,52.16,19,35,0
+2015,south_africa,Hashim Amla,43906,31 March 1983,Cape Cobras,vc,,,,107,56.41,19,,
+2015,south_africa,Kyle Abbott,297583,18 June 1987,Dolphins,,,,,11,11.66,0,56,0
+2015,south_africa,Farhaan Behardien,44410,9 October 1983,Titans,,,,,21,21.2,0,28.83,0
+2015,south_africa,Quinton de Kock,379143,17 December 1992,Lions,wk,,,,36,42.45,6,,
+2015,south_africa,Faf du Plessis,44828,13 July 1984,Titans,,,,,67,33.84,3,71,0
+2015,south_africa,JP Duminy,44932,14 April 1984,Cape Cobras,,,,,134,39.18,3,40.78,0
+2015,south_africa,David Miller,321777,10 June 1989,Dolphins,,,,,63,34.55,1,,
+2015,south_africa,Morné Morkel,46538,6 October 1984,Titans,,,,,91,8.73,0,24.69,2
+2015,south_africa,Wayne Parnell,265564,30 July 1989,Warriors,,,,,45,22.25,0,29.25,2
+2015,south_africa,Aaron Phangiso,46942,21 January 1984,Lions,,,,,14,7.5,0,38.2,0
+2015,south_africa,Vernon Philander,46945,24 June 1985,Cape Cobras,,,,,24,10.09,0,22.25,0
+2015,south_africa,Rilee Rossouw,318845,9 October 1989,Knights,,,,,14,29.71,2,17,0
+2015,south_africa,Dale Steyn,47492,27 June 1983,Cape Cobras,,,,,96,8.06,0,25.14,3
+2015,south_africa,Imran Tahir,40618,27 March 1979,Dolphins,,,,,30,13,0,20.23,0
+2015,uae,Mohammad Tauqir,25601,14 January 1972,None,c,,,,5,21.75,0,38,0
+2015,uae,Khurram Khan,25589,21 June 1971,None,vc,,,,10,53.37,1,31.66,0
+2015,uae,Fahad Al Hashmi,220521,31 July 1982,Rufi Properties Calicut Zamorins,,,,,4,0,0,26.16,0
+2015,uae,Amjad Ali,39745,25 September 1979,United Bank Limited,wk,,,,9,43.55,0,,
+2015,uae,Shaiman Anwar,43121,15 March 1979,Thrissur Dynamites,,,,,7,21.5,0,,
+2015,uae,Nasir Aziz,447290,16 June 1986,Alubond Tigers,,,,,1,,,50,0
+2015,uae,Andri Berenger,384817,29 August 1991,Danube Lions,,,,,4,38,0,,
+2015,uae,Krishna Chandran,290645,24 August 1984,Dunes Cuisine Kannur Veerans,,,,,6,40.5,0,34.33,0
+2015,uae,Manjula Guruge,49013,14 February 1981,NMC,,,,,3,,0,40.2,0
+2015,uae,Saqlain Haider,779973,10 August 1987,United Bank Limited,wk,,,,2,28,0,,
+2015,uae,Amjad Javed,25613,5 July 1980,Dunes Cuisine Kannur Veerans,,,,,3,5.5,0,62.5,0
+2015,uae,Rohan Mustafa,307808,7 October 1988,Danube Lions,,,,,3,17,0,17.6,0
+2015,uae,Mohammad Naveed,533862,3 June 1987,None,,,,,6,26,0,58.4,0
+2015,uae,Swapnil Patil,447458,15 April 1985,Yogi Group,wk,,,,5,35.66,0,,
+2015,uae,Kamran Shahzad,41115,15 April 1984,Al Fara'a CC,,,,,,,,,
+2015,west_indies,Jason Holder,391485,5 November 1991,Barbados,c,,,,26,14.72,0,30.21,0
+2015,west_indies,Marlon Samuels,52983,5 February 1981,Jamaica,vc,,,,167,33.09,7,45.37,0
+2015,west_indies,Sulieman Benn,51248,22 July 1981,Barbados,,,,,31,8.53,0,35.87,0
+2015,west_indies,Jonathan Carter,314615,16 November 1987,Barbados,,,,,5,16,0,,
+2015,west_indies,Johnson Charles,333066,14 January 1989,Windward Islands,,,,,30,28.96,2,,
+2015,west_indies,Sheldon Cottrell,495551,19 August 1989,Jamaica,,,,,2,,0,53.5,0
+2015,west_indies,Chris Gayle,51880,21 September 1979,Jamaica,,,,,263,36.85,21,35.7,1
+2015,west_indies,Nikita Miller,52622,5 June 1982,Jamaica,,,,,45,18.85,0,36.52,0
+2015,west_indies,Denesh Ramdin,52917,13 March 1985,Trinidad and Tobago,wk,,,,120,25.05,2,,
+2015,west_indies,Kemar Roach,230553,30 June 1988,Barbados,,,,,64,13.5,0,26.85,3
+2015,west_indies,Andre Russell,276298,29 April 1988,Jamaica,,,,,43,28.96,0,32.16,0
+2015,west_indies,Darren Sammy,53115,20 December 1983,Windward Islands,,,,,119,24.2,0,45.98,0
+2015,west_indies,Lendl Simmons,53116,25 January 1985,Trinidad and Tobago,,,,,61,31.31,1,160,0
+2015,west_indies,Dwayne Smith,53118,12 April 1983,Barbados,,,,,99,18.8,0,37.63,1
+2015,west_indies,Jerome Taylor,53191,22 June 1984,Jamaica,,,,,72,8.03,0,28.14,1
+2015,zimbabwe,Elton Chigumbura,55343,14 March 1986,Mashonaland Eagles,c,,,,169,24.92,0,42.01,0
+2015,zimbabwe,Brendan Taylor,55814,6 February 1986,Mid West Rhinos,wk,,,,161,33.27,6,45.11,0
+2015,zimbabwe,Regis Chakabva,293831,20 September 1987,Mashonaland Eagles,wk,,,,24,16.19,0,,
+2015,zimbabwe,Tendai Chatara,425639,28 February 1991,Mountaineers,,,,,21,15.2,0,34.33,0
+2015,zimbabwe,Chamu Chibhabha,55354,6 September 1986,Mashonaland Eagles,,,,,63,21.16,0,54.95,0
+2015,zimbabwe,Craig Ervine,55412,19 August 1985,Matabeleland Tuskers,,,,,25,35.1,0,,
+2015,zimbabwe,Tafadzwa Kamungozi,235521,8 June 1987,Mid West Rhinos,,,,,11,4.2,0,38.54,0
+2015,zimbabwe,Hamilton Masakadza,55608,9 August 1983,Mountaineers,,,,,144,28.29,3,37.88,0
+2015,zimbabwe,Stuart Matsikenyeri,55612,3 May 1983,Mountaineers,,,,,112,22.05,0,48.62,0
+2015,zimbabwe,Solomon Mire,290462,21 August 1989,Mid West Rhinos,,,,,5,26.8,0,30.66,0
+2015,zimbabwe,Tawanda Mupariwa,55652,16 April 1985,Matabeleland Tuskers,,,,,35,8.68,0,26.29,0
+2015,zimbabwe,Tinashe Panyangara,55705,21 August 1985,Mid West Rhinos,,,,,38,5.6,0,42.68,0
+2015,zimbabwe,Sikandar Raza,299572,24 April 1986,Mashonaland Eagles,,,,,21,28.9,1,47.66,0
+2015,zimbabwe,Prosper Utseya,55820,26 March 1985,Mashonaland Eagles,,,,,160,16.89,0,46.5,1
+2015,zimbabwe,Sean Williams,55870,26 September 1986,Matabeleland Tuskers,,,,,69,31.26,0,56.95,0
+2019,afghanistan,Asghar Afghan,320652,22 December 1987,,c,,,,94,21.79,1,30.33,0
+2019,afghanistan,Mohammad Shahzad,419873,31 January 1988,Peshawar Paktia,wk,,,,76,34.35,5,,
+2019,afghanistan,Javed Ahmadi,308235,2 January 1992,,,,,,40,25,0,36.75,0
+2019,afghanistan,Rahmat Shah,533956,6 July 1993,Mis Ainak Region,,,,,53,36.44,3,33.33,1
+2019,afghanistan,Hashmatullah Shahidi,440970,16 March 1991,BandeAmir Dragons,,,,,25,33.75,0,,0
+2019,afghanistan,Gulbadin Naib,352048,16 March 1991,Sylhet Sixers,,,,,49,22.93,0,35.64,0
+2019,afghanistan,Mohammad Nabi,25913,1 January 1985,Balkh Legends,,,,,106,28.98,1,31.44,0
+2019,afghanistan,Najibullah Zadran,524049,28 February 1993,Kandahar,,,,,50,26.92,0,,0
+2019,afghanistan,Rashid Khan,42421,20 September 1998,Durban Heat,,,,,29,13.75,0,46.15,0
+2019,afghanistan,Aftab Alam,440963,30 November 1992,Speen Ghar Tigers,,,,,20,15.25,0,28.59,0
+2019,afghanistan,Mujeeb Ur Rahman,974109,28 March 2001,Brisbane Heat,,,,,23,6.66,0,19.06,1
+2019,afghanistan,Ihsanullah,703323,28 September 1997,Boost Region,,,,,16,21.92,0,,
+2019,afghanistan,Munir Ahmad,633399,1 February 1996,Amo Region,,,,,,,,,
+2019,afghanistan,Samiullah Shenwari,318339,3 February 1987,Paktia,,,,,79,29.37,0,37.22,0
+2019,afghanistan,Sayed Shirzad,524050,1 October 1994,Afghan Cheetahs,,,,,,,,,
+2019,afghanistan,Wafadar Momand,973945,1 February 2000,BandeAmir Dragons,,,,,,,,,
+2019,australia,Tim Paine,7252,8 December 1984,Hobart Hurricanes,c/wk,,,,35,27.81,1,,
+2019,australia,Aaron Finch,5334,17 November 1986,Kings XI Punjab,,,,,96,37.56,11,68.5,0
+2019,australia,Travis Head,530011,29 December 1993,Worcestershire,,,,,42,34.4,1,61.41,0
+2019,australia,Marcus Stoinis,325012,16 August 1989,Kent,,,,,21,42.41,1,43.38,0
+2019,australia,Shaun Marsh,6683,9 July 1983,Yorkshire,,,,,60,40.56,6,,
+2019,australia,Alex Carey,326434,27 August 1991,Adelaide Strikers,wk,,,,6,33.16,0,,
+2019,australia,D'Arcy Short,308798,9 August 1990,Rajasthan Royals,,,,,4,27.66,0,,0
+2019,australia,Ashton Agar,505120,14 October 1993,Middlesex,,,,,9,20.57,0,51.75,0
+2019,australia,Kane Richardson,272262,12 February 1991,Bowler,,,,,18,9,0,31.62,1
+2019,australia,Nathan Lyon,272279,20 November 1987,Worcestershire,,,,,15,16.66,0,36.77,0
+2019,australia,Billy Stanlake,533042,4 November 1994,Sunrisers Hyderabad,,,,,6,2,0,39.28,0
+2019,australia,Glenn Maxwell,325026,14 October 1988,Delhi Daredevils,,,,,87,32.02,1,40.97,0
+2019,australia,Michael Neser,376169,29 March 1990,Kings XI Punjab,,,,,2,4,0,60,0
+2019,australia,Jhye Richardson,774223,20 September 1996,"Perth Scorchers,Western Australia",,,,,4,10.5,0,38.71,0
+2019,australia,Andrew Tye,459508,12 December 1986,Kings XI Punjab,,,,,7,14.25,0,32.66,1
+2019,australia,Josh Hazlewood,288284,8 January 1991,"Sydney Sixers,New South Wales",,,,,44,18.5,0,25.15,3
+2019,bangladesh,Mashrafe Mortaza,56007,5 October 1983,"Khulna Division,Rangpur Riders",c,,,,199,14,0,31.65,1
+2019,bangladesh,Mushfiqur Rahim,56029,9 June 1987,Nangarhar Leopards,wk,,,,195,34.29,6,,
+2019,bangladesh,Liton Das,536936,13 October 1994,"Rangpur Division,Comilla Victorians",wk,,,,21,21.65,1,,
+2019,bangladesh,Imrul Kayes,280734,2 February 1987,"Khulna Division,Comilla Victorians",,,,,76,32.83,4,,
+2019,bangladesh,Soumya Sarkar,436677,25 February 1993,Kandahar Knights,,,,,35,36.03,2,105,0
+2019,bangladesh,Mohammad Mithun,269237,13 February 1990,Rangpur Riders,,,,,12,26.77,0,,
+2019,bangladesh,Mahmudullah,56025,4 February 1986,"Dhaka Division,Quetta Gladiators",,,,,165,33.89,3,45.26,0
+2019,bangladesh,Ariful Haque,270135,18 November 1992,Barisal Division,,,,,1,,,,0
+2019,bangladesh,Mohammad Saifuddin,629070,1 November 1996,,,,,,6,26.66,0,40,0
+2019,bangladesh,Abu Hider,56691,14 February 1996,,,,,,,,,,
+2019,bangladesh,Nazmul Islam,446810,21 March 1991,"Dhaka Division,Rangpur Riders",,,,,5,7,0,44.8,0
+2019,bangladesh,Fazle Mahmud,55893,30 December 1987,,,,,,2,0,0,,0
+2019,bangladesh,Mehidy Hasan,629063,25 October 1997,Khulna Division,,,,,19,18.36,0,38.16,0
+2019,bangladesh,Mustafizur Rahman,330902,6 September 1995,Rajshahi Kings,,,,,37,10.4,0,20.14,3
+2019,bangladesh,Nazmul Hossain Shanto,56056,5 October 1987,"Sylhet Division,Sylhet Royals",,,,,38,4.37,0,31.5,0
+2019,bangladesh,Rubel Hossain,300619,1 January 1990,Chittagong Division,,,,,93,4.8,0,32.51,1
+2019,england,Jos Buttler,308967,8 September 1990,Lancashire,c/wk,,,,122,39.7,6,,
+2019,england,Jason Roy,56831,21 July 1990,Surrey,,,,,,,,,
+2019,england,Alex Hales,249866,3 January 1989,Nottinghamshire,,,,,67,37.32,6,,
+2019,england,Joe Root,303669,30 December 1990,Yorkshire,,,,,121,51.52,13,64.95,0
+2019,england,Ben Stokes,311158,4 June 1991,Durham,,,,,75,36.35,3,41.13,1
+2019,england,Moeen Ali,8917,18 June 1987,Worcestershire,,,,,87,26.57,3,44.88,0
+2019,england,Sam Curran,662973,3 June 1998,Surrey,,,,,2,8.5,0,45,0
+2019,england,Adil Rashid,244497,17 February 1988,Yorkshire,,,,,78,20.56,0,30.42,1
+2019,england,Liam Plunkett,19264,6 April 1985,Surrey,,,,,74,20.06,0,29.77,1
+2019,england,Tom Curran,550235,12 March 1995,Surrey,,,,,11,71,0,28.61,1
+2019,england,Mark Wood,351588,11 January 1990,Durham,,,,,35,8.8,0,48.5,0
+2019,england,Eoin Morgan,24598,10 September 1986,Middlesex,,,,,212,38.57,11,,
+2019,england,Jonny Bairstow,297433,26 September 1989,Yorkshire,,,,,54,48.02,6,,
+2019,england,Joe Denly,12454,16 March 1986,Kent,,,,,9,29.77,0,,
+2019,england,Olly Stone,457279,9 October 1993,Warwickshire,,,,,4,,0,97,0
+2019,england,Chris Woakes,247235,2 March 1989,Warwickshire,,,,,80,27.34,0,30.64,2
+2019,england,Liam Dawson,211855,1 March 1990,Hampshire,,,,,3,7,0,32,0
+2019,india,Virat Kohli,253802,5 November 1988,"Delhi,RCB",c,,,,216,59.83,38,166.25,0
+2019,india,MS Dhoni,28081,7 July 1981,"Jharkhand,CSK",wk,,,,332,50.11,10,31,0
+2019,india,Rohit Sharma,34102,30 April 1987,Mumbai Indians,,,,,193,47.78,21,64.37,0
+2019,india,Shikhar Dhawan,28235,5 December 1985,Delhi,,,,,115,45.69,15,,
+2019,india,Ambati Rayudu,33141,23 September 1985,"Hyderabad,CSK",,,,,45,51.67,3,37,0
+2019,india,Rishabh Pant,931581,4 October 1997,"Delhi,Delhi Capitals",,,,,3,20.5,0,,
+2019,india,Bhuvneshwar Kumar,326016,5 February 1990,"Sunrisers Hyderabad,UP",,,,,95,14.66,0,38.22,1
+2019,india,Kuldeep Yadav,559235,14 December 1994,"Uttar Pradesh,KKR",,,,,33,20,0,20.07,1
+2019,india,Yuzvendra Chahal,430246,23 July 1990,"Haryana,RCB",,,,,34,5.33,0,25.55,1
+2019,india,Khaleel Ahmed,942645,5 December 1997,Rajasthan,,,,,6,4,0,24,0
+2019,india,Jasprit Bumrah,625383,6 December 1993,"Gujarat,Mumbai Indians",,,,,44,2.75,0,21.01,1
+2019,india,Shreyas Iyer,642519,6 December 1994,"Mumbai,Delhi Capitals",,,,,6,42,0,,0
+2019,india,Dinesh Karthik,30045,1 June 1985,"Tamil Nadu,KKR",wk,,,,86,30.79,0,,
+2019,india,Siddarth Kaul,326017,19 May 1990,"Punjab,Sunrisers Hyderabad",,,,,3,0.5,0,,0
+2019,india,Hardik Pandya,625371,11 October 1993,"Baroda,Mumbai Indians",,,,,42,29.13,0,40.95,0
+2019,india,Axar Patel,554691,20 January 1994,"Gujarat,Kings XI Punjab",,,,,38,12.92,0,31.31,0
+2019,india,Lokesh Rahul,422108,18 April 1992,"Karnataka,Kings XI Punjab",,,,,13,35.22,1,,
+2019,india,Suresh Raina,33335,27 November 1986,"Uttar Pradesh,CSK",,,,,226,35.31,5,50.3,0
+2019,india,Shardul Thakur,475281,16 October 1991,CSK,,,,,5,22,0,36.33,0
+2019,india,Umesh Yadav,376116,25 October 1987,"Vidarbha,RCB",,,,,75,7.9,0,33.63,0
+2019,new_zealand,Kane Williamson,277906,8 August 1990,Northern Districts,c,,,,129,46.28,11,34.68,0
+2019,new_zealand,Tom Latham,388802,2 April 1992,Durham,wk,,,,77,33.37,4,,
+2019,new_zealand,Martin Guptill,226492,30 September 1986,Auckland,,,,,159,42.99,13,24.5,0
+2019,new_zealand,Colin Munro,232359,11 March 1987,Auckland,,,,,43,24.92,0,57.28,0
+2019,new_zealand,Mark Chapman,438563,27 June 1994,Auckland,,,,,5,40,1,,
+2019,new_zealand,Henry Nicholls,539511,15 November 1991,Canterbury,,,,,30,32.15,0,,
+2019,new_zealand,Colin de Grandhomme,55395,22 July 1986,Aukland,,,,,22,30.15,0,50.07,0
+2019,new_zealand,Mitchell Santner,502714,5 February 1992,,,,,,53,28.55,0,33.91,1
+2019,new_zealand,Tim Southee,232364,11 December 1988,Northern Districts,,,,,135,12.43,0,34.39,2
+2019,new_zealand,Ish Sodhi,559066,31 October 1992,Northern Districts,,,,,25,6.25,0,37.12,0
+2019,new_zealand,Trent Boult,277912,22 July 1989,Northern Districts,,,,,69,10.83,0,25.39,4
+2019,new_zealand,Todd Astle,213674,24 September 1986,,,,,,6,34.5,0,21.42,0
+2019,new_zealand,Lockie Ferguson,493773,13 June 1991,Auckland,,,,,19,8.8,0,27.78,1
+2019,new_zealand,Matt Henry,506612,14 December 1991,Canterbury,,,,,36,18.88,0,25.01,2
+2019,new_zealand,Ross Taylor,38699,8 March 1984,Central Districts,,,,,207,47.04,19,,0
+2019,pakistan,Sarfraz Ahmed,227760,22 May 1987,Pakistan International Airlines,c/wk,,,,98,33.22,2,,0
+2019,pakistan,Fakhar Zaman,512191,10 April 1990,"Lahore Qalandars,Baluchistan",,,,,26,57.95,3,80,0
+2019,pakistan,ImamulHaq,568276,12 December 1995,,,,,,16,63,4,,
+2019,pakistan,Babar Azam,348144,15 October 1994,"Zarai Taraqiati Bank Ltd,Karachi Kings",,,,,54,51.52,8,,
+2019,pakistan,Shoaib Malik,42657,1 February 1982,Multan Sultans,,,,,274,35.35,9,39.11,0
+2019,pakistan,Shadab Khan,922943,4 October 1998,Islamabad United,,,,,29,29.87,0,25.02,0
+2019,pakistan,Asif Ali,494230,1 October 1991,"Islamabad United,Faisalabad",,,,,11,28.57,0,,
+2019,pakistan,Mohammad Nawaz,348148,21 March 1994,"National Bank of Pakistan,Quetta Gladiators",,,,,14,22.11,0,36.43,0
+2019,pakistan,Hasan Ali,681305,2 July 1994,Peshawar Zalmi,,,,,41,10.21,0,23.41,3
+2019,pakistan,Shaheen Afridi,1072470,6 April 2000,"Khan Research Laboratories,Dhaka Dynamites,Lahore Qalandars",,,,,6,14,0,17.61,0
+2019,pakistan,Junaid Khan,259551,24 December 1989,Khulna Titans,,,,,71,4.84,0,27.84,0
+2019,pakistan,Faheem Ashraf,681117,16 January 1994,Islamabad United,,,,,16,13,0,22.72,1
+2019,pakistan,Haris Sohail,318788,9 January 1989,"Sialkot Stallions,Peshawar Zalmi",,,,,26,43.63,0,50.3,0
+2019,pakistan,Mohammad Amir,290948,13 April 1992,Karachi Kings,,,,,46,20.35,0,31.2,0
+2019,south_africa,Faf du Plessis,44828,13 July 1984,"Paarl Rocks,Northerns,Titans",c,,,,124,45.12,10,94.5,0
+2019,south_africa,Quinton de Kock,379143,17 December 1992,"Titans,Cape Town Blitz",wk,,,,98,44.44,13,,
+2019,south_africa,JP Duminy,44932,14 April 1984,Cape Cobras,,,,,192,37.15,4,45.44,0
+2019,south_africa,Heinrich Klassen,436757,30 July 1991,"Durban Heat,Northerns,Titans",,,,,12,25.1,0,,
+2019,south_africa,David Miller,321777,10 June 1989,"Glamorgan,Dolphins,Durban Heat",,,,,112,38.61,5,,
+2019,south_africa,Andile Phehlukwayo,540316,3 March 1996,"Dolphins,Cape Town Blitz",,,,,34,26.9,0,30.81,0
+2019,south_africa,Dane Paterson,327947,4 April 1989,"Western Province,Cape Cobras",,,,,3,,,45,0
+2019,south_africa,Lungi Ngidi,542023,29 March 1996,"Northerns,Titans",,,,,13,34,0,23.03,0
+2019,south_africa,Tabraiz Shamsi,379145,18 February 1990,"Easterns,Titans,RCB",,,,,11,0,0,37.53,0
+2019,south_africa,AB de Villiers,44936,17 February 1984,"Northerns,Titans,Tshwane Spartans",wk,,,,228,53.5,25,28.85,0
+2019,south_africa,Hashim Amla,43906,31 March 1983,"Cape Cobras,Durban Heat",,,,,169,49.65,26,,
+2019,south_africa,Farhaan Behardien,44410,9 October 1983,"Western Province,Titans,Cape Town Blitz",,,,,59,30.68,0,51.35,0
+2019,south_africa,Imran Tahir,40618,28 March 1979,Durham,,,,,91,8.23,0,24.33,3
+2019,south_africa,Kehav Maharaj,267724,7 February 1990,"KwaZulu-Natal,Dolphins,Durban Heat",,,,,4,12.5,0,27.66,0
+2019,south_africa,Morne Morkel,46538,6 October 1984,Surrey,,,,,117,9.24,0,25.32,2
+2019,south_africa,Chris Morris,439952,30 April 1987,"Titans,Delhi",,,,,34,19.65,0,40.42,0
+2019,south_africa,Wayne Parnell,265564,30 July 1989,Worcestershire,,,,,65,21.16,0,29.12,2
+2019,south_africa,Dwaine Pretorius,327830,29 March 1989,"Highveld Lions,Jozi Stars",,,,,14,16.83,0,25.18,0
+2019,south_africa,Kagiso Rabada,550215,25 May 1995,Lions,,,,,57,16.5,0,26.1,1
+2019,sri_lanka,Dinesh Chandimal,300628,18 November 1989,"Nondescripts Cricket Club,Ruhuna",c/wk,,,,144,32.89,4,,
+2019,sri_lanka,Niroshan Dickwella,429754,23 June 1993,Nondescripts Cricket Club,wk,,,,46,33.9,2,,
+2019,sri_lanka,Sadeera Samarawickrama,629076,30 August 1995,Colts,wk,,,,6,22,0,,
+2019,sri_lanka,Kusal Mendis,629074,2 February 1995,C.C.C,,,,,54,27.72,1,,0
+2019,sri_lanka,Dasun Shanaka,437316,9 September 1991,Sinhalese Sports Club,,,,,18,23.21,0,26.14,1
+2019,sri_lanka,Thisara Perera,233514,3 April 1989,Wayamba,,,,,145,19.44,0,30.61,4
+2019,sri_lanka,Dhananjaya de Silva,465793,6 September 1991,Tamil Union,,,,,27,26.52,0,42.9,0
+2019,sri_lanka,Akila Dananjaya,574178,4 October 1993,Wayamba United,,,,,30,15.33,0,26.93,2
+2019,sri_lanka,Lakshan Sandakan,429738,10 June 1991,"CCC,Saracens Sports Club,Southern Express CC",,,,,16,4,0,46.18,0
+2019,sri_lanka,Kasun Rajitha,499594,1 June 1993,Badureliya Sports Club,,,,,3,,,46,0
+2019,sri_lanka,Dushmantha Chameera,552152,11 January 1992,Nondescripts Cricket Club,,,,,22,15.33,0,39,0
+2019,sri_lanka,Ammila Aponso,429748,23 June 1993,"Sri Lanka Emerging Team,Ragama Cricket Club",,,,,9,3.33,0,37.7,0
+2019,sri_lanka,Nuwan Pradeep,324358,19 October 1986,,,,,,31,4.5,0,39.51,0
+2019,sri_lanka,Lasith Malinga,49758,28 August 1983,"Nondescripts,Southern Express",,,,,210,7.02,0,28.71,8
+2019,sri_lanka,Upul Tharanga,50747,2 February 1985,"Nondescripts Cricket Club,Ruhuna",,,,,232,34.16,15,,
+2019,west_indies,Jason Holder,391485,5 November 1991,"Barbados,Barbados Tridents",,,,,85,26.84,0,33.05,2
+2019,west_indies,Shai Hope,581379,10 November 1993,Barbados,,,,,41,40.14,2,,
+2019,west_indies,Kieran Powell,252932,6 March 1990,Leeward Islands,,,,,45,23.13,0,,
+2019,west_indies,Chandrapaul Hemraj,530811,3 September 1993,Guyana,,,,,4,17.5,0,,0
+2019,west_indies,Marlon Samuels,52983,5 February 1981,"Leeward Islands,St Kitts and Nevis Patriots,St Lucia Stars",,,,,204,33.14,10,46.08,0
+2019,west_indies,Shimron Hetmyer,670025,26 December 1996,"Guyana,Guyana Amazon Warriors",,,,,17,43.41,3,,
+2019,west_indies,Rovman Powell,820351,23 July 1993,"Jamaica,Jamaica Tallawahs",,,,,31,26.16,1,174,0
+2019,west_indies,Fabian Allen,670013,7 May 1995,"Jamaica,Jamaica Tallawahs,St Kitts and Nevis Patriots",,,,,3,6.33,0,,0
+2019,west_indies,Ashley Nurse,315594,22 December 1988,"Barbados,Montreal Tigers",,,,,40,16.72,0,39.7,0
+2019,west_indies,Kemar Roach,230553,30 June 1988,"Barbados,Antigua Hawksbills",,,,,77,14.1,0,28.51,3
+2019,west_indies,Obed McCoy,906783,4 January 1997,St Lucia Stars,,,,,2,,0,27.25,0
+2019,west_indies,Sunil Ambris,348054,23 March 1993,,,,,,1,,0,,
+2019,west_indies,Devendra Bishoo,341593,6 November 1985,Guyana,,,,,34,11.46,0,38.69,0
+2019,west_indies,Alzarri Joseph,670031,20 November 1996,"Leeward Islands,St Kitts and Nevis Patriots",,,,,16,34.66,0,34.08,1
+2019,west_indies,Keemo Paul,677081,21 February 1998,"Guyana,Guyana Amazon Warriors",,,,,8,9.8,0,50.71,0
+2019,west_indies,Oshan Thomas,914567,18 February 1997,"Jamaica,Jamaica Tallawahs",,,,,2,0,0,58,0
