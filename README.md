@@ -2,7 +2,7 @@
 An Econometric and Machine Learning Investigation: Examining Factors of Success in Cricket World Cups
 
 Files:
-Neil_Menghani_Final_Paper.docx : writeup of project
+Neil_Menghani_Final_Paper.pdf : writeup of project
 nlm2138_cricket.ipynb : code base for building and cleaning dataset, building models, and making predictions
 player_data.ipynb : code base for querying and scraping data
 data : file that contains all relevant data 
